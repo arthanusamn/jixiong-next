@@ -53,7 +53,7 @@ export default function Home() {
     },
   ]
 
-  const systemStatus = [
+  const systemStatus: Array<{name: string, status: 'online' | 'offline' | 'warning', details: string}> = [
     { name: 'Vercel Deployment', status: 'online', details: 'jixiong.vercel.app' },
     { name: 'GitHub Sync', status: 'online', details: 'arthanusamn/rocky-dashboard' },
     { name: 'Email System', status: 'online', details: 'AI Digest delivery active' },
