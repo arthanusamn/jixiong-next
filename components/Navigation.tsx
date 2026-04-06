@@ -11,6 +11,7 @@ const navItems = [
   { name: 'Projects', href: '/projects', icon: '🚀' },
   { name: 'Goals', href: '/goals', icon: '🎯' },
   { name: 'Rocky', href: '/rocky', icon: '🎵' },
+  { name: 'Actions', href: '/actions', icon: '⚡' },
 ]
 
 export default function Navigation() {
@@ -18,63 +19,76 @@ export default function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   return (
-    <nav className="bg-white/10 backdrop-blur-lg rounded-2xl p-4 shadow-xl">
-      <div className="flex items-center justify-between">
-        <div className="flex items-center space-x-4">
-          <div className="text-3xl">🎵</div>
-          <div>
-            <h1 className="text-2xl font-bold">Jixiong's Digital Hub</h1>
-            <p className="text-white/70 text-sm">Personal website for learning, projects & AI assistant</p>
+    <nav className="sticky top-6 z-50 mb-8">
+      <div className="card p-4">
+        <div className="flex items-center justify-between">
+          <div className="flex items-center space-x-4">
+            <div className="text-3xl animate-pulse">🎵</div>
+            <div>
+              <Link href="/" className="block">
+                <h1 className="text-2xl font-bold gradient-text">Jixiong</h1>
+                <p className="text-gray-400 text-sm mt-0.5">Digital Hub for Learning, Projects & AI</p>
+              </Link>
+            </div>
           </div>
+
+          {/* Desktop Navigation */}
+          <div className="hidden md:flex items-center space-x-1">
+            {navItems.map((item) => (
+              <Link
+                key={item.name}
+                href={item.href}
+                className={`flex items-center space-x-2 px-4 py-2.5 rounded-lg transition-all text-sm font-medium ${
+                  pathname === item.href
+                    ? 'bg-gray-800/50 text-white'
+                    : 'text-gray-300 hover:bg-gray-800/30 hover:text-white'
+                }`}
+              >
+                <span className="text-lg">{item.icon}</span>
+                <span>{item.name}</span>
+              </Link>
+            ))}
+          </div>
+
+          {/* Mobile Menu Button */}
+          <button
+            className="md:hidden p-2 rounded-lg hover:bg-gray-800/30 transition-colors"
+            onClick={() => setIsMenuOpen(!isMenuOpen)}
+            aria-label={isMenuOpen ? 'Close menu' : 'Open menu'}
+          >
+            <div className="w-6 h-6 flex items-center justify-center">
+              {isMenuOpen ? (
+                <span className="text-xl">✕</span>
+              ) : (
+                <span className="text-xl">☰</span>
+              )}
+            </div>
+          </button>
         </div>
 
-        {/* Desktop Navigation */}
-        <div className="hidden md:flex space-x-2">
-          {navItems.map((item) => (
-            <Link
-              key={item.name}
-              href={item.href}
-              className={`flex items-center space-x-2 px-4 py-2 rounded-lg transition-all ${
-                pathname === item.href
-                  ? 'bg-white/20 text-white'
-                  : 'hover:bg-white/10 text-white/80'
-              }`}
-            >
-              <span>{item.icon}</span>
-              <span>{item.name}</span>
-            </Link>
-          ))}
-        </div>
-
-        {/* Mobile Menu Button */}
-        <button
-          className="md:hidden text-2xl"
-          onClick={() => setIsMenuOpen(!isMenuOpen)}
-        >
-          {isMenuOpen ? '✕' : '☰'}
-        </button>
+        {/* Mobile Navigation */}
+        {isMenuOpen && (
+          <div className="mt-4 md:hidden pt-4 border-t border-gray-700/50">
+            <div className="grid grid-cols-2 gap-2">
+              {navItems.map((item) => (
+                <Link
+                  key={item.name}
+                  href={item.href}
+                  className={`flex items-center space-x-3 p-3 rounded-lg transition-colors ${
+                    pathname === item.href
+                      ? 'bg-gray-800/50 text-white'
+                      : 'text-gray-300 hover:bg-gray-800/30'
+                  }`}
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <span className="text-xl">{item.icon}</span>
+                  <span className="font-medium">{item.name}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
-
-      {/* Mobile Navigation */}
-      {isMenuOpen && (
-        <div className="mt-4 md:hidden grid grid-cols-2 gap-2">
-          {navItems.map((item) => (
-            <Link
-              key={item.name}
-              href={item.href}
-              className={`flex items-center space-x-2 p-3 rounded-lg ${
-                pathname === item.href
-                  ? 'bg-white/20 text-white'
-                  : 'hover:bg-white/10 text-white/80'
-              }`}
-              onClick={() => setIsMenuOpen(false)}
-            >
-              <span>{item.icon}</span>
-              <span>{item.name}</span>
-            </Link>
-          ))}
-        </div>
-      )}
     </nav>
   )
 }

@@ -5,28 +5,44 @@ interface StatusIndicatorProps {
 }
 
 export default function StatusIndicator({ name, status, details }: StatusIndicatorProps) {
-  const statusColors = {
-    online: 'bg-green-500',
-    offline: 'bg-red-500',
-    warning: 'bg-yellow-500',
+  const statusConfig = {
+    online: {
+      color: 'bg-emerald-500',
+      icon: '●',
+      textColor: 'text-emerald-400',
+      bgColor: 'bg-emerald-500/10',
+      borderColor: 'border-emerald-500/20',
+    },
+    offline: {
+      color: 'bg-red-500',
+      icon: '●',
+      textColor: 'text-red-400',
+      bgColor: 'bg-red-500/10',
+      borderColor: 'border-red-500/20',
+    },
+    warning: {
+      color: 'bg-amber-500',
+      icon: '●',
+      textColor: 'text-amber-400',
+      bgColor: 'bg-amber-500/10',
+      borderColor: 'border-amber-500/20',
+    },
   }
 
-  const statusIcons = {
-    online: '✅',
-    offline: '❌',
-    warning: '⚠️',
-  }
+  const config = statusConfig[status]
 
   return (
-    <div className="bg-white/5 backdrop-blur-lg rounded-xl p-4 border border-white/10">
-      <div className="flex items-center justify-between mb-2">
-        <h4 className="font-medium">{name}</h4>
-        <div className="flex items-center space-x-2">
-          <div className={`w-2 h-2 rounded-full ${statusColors[status]}`} />
-          <span className="text-sm text-white/70">{statusIcons[status]}</span>
+    <div className="card p-4 hover:bg-gray-800/30 transition-colors">
+      <div className="flex items-start justify-between mb-3">
+        <h4 className="font-medium text-gray-200">{name}</h4>
+        <div className="flex items-center gap-2">
+          <div className={`w-2 h-2 rounded-full ${config.color}`} />
+          <span className={`text-xs px-2 py-1 rounded-full ${config.bgColor} ${config.textColor} border ${config.borderColor}`}>
+            {status.toUpperCase()}
+          </span>
         </div>
       </div>
-      <p className="text-sm text-white/60">{details}</p>
+      <p className="text-sm text-gray-400 leading-relaxed">{details}</p>
     </div>
   )
 }
