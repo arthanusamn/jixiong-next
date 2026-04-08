@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import SearchBar from './SearchBar'
 
 const navItems = [
   { name: 'Dashboard', href: '/', icon: '🏠' },
@@ -33,7 +34,10 @@ export default function Navigation() {
           </div>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-1">
+          <div className="hidden md:flex items-center space-x-4">
+            <div className="mr-4">
+              <SearchBar />
+            </div>
             {navItems.map((item) => (
               <Link
                 key={item.name}
@@ -69,6 +73,9 @@ export default function Navigation() {
         {/* Mobile Navigation */}
         {isMenuOpen && (
           <div className="mt-4 md:hidden pt-4 border-t border-gray-700/50">
+            <div className="mb-4">
+              <SearchBar />
+            </div>
             <div className="grid grid-cols-2 gap-2">
               {navItems.map((item) => (
                 <Link
