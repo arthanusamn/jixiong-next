@@ -10,6 +10,7 @@ const navItems = [
   { name: 'Portfolio', href: '/portfolio', icon: '📈' },
   { name: 'Agents', href: '/agents', icon: '🤖' },
   { name: 'Patterns', href: '/patterns', icon: '📊' },
+  { name: 'Deals', href: '/deals', icon: '🏷️' },
   { name: 'Learning', href: '/learning', icon: '📚' },
   { name: 'Projects', href: '/projects', icon: '🚀' },
   { name: 'Goals', href: '/goals', icon: '🎯' },
