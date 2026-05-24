@@ -8,6 +8,8 @@ import SearchBar from './SearchBar'
 const navItems = [
   { name: 'Dashboard', href: '/', icon: '🏠' },
   { name: 'Portfolio', href: '/portfolio', icon: '📈' },
+  { name: 'Agents', href: '/agents', icon: '🤖' },
+  { name: 'Patterns', href: '/patterns', icon: '📊' },
   { name: 'Learning', href: '/learning', icon: '📚' },
   { name: 'Projects', href: '/projects', icon: '🚀' },
   { name: 'Goals', href: '/goals', icon: '🎯' },
