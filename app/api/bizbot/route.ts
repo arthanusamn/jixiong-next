@@ -18,12 +18,15 @@ export async function POST(request: NextRequest) {
     );
   }
 
+  // Longer timeout for complex ideas
+  const timeoutMs = Math.min(45000, 1000 + body.description.length * 20);
+
   try {
     const res = await fetch(`${BIZBOT_API}/launch`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),
-      signal: AbortSignal.timeout(30000), // 30s timeout
+      signal: AbortSignal.timeout(timeoutMs),
     });
 
     if (!res.ok) {

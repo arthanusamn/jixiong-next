@@ -247,11 +247,11 @@ export default function BizBotPage() {
                 <span>📋</span> Strategy
               </h3>
               <div className="space-y-2 text-sm">
-                <p><span className="text-gray-400">Pitch:</span> {result.strategy.elevator_pitch}</p>
-                <p><span className="text-gray-400">Problem:</span> {result.strategy.problem_statement}</p>
-                <p><span className="text-gray-400">Audience:</span> {result.strategy.target_audience}</p>
-                <p><span className="text-gray-400">Pricing:</span> {result.strategy.pricing_model}</p>
-                <p><span className="text-gray-400">MVP in:</span> {result.strategy.estimated_time_to_mvp}</p>
+                <p><span className="text-gray-400">Pitch:</span> {result.strategy?.elevator_pitch || '(generated)'}</p>
+                <p><span className="text-gray-400">Problem:</span> {result.strategy?.problem_statement || '(generated)'}</p>
+                <p><span className="text-gray-400">Audience:</span> {result.strategy?.target_audience || '(generated)'}</p>
+                <p><span className="text-gray-400">Pricing:</span> {result.strategy?.pricing_model || '(generated)'}</p>
+                <p><span className="text-gray-400">MVP in:</span> {result.strategy?.estimated_time_to_mvp || '(generated)'}</p>
               </div>
             </div>
           )}
@@ -286,19 +286,28 @@ export default function BizBotPage() {
               <div className="space-y-3 text-sm">
                 <div>
                   <p className="text-gray-400 mb-1">Tagline:</p>
-                  <p className="text-purple-300">{result.marketing.tagline}</p>
+                  <p className="text-purple-300">{result.marketing.tagline || '(generated)'}</p>
                 </div>
                 <div>
                   <p className="text-gray-400 mb-1">Twitter Posts:</p>
-                  {result.marketing.twitter_posts?.slice(0, 2).map((tweet: string, i: number) => (
-                    <p key={i} className="text-gray-300 mb-1 text-xs border-l-2 border-purple-500/30 pl-3">
-                      {tweet.slice(0, 120)}...
-                    </p>
-                  ))}
+                  {(() => {
+                    try {
+                      const tweets = typeof result.marketing.twitter_posts === 'string'
+                        ? JSON.parse(result.marketing.twitter_posts.replace(/'/g, '"'))
+                        : (result.marketing.twitter_posts || [])
+                      return Array.isArray(tweets) && tweets.slice(0, 2).map((tweet: string, i: number) => (
+                        <p key={i} className="text-gray-300 mb-1 text-xs border-l-2 border-purple-500/30 pl-3">
+                          {(tweet || '').slice(0, 120)}...
+                        </p>
+                      ))
+                    } catch {
+                      return <p className="text-xs text-gray-500 italic">(generated, view in project files)</p>
+                    }
+                  })()}
                 </div>
                 <div>
                   <p className="text-gray-400 mb-1">SEO Keywords:</p>
-                  <p className="text-xs text-gray-500">{result.marketing.landing_seo?.keywords}</p>
+                  <p className="text-xs text-gray-500">{result.marketing.landing_seo?.keywords || '(generated)'}</p>
                 </div>
               </div>
             </div>
