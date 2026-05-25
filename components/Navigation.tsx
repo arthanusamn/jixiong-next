@@ -16,6 +16,7 @@ const navItems = [
   { name: 'Goals', href: '/goals', icon: '🎯' },
   { name: 'Rocky', href: '/rocky', icon: '🎵' },
   { name: 'Actions', href: '/actions', icon: '⚡' },
+  { name: 'BizBot', href: '/bizbot', icon: '🤖' },
 ]
 
 export default function Navigation() {
