@@ -1,0 +1,261 @@
+{
+  "generated_at": "2026-05-28T21:14:17.812630",
+  "stats": {
+    "total_tracked": 56,
+    "active_signals": 56,
+    "strong_buys": 39,
+    "insider_buys_total": 14,
+    "volume_spikes": 5
+  },
+  "top_insider_buys": [
+    {
+      "ticker": "TTD",
+      "company": "The Trade Desk, Inc.",
+      "total_value": 148101266,
+      "buys_count": 1,
+      "current_price": 21.149999618530273,
+      "score": 80,
+      "category": "strong"
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "total_value": 9999977,
+      "buys_count": 1,
+      "current_price": 257.7699890136719,
+      "score": 75,
+      "category": "strong"
+    },
+    {
+      "ticker": "UPST",
+      "company": "Upstart Holdings, Inc.",
+      "total_value": 6374607,
+      "buys_count": 2,
+      "current_price": 32.689998626708984,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "total_value": 2585781,
+      "buys_count": 3,
+      "current_price": 198.8000030517578,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "DGICA",
+      "company": "Donegal Group, Inc.",
+      "total_value": 2186751,
+      "buys_count": 8,
+      "current_price": 17.06999969482422,
+      "score": 70,
+      "category": "strong"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "total_value": 2000581,
+      "buys_count": 4,
+      "current_price": 16.969999313354492,
+      "score": 90,
+      "category": "strong"
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "total_value": 1388730,
+      "buys_count": 1,
+      "current_price": 167.69000244140625,
+      "score": 90,
+      "category": "strong"
+    },
+    {
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health, Inc.",
+      "total_value": 1172974,
+      "buys_count": 1,
+      "current_price": 25.3799991607666,
+      "score": 70,
+      "category": "strong"
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "total_value": 1000444,
+      "buys_count": 2,
+      "current_price": 176.1699981689453,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "total_value": 716358,
+      "buys_count": 3,
+      "current_price": 33.220001220703125,
+      "score": 90,
+      "category": "strong"
+    }
+  ],
+  "top_gainers": [
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "chg_1w": 44.5,
+      "price": 239.1999969482422
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "chg_1w": 38.3,
+      "price": 133.08999633789062
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "chg_1w": 19.1,
+      "price": 70.13999938964844
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "chg_1w": 18.0,
+      "price": 148.02999877929688
+    },
+    {
+      "ticker": "CVNA",
+      "company": "Carvana Co.",
+      "chg_1w": 14.13,
+      "price": 73.48999786376953
+    }
+  ],
+  "top_losers": [
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "chg_1w": -23.96,
+      "price": 130.0399932861328
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "chg_1w": -8.01,
+      "price": 151.63999938964844
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "chg_1w": -5.84,
+      "price": 182.25
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "chg_1w": -5.36,
+      "price": 146.9600067138672
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "chg_1w": -4.61,
+      "price": 114.98999786376953
+    }
+  ],
+  "volume_spikes": [
+    {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "vol_ratio": 4.15,
+      "price": 325.67999267578125
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "vol_ratio": 4.0,
+      "price": 239.1999969482422
+    },
+    {
+      "ticker": "ESTC",
+      "company": "Elastic N.V.",
+      "vol_ratio": 3.15,
+      "price": 57.61000061035156
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "vol_ratio": 2.82,
+      "price": 130.0399932861328
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "vol_ratio": 1.88,
+      "price": 84.83999633789062
+    }
+  ],
+  "categories": {
+    "strong": [
+      "META",
+      "AMZN",
+      "GOOGL",
+      "MSFT",
+      "NVDA",
+      "CRM",
+      "NOW",
+      "ADBE",
+      "SNOW",
+      "NET",
+      "MDB",
+      "ZS",
+      "PANW",
+      "FTNT",
+      "WDAY",
+      "HUBS",
+      "ESTC",
+      "GTLB",
+      "SOFI",
+      "HOOD",
+      "PYPL",
+      "AFRM",
+      "UPST",
+      "RDDT",
+      "PLTR",
+      "CELH",
+      "CVNA",
+      "IONQ",
+      "RXRX",
+      "CRSP",
+      "RBLX",
+      "TTD",
+      "SNAP",
+      "DASH",
+      "LLY",
+      "ABBV",
+      "HIMS",
+      "NWBI",
+      "DGICA"
+    ],
+    "watch": [
+      "AAPL",
+      "TSLA",
+      "BRK-B",
+      "DDOG",
+      "COIN",
+      "MSTR",
+      "RKLB",
+      "ASTS",
+      "SDGR",
+      "DKNG",
+      "UNH",
+      "JNJ",
+      "MTDR",
+      "XOM",
+      "CVX",
+      "COP",
+      "JPM"
+    ],
+    "neutral": []
+  }
+}

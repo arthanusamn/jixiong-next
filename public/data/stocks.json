@@ -1,0 +1,7435 @@
+{
+  "generated_at": "2026-05-28T21:14:17.812630",
+  "ticker_count": 58,
+  "stock_count": 56,
+  "stats": {
+    "total_tracked": 56,
+    "active_signals": 56,
+    "strong_buys": 39,
+    "insider_buys_total": 14,
+    "volume_spikes": 5
+  },
+  "top_insider_buys": [
+    {
+      "ticker": "TTD",
+      "company": "The Trade Desk, Inc.",
+      "total_value": 148101266,
+      "buys_count": 1,
+      "current_price": 21.149999618530273,
+      "score": 80,
+      "category": "strong"
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "total_value": 9999977,
+      "buys_count": 1,
+      "current_price": 257.7699890136719,
+      "score": 75,
+      "category": "strong"
+    },
+    {
+      "ticker": "UPST",
+      "company": "Upstart Holdings, Inc.",
+      "total_value": 6374607,
+      "buys_count": 2,
+      "current_price": 32.689998626708984,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "total_value": 2585781,
+      "buys_count": 3,
+      "current_price": 198.8000030517578,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "DGICA",
+      "company": "Donegal Group, Inc.",
+      "total_value": 2186751,
+      "buys_count": 8,
+      "current_price": 17.06999969482422,
+      "score": 70,
+      "category": "strong"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "total_value": 2000581,
+      "buys_count": 4,
+      "current_price": 16.969999313354492,
+      "score": 90,
+      "category": "strong"
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "total_value": 1388730,
+      "buys_count": 1,
+      "current_price": 167.69000244140625,
+      "score": 90,
+      "category": "strong"
+    },
+    {
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health, Inc.",
+      "total_value": 1172974,
+      "buys_count": 1,
+      "current_price": 25.3799991607666,
+      "score": 70,
+      "category": "strong"
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "total_value": 1000444,
+      "buys_count": 2,
+      "current_price": 176.1699981689453,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "total_value": 716358,
+      "buys_count": 3,
+      "current_price": 33.220001220703125,
+      "score": 90,
+      "category": "strong"
+    }
+  ],
+  "top_gainers": [
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "chg_1w": 44.5,
+      "price": 239.1999969482422
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "chg_1w": 38.3,
+      "price": 133.08999633789062
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "chg_1w": 19.1,
+      "price": 70.13999938964844
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "chg_1w": 18.0,
+      "price": 148.02999877929688
+    },
+    {
+      "ticker": "CVNA",
+      "company": "Carvana Co.",
+      "chg_1w": 14.13,
+      "price": 73.48999786376953
+    }
+  ],
+  "top_losers": [
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "chg_1w": -23.96,
+      "price": 130.0399932861328
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "chg_1w": -8.01,
+      "price": 151.63999938964844
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "chg_1w": -5.84,
+      "price": 182.25
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "chg_1w": -5.36,
+      "price": 146.9600067138672
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "chg_1w": -4.61,
+      "price": 114.98999786376953
+    }
+  ],
+  "volume_spikes": [
+    {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "vol_ratio": 4.15,
+      "price": 325.67999267578125
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "vol_ratio": 4.0,
+      "price": 239.1999969482422
+    },
+    {
+      "ticker": "ESTC",
+      "company": "Elastic N.V.",
+      "vol_ratio": 3.15,
+      "price": 57.61000061035156
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "vol_ratio": 2.82,
+      "price": 130.0399932861328
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "vol_ratio": 1.88,
+      "price": 84.83999633789062
+    }
+  ],
+  "stocks": [
+    {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "price": 635.2899780273438,
+      "change": 0.03,
+      "change_pct": 0.0,
+      "open": 639.5,
+      "high": 643.0,
+      "low": 629.31,
+      "prev_close": 635.26,
+      "volume": 16728200,
+      "avg_volume": 16664860,
+      "vol_ratio": 1.0,
+      "chg_1w": 4.6,
+      "chg_1m": -5.06,
+      "rsi": 60.7,
+      "sma20": 612.3,
+      "sma50": 618.2,
+      "high_52w": 796.25,
+      "low_52w": 520.26,
+      "pct_from_high": -20.2,
+      "market_cap": 1612634914816,
+      "pe": 23.09,
+      "fwd_pe": 17.57,
+      "eps": 27.51,
+      "target": 826.75,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.331,
+      "profit_margin": 0.328,
+      "beta": 1.24,
+      "score": 80,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-18",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 893307.0,
+          "shares": 1466
+        },
+        {
+          "date": "2026-05-18",
+          "name": "LI SUSAN J.",
+          "position": "Chief Financial Officer",
+          "value": 6904533.0,
+          "shares": 11322
+        },
+        {
+          "date": "2026-05-18",
+          "name": "BOSWORTH ANDREW",
+          "position": "Chief Technology Officer",
+          "value": 4769642.0,
+          "shares": 7847
+        },
+        {
+          "date": "2026-05-11",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 940106.0,
+          "shares": 1555
+        },
+        {
+          "date": "2026-05-04",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 945036.0,
+          "shares": 1555
+        },
+        {
+          "date": "2026-05-01",
+          "name": "ALFORD PEGGY",
+          "position": "Director",
+          "value": 251343.0,
+          "shares": 409
+        },
+        {
+          "date": "2026-04-27",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 1043156.0,
+          "shares": 1555
+        },
+        {
+          "date": "2026-04-20",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 1057540.0,
+          "shares": 1555
+        },
+        {
+          "date": "2026-04-15",
+          "name": "KIMMITT ROBERT M",
+          "position": "Director",
+          "value": 386860.0,
+          "shares": 580
+        },
+        {
+          "date": "2026-04-13",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 2936559.0,
+          "shares": 4665
+        },
+        {
+          "date": "2026-03-23",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 941366.0,
+          "shares": 1555
+        },
+        {
+          "date": "2026-03-16",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 982791.0,
+          "shares": 1555
+        },
+        {
+          "date": "2026-03-16",
+          "name": "KIMMITT ROBERT M",
+          "position": "Director",
+          "value": 366572.0,
+          "shares": 580
+        },
+        {
+          "date": "2026-03-09",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 987332.0,
+          "shares": 1555
+        },
+        {
+          "date": "2026-03-02",
+          "name": "OLIVAN JAVIER",
+          "position": "Chief Operating Officer",
+          "value": 990862.0,
+          "shares": 1555
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com, Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "price": 274.0,
+      "change": 2.15,
+      "change_pct": 0.79,
+      "open": 272.27,
+      "high": 274.5,
+      "low": 267.44,
+      "prev_close": 271.85,
+      "volume": 40554200,
+      "avg_volume": 41821925,
+      "vol_ratio": 0.97,
+      "chg_1w": 2.06,
+      "chg_1m": 4.17,
+      "rsi": 53.1,
+      "sma20": 268.46,
+      "sma50": 245.45,
+      "high_52w": 278.56,
+      "low_52w": 196.0,
+      "pct_from_high": -1.6,
+      "market_cap": 2947448045568,
+      "pe": 31.64,
+      "fwd_pe": 27.79,
+      "eps": 8.66,
+      "target": 312.63,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.166,
+      "profit_margin": 0.122,
+      "beta": 1.47,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-22",
+          "name": "ZAPOLSKY DAVID A.",
+          "position": "Officer",
+          "value": 4117252.0,
+          "shares": 15450
+        },
+        {
+          "date": "2026-05-21",
+          "name": "JASSY ANDREW R.",
+          "position": "Chief Executive Officer",
+          "value": 5268342.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-05-21",
+          "name": "HERRINGTON DOUGLAS J",
+          "position": "Officer",
+          "value": 1671439.0,
+          "shares": 6370
+        },
+        {
+          "date": "2026-05-21",
+          "name": "GARMAN MATTHEW S",
+          "position": "Officer",
+          "value": 4073956.0,
+          "shares": 15467
+        },
+        {
+          "date": "2026-05-21",
+          "name": "REYNOLDS SHELLEY L",
+          "position": "Officer",
+          "value": 620003.0,
+          "shares": 2363
+        },
+        {
+          "date": "2026-05-15",
+          "name": "HERRINGTON DOUGLAS J",
+          "position": "Officer",
+          "value": 982602.0,
+          "shares": 3742
+        },
+        {
+          "date": "2026-05-15",
+          "name": "GARMAN MATTHEW S",
+          "position": "Officer",
+          "value": 3013973.0,
+          "shares": 11475
+        },
+        {
+          "date": "2026-05-04",
+          "name": "JASSY ANDREW R.",
+          "position": "Chief Executive Officer",
+          "value": 8621800.0,
+          "shares": 31352
+        },
+        {
+          "date": "2026-05-04",
+          "name": "HERRINGTON DOUGLAS J",
+          "position": "Officer",
+          "value": 7828150.0,
+          "shares": 28500
+        },
+        {
+          "date": "2026-04-30",
+          "name": "RUBINSTEIN JONATHAN J",
+          "position": "Director",
+          "value": 1011812.0,
+          "shares": 3706
+        },
+        {
+          "date": "2026-04-24",
+          "name": "RUBINSTEIN JONATHAN J",
+          "position": "Director",
+          "value": 1000740.0,
+          "shares": 3849
+        },
+        {
+          "date": "2026-04-17",
+          "name": "JASSY ANDREW R.",
+          "position": "Chief Executive Officer",
+          "value": 7905000.0,
+          "shares": 31000
+        },
+        {
+          "date": "2026-04-14",
+          "name": "HERRINGTON DOUGLAS J",
+          "position": "Officer",
+          "value": 5022500.0,
+          "shares": 20500
+        },
+        {
+          "date": "2026-04-01",
+          "name": "HERRINGTON DOUGLAS J",
+          "position": "Officer",
+          "value": 210500.0,
+          "shares": 1000
+        },
+        {
+          "date": "2026-03-02",
+          "name": "HERRINGTON DOUGLAS J",
+          "position": "Officer",
+          "value": 204250.0,
+          "shares": 1000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "price": 390.1300048828125,
+      "change": 1.3,
+      "change_pct": 0.33,
+      "open": 388.0,
+      "high": 391.87,
+      "low": 385.16,
+      "prev_close": 388.83,
+      "volume": 24321800,
+      "avg_volume": 28723355,
+      "vol_ratio": 0.85,
+      "chg_1w": 0.64,
+      "chg_1m": 11.48,
+      "rsi": 43.6,
+      "sma20": 391.37,
+      "sma50": 346.12,
+      "high_52w": 408.61,
+      "low_52w": 162.0,
+      "pct_from_high": -4.5,
+      "market_cap": 4726597877760,
+      "pe": 29.76,
+      "fwd_pe": 26.92,
+      "eps": 13.11,
+      "target": 430.72,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.218,
+      "profit_margin": 0.379,
+      "beta": 1.27,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 426.989990234375,
+      "change": 14.32,
+      "change_pct": 3.47,
+      "open": 412.98,
+      "high": 429.49,
+      "low": 412.67,
+      "prev_close": 412.67,
+      "volume": 47147800,
+      "avg_volume": 34505355,
+      "vol_ratio": 1.37,
+      "chg_1w": 1.89,
+      "chg_1m": 0.81,
+      "rsi": 55.5,
+      "sma20": 414.8,
+      "sma50": 400.88,
+      "high_52w": 555.45,
+      "low_52w": 356.28,
+      "pct_from_high": -23.1,
+      "market_cap": 3171867426816,
+      "pe": 25.42,
+      "fwd_pe": 22.08,
+      "eps": 16.8,
+      "target": 560.63,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.183,
+      "profit_margin": 0.393,
+      "beta": 1.09,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-14",
+          "name": "COLEMAN AMY",
+          "position": "Officer",
+          "value": 519242.0,
+          "shares": 1262
+        },
+        {
+          "date": "2026-03-06",
+          "name": "HOGAN KATHLEEN T",
+          "position": "Officer",
+          "value": 5045643.0,
+          "shares": 12320
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "price": 214.25,
+      "change": 1.65,
+      "change_pct": 0.78,
+      "open": 211.28,
+      "high": 215.52,
+      "low": 211.22,
+      "prev_close": 212.6,
+      "volume": 143443500,
+      "avg_volume": 163005840,
+      "vol_ratio": 0.88,
+      "chg_1w": -2.4,
+      "chg_1m": 2.39,
+      "rsi": 52.5,
+      "sma20": 214.88,
+      "sma50": 198.73,
+      "high_52w": 236.54,
+      "low_52w": 132.92,
+      "pct_from_high": -9.4,
+      "market_cap": 5189349146624,
+      "pe": 32.81,
+      "fwd_pe": 16.93,
+      "eps": 6.53,
+      "target": 295.69,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.852,
+      "profit_margin": 0.63,
+      "beta": 2.24,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-03-20",
+          "name": "KRESS COLETTE M.",
+          "position": "Chief Financial Officer",
+          "value": 10956706.0,
+          "shares": 62650
+        },
+        {
+          "date": "2026-03-20",
+          "name": "ROBERTSON DONALD F JR",
+          "position": "Officer",
+          "value": 942944.0,
+          "shares": 5396
+        },
+        {
+          "date": "2026-03-20",
+          "name": "STEVENS MARK A",
+          "position": "Director",
+          "value": 38502524.0,
+          "shares": 221682
+        },
+        {
+          "date": "2026-03-19",
+          "name": "SHAH AARTI S",
+          "position": "Director",
+          "value": 3357549.0,
+          "shares": 19000
+        },
+        {
+          "date": "2026-03-18",
+          "name": "PURI AJAY K",
+          "position": "Officer",
+          "value": 54676140.0,
+          "shares": 300000
+        },
+        {
+          "date": "2026-03-13",
+          "name": "DABIRI JOHN O",
+          "position": "Director",
+          "value": 555440.0,
+          "shares": 3004
+        },
+        {
+          "date": "2026-03-10",
+          "name": "PURI AJAY K",
+          "position": "Officer",
+          "value": 54756044.0,
+          "shares": 300000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "price": 312.510009765625,
+      "change": 1.66,
+      "change_pct": 0.53,
+      "open": 310.68,
+      "high": 312.8,
+      "low": 309.57,
+      "prev_close": 310.85,
+      "volume": 48157800,
+      "avg_volume": 50152260,
+      "vol_ratio": 0.96,
+      "chg_1w": 2.47,
+      "chg_1m": 15.78,
+      "rsi": 88.2,
+      "sma20": 295.41,
+      "sma50": 273.86,
+      "high_52w": 313.26,
+      "low_52w": 195.07,
+      "pct_from_high": -0.2,
+      "market_cap": 4589945880576,
+      "pe": 37.61,
+      "fwd_pe": 32.53,
+      "eps": 8.31,
+      "target": 310.51,
+      "recommendation": "buy",
+      "rev_growth": 0.166,
+      "profit_margin": 0.272,
+      "beta": 1.06,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-08",
+          "name": "BORDERS BEN",
+          "position": "Officer",
+          "value": 369460.0,
+          "shares": 1274
+        },
+        {
+          "date": "2026-05-06",
+          "name": "LEVINSON ARTHUR D",
+          "position": "Director",
+          "value": 71189722.0,
+          "shares": 250000
+        },
+        {
+          "date": "2026-04-23",
+          "name": "PAREKH KEVAN",
+          "position": "Chief Financial Officer",
+          "value": 421850.0,
+          "shares": 1534
+        },
+        {
+          "date": "2026-04-02",
+          "name": "COOK TIMOTHY D",
+          "position": "Chief Executive Officer",
+          "value": 16512198.0,
+          "shares": 64949
+        },
+        {
+          "date": "2026-04-02",
+          "name": "O'BRIEN DEIRDRE",
+          "position": "Officer",
+          "value": 7660875.0,
+          "shares": 30002
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla, Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "price": 442.1000061035156,
+      "change": 1.74,
+      "change_pct": 0.4,
+      "open": 437.62,
+      "high": 443.96,
+      "low": 436.3,
+      "prev_close": 440.36,
+      "volume": 32289300,
+      "avg_volume": 52868655,
+      "vol_ratio": 0.61,
+      "chg_1w": 5.8,
+      "chg_1m": 18.59,
+      "rsi": 61.2,
+      "sma20": 418.69,
+      "sma50": 390.93,
+      "high_52w": 498.83,
+      "low_52w": 273.21,
+      "pct_from_high": -11.4,
+      "market_cap": 1660405547008,
+      "pe": 401.91,
+      "fwd_pe": 176.16,
+      "eps": 1.1,
+      "target": 411.89,
+      "recommendation": "buy",
+      "rev_growth": 0.158,
+      "profit_margin": 0.039,
+      "beta": 1.79,
+      "score": 60,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-13",
+          "name": "TANEJA VAIBHAV",
+          "position": "Chief Financial Officer",
+          "value": 1350000.0,
+          "shares": 3000
+        },
+        {
+          "date": "2026-04-30",
+          "name": "WILSON - THOMPSON KATHLEEN",
+          "position": "Director",
+          "value": 9985390.0,
+          "shares": 26409
+        },
+        {
+          "date": "2026-03-30",
+          "name": "WILSON - THOMPSON KATHLEEN",
+          "position": "Director",
+          "value": 9273888.0,
+          "shares": 25809
+        },
+        {
+          "date": "2026-03-06",
+          "name": "TANEJA VAIBHAV",
+          "position": "Chief Financial Officer",
+          "value": 899077.0,
+          "shares": 2264
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "BRK-B",
+      "company": "Berkshire Hathaway Inc. New",
+      "sector": "Financial Services",
+      "industry": "Insurance - Diversified",
+      "price": 477.4200134277344,
+      "change": -2.5,
+      "change_pct": -0.52,
+      "open": 479.36,
+      "high": 481.81,
+      "low": 477.0,
+      "prev_close": 479.92,
+      "volume": 4120000,
+      "avg_volume": 4847600,
+      "vol_ratio": 0.85,
+      "chg_1w": -0.53,
+      "chg_1m": 0.43,
+      "rsi": 52.7,
+      "sma20": 478.77,
+      "sma50": 477.28,
+      "high_52w": 516.85,
+      "low_52w": 455.19,
+      "pct_from_high": -7.6,
+      "market_cap": 1029725159424,
+      "pe": 14.2,
+      "fwd_pe": 22.41,
+      "eps": 33.61,
+      "target": 520.33,
+      "recommendation": "buy",
+      "rev_growth": 0.044,
+      "profit_margin": 0.193,
+      "beta": 0.62,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [
+        {
+          "date": "2026-05-06",
+          "name": "O'SULLIVAN MICHAEL J",
+          "position": "General Counsel",
+          "value": 250545.0,
+          "shares": 536
+        }
+      ],
+      "insider_sales": [],
+      "total_insider_buys": 250545,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 176.1699981689453,
+      "change": -1.34,
+      "change_pct": -0.75,
+      "open": 178.43,
+      "high": 182.48,
+      "low": 171.65,
+      "prev_close": 177.51,
+      "volume": 22531000,
+      "avg_volume": 13112525,
+      "vol_ratio": 1.72,
+      "chg_1w": -0.08,
+      "chg_1m": -2.79,
+      "rsi": 39.0,
+      "sma20": 178.3,
+      "sma50": 180.73,
+      "high_52w": 276.8,
+      "low_52w": 163.52,
+      "pct_from_high": -36.4,
+      "market_cap": 144283222016,
+      "pe": 20.41,
+      "fwd_pe": 11.42,
+      "eps": 8.63,
+      "target": 257.03,
+      "recommendation": "buy",
+      "rev_growth": 0.121,
+      "profit_margin": 0.18,
+      "beta": 1.14,
+      "score": 85,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-03-19",
+          "name": "ALBER LAURA",
+          "position": "Director",
+          "value": 500266.0,
+          "shares": 2571
+        },
+        {
+          "date": "2026-03-18",
+          "name": "KIRK DAVID BLAIR",
+          "position": "Director",
+          "value": 500178.0,
+          "shares": 2570
+        }
+      ],
+      "insider_sales": [],
+      "total_insider_buys": 1000444,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 108.7300033569336,
+      "change": 6.61,
+      "change_pct": 6.47,
+      "open": 107.0,
+      "high": 110.16,
+      "low": 104.6,
+      "prev_close": 102.12,
+      "volume": 38565400,
+      "avg_volume": 28462965,
+      "vol_ratio": 1.35,
+      "chg_1w": 9.07,
+      "chg_1m": 22.32,
+      "rsi": 67.3,
+      "sma20": 95.58,
+      "sma50": 97.43,
+      "high_52w": 211.478,
+      "low_52w": 81.24,
+      "pct_from_high": -48.6,
+      "market_cap": 112134127616,
+      "pe": 64.34,
+      "fwd_pe": 21.63,
+      "eps": 1.69,
+      "target": 142.5,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.221,
+      "profit_margin": 0.126,
+      "beta": 0.82,
+      "score": 80,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-18",
+          "name": "FIPPS PAUL",
+          "position": "Officer",
+          "value": 103238.0,
+          "shares": 1048
+        },
+        {
+          "date": "2026-05-14",
+          "name": "SANDS ANITA M",
+          "position": "Director",
+          "value": 1482402.0,
+          "shares": 16445
+        },
+        {
+          "date": "2026-05-14",
+          "name": "CHAMBERLAIN PAUL EDWARD",
+          "position": "Director",
+          "value": 130845.0,
+          "shares": 1500
+        },
+        {
+          "date": "2026-05-08",
+          "name": "FIPPS PAUL",
+          "position": "Officer",
+          "value": 13661.0,
+          "shares": 151
+        },
+        {
+          "date": "2026-04-24",
+          "name": "CANNEY JACQUELINE P",
+          "position": "Officer",
+          "value": 799868.0,
+          "shares": 8927
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 241.44000244140625,
+      "change": 3.2,
+      "change_pct": 1.34,
+      "open": 239.57,
+      "high": 244.76,
+      "low": 236.66,
+      "prev_close": 238.24,
+      "volume": 3386500,
+      "avg_volume": 4408790,
+      "vol_ratio": 0.77,
+      "chg_1w": -1.09,
+      "chg_1m": -0.87,
+      "rsi": 37.8,
+      "sma20": 247.34,
+      "sma50": 244.19,
+      "high_52w": 421.48,
+      "low_52w": 224.13,
+      "pct_from_high": -42.7,
+      "market_cap": 97590050816,
+      "pe": 14.06,
+      "fwd_pe": 9.15,
+      "eps": 17.17,
+      "target": 327.28,
+      "recommendation": "hold",
+      "rev_growth": 0.12,
+      "profit_margin": 0.295,
+      "beta": 1.42,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-04-30",
+          "name": "FORUSZ JILLIAN",
+          "position": "Officer",
+          "value": 185915.0,
+          "shares": 755
+        },
+        {
+          "date": "2026-04-28",
+          "name": "NARAYEN SHANTANU",
+          "position": "Chief Executive Officer",
+          "value": 18265234.0,
+          "shares": 75000
+        },
+        {
+          "date": "2026-04-20",
+          "name": "DURN DANIEL J",
+          "position": "Chief Financial Officer",
+          "value": 331355.0,
+          "shares": 1336
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 239.1999969482422,
+      "change": 63.94,
+      "change_pct": 36.48,
+      "open": 237.0,
+      "high": 244.92,
+      "low": 229.49,
+      "prev_close": 175.26,
+      "volume": 39502800,
+      "avg_volume": 9867435,
+      "vol_ratio": 4.0,
+      "chg_1w": 44.5,
+      "chg_1m": 69.38,
+      "rsi": 90.4,
+      "sma20": 160.2,
+      "sma50": 154.33,
+      "high_52w": 280.67,
+      "low_52w": 118.3,
+      "pct_from_high": -14.8,
+      "market_cap": 82907414528,
+      "pe": null,
+      "fwd_pe": 92.27,
+      "eps": -3.52,
+      "target": 277.03,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.301,
+      "profit_margin": -0.284,
+      "beta": 1.08,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-19",
+          "name": "SLOOTMAN FRANK",
+          "position": "Director",
+          "value": 25378395.0,
+          "shares": 144650
+        },
+        {
+          "date": "2026-05-01",
+          "name": "SPEISER MICHAEL L",
+          "position": "Director",
+          "value": 7184690.0,
+          "shares": 50741
+        },
+        {
+          "date": "2026-04-06",
+          "name": "SPEISER MICHAEL L",
+          "position": "Director",
+          "value": 7520070.0,
+          "shares": 50741
+        },
+        {
+          "date": "2026-04-01",
+          "name": "RAGHUNATHAN VIVEK",
+          "position": "Officer",
+          "value": 592253.0,
+          "shares": 3876
+        },
+        {
+          "date": "2026-03-23",
+          "name": "DAGEVILLE BENOIT",
+          "position": "Officer and Director",
+          "value": 148589.0,
+          "shares": 874
+        },
+        {
+          "date": "2026-03-23",
+          "name": "HO EMILY",
+          "position": "Officer",
+          "value": 372465.0,
+          "shares": 2141
+        },
+        {
+          "date": "2026-03-23",
+          "name": "KLEINERMAN CHRISTIAN",
+          "position": "Officer",
+          "value": 445596.0,
+          "shares": 2621
+        },
+        {
+          "date": "2026-03-19",
+          "name": "SLOOTMAN FRANK",
+          "position": "Director",
+          "value": 17585542.0,
+          "shares": 100000
+        },
+        {
+          "date": "2026-03-17",
+          "name": "DAGEVILLE BENOIT",
+          "position": "Officer and Director",
+          "value": 336477.0,
+          "shares": 1919
+        },
+        {
+          "date": "2026-03-17",
+          "name": "KLEINERMAN CHRISTIAN",
+          "position": "Officer",
+          "value": 523565.0,
+          "shares": 2986
+        },
+        {
+          "date": "2026-03-17",
+          "name": "SLOOTMAN FRANK",
+          "position": "Director",
+          "value": 1380627.0,
+          "shares": 7874
+        },
+        {
+          "date": "2026-03-10",
+          "name": "DAGEVILLE BENOIT",
+          "position": "Officer and Director",
+          "value": 763147.0,
+          "shares": 4183
+        },
+        {
+          "date": "2026-03-10",
+          "name": "KLEINERMAN CHRISTIAN",
+          "position": "Officer",
+          "value": 100342.0,
+          "shares": 550
+        },
+        {
+          "date": "2026-03-10",
+          "name": "SLOOTMAN FRANK",
+          "position": "Director",
+          "value": 372542.0,
+          "shares": 2042
+        },
+        {
+          "date": "2026-03-06",
+          "name": "SPEISER MICHAEL L",
+          "position": "Director",
+          "value": 8889350.0,
+          "shares": 50741
+        },
+        {
+          "date": "2026-03-02",
+          "name": "KLEINERMAN CHRISTIAN",
+          "position": "Officer",
+          "value": 1650100.0,
+          "shares": 10000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 225.24000549316406,
+      "change": 3.43,
+      "change_pct": 1.55,
+      "open": 232.63,
+      "high": 235.0,
+      "low": 222.35,
+      "prev_close": 221.81,
+      "volume": 5949800,
+      "avg_volume": 7028005,
+      "vol_ratio": 0.85,
+      "chg_1w": 3.3,
+      "chg_1m": 68.11,
+      "rsi": 82.8,
+      "sma20": 193.17,
+      "sma50": 150.78,
+      "high_52w": 235.0,
+      "low_52w": 98.01,
+      "pct_from_high": -4.2,
+      "market_cap": 80176472064,
+      "pe": 592.74,
+      "fwd_pe": 79.14,
+      "eps": 0.38,
+      "target": 224.68,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.322,
+      "profit_margin": 0.037,
+      "beta": 1.29,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-18",
+          "name": "LE-QUOC ALEXIS T",
+          "position": "Chief Technology Officer",
+          "value": 8992461.0,
+          "shares": 43224
+        },
+        {
+          "date": "2026-05-11",
+          "name": "POMEL OLIVIER",
+          "position": "Chief Executive Officer",
+          "value": 25408082.0,
+          "shares": 127141
+        },
+        {
+          "date": "2026-05-11",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 4002637.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-05-08",
+          "name": "JACOBSON MATTHEW",
+          "position": "Director",
+          "value": 9999891.0,
+          "shares": 52832
+        },
+        {
+          "date": "2026-05-08",
+          "name": "RICHARDSON JULIE G",
+          "position": "Director",
+          "value": 817253.0,
+          "shares": 4363
+        },
+        {
+          "date": "2026-05-08",
+          "name": "LI YANBING",
+          "position": "Officer",
+          "value": 3914282.0,
+          "shares": 19834
+        },
+        {
+          "date": "2026-05-07",
+          "name": "WALTERS SEAN MICHAEL",
+          "position": "Officer",
+          "value": 1443344.0,
+          "shares": 7657
+        },
+        {
+          "date": "2026-05-05",
+          "name": "LE-QUOC ALEXIS T",
+          "position": "Chief Technology Officer",
+          "value": 7868434.0,
+          "shares": 53912
+        },
+        {
+          "date": "2026-05-05",
+          "name": "WALTERS SEAN MICHAEL",
+          "position": "Officer",
+          "value": 287100.0,
+          "shares": 1914
+        },
+        {
+          "date": "2026-05-05",
+          "name": "ACOCELLA KERRY",
+          "position": "General Counsel",
+          "value": 2078550.0,
+          "shares": 13857
+        },
+        {
+          "date": "2026-05-05",
+          "name": "RICHARDSON JULIE G",
+          "position": "Director",
+          "value": 75300.0,
+          "shares": 502
+        },
+        {
+          "date": "2026-05-04",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2894938.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-04-27",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2629398.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-04-22",
+          "name": "LE-QUOC ALEXIS T",
+          "position": "Chief Technology Officer",
+          "value": 5655316.0,
+          "shares": 43224
+        },
+        {
+          "date": "2026-04-20",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2519524.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-04-15",
+          "name": "SHAH SHARDUL",
+          "position": "Director",
+          "value": 949920.0,
+          "shares": 7916
+        },
+        {
+          "date": "2026-04-15",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2400000.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-04-09",
+          "name": "POMEL OLIVIER",
+          "position": "Chief Executive Officer",
+          "value": 4717074.0,
+          "shares": 42443
+        },
+        {
+          "date": "2026-04-08",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2445600.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-04-06",
+          "name": "LE-QUOC ALEXIS T",
+          "position": "Chief Technology Officer",
+          "value": 3761653.0,
+          "shares": 32300
+        },
+        {
+          "date": "2026-04-01",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2410600.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-03-23",
+          "name": "LE-QUOC ALEXIS T",
+          "position": "Chief Technology Officer",
+          "value": 4141418.0,
+          "shares": 32418
+        },
+        {
+          "date": "2026-03-23",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2547237.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-03-16",
+          "name": "POMEL OLIVIER",
+          "position": "Chief Executive Officer",
+          "value": 5381599.0,
+          "shares": 42443
+        },
+        {
+          "date": "2026-03-16",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2534673.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-03-13",
+          "name": "SHAH SHARDUL",
+          "position": "Director",
+          "value": 1005344.0,
+          "shares": 7916
+        },
+        {
+          "date": "2026-03-11",
+          "name": "WALTERS SEAN MICHAEL",
+          "position": "Officer",
+          "value": 2806479.0,
+          "shares": 22330
+        },
+        {
+          "date": "2026-03-10",
+          "name": "LE-QUOC ALEXIS T",
+          "position": "Chief Technology Officer",
+          "value": 6765669.0,
+          "shares": 53912
+        },
+        {
+          "date": "2026-03-09",
+          "name": "AGARWAL AMIT",
+          "position": "Director",
+          "value": 2496118.0,
+          "shares": 20000
+        },
+        {
+          "date": "2026-03-03",
+          "name": "BLITZER ADAM",
+          "position": "Chief Operating Officer",
+          "value": 7233008.0,
+          "shares": 65521
+        },
+        {
+          "date": "2026-03-02",
+          "name": "LE-QUOC ALEXIS T",
+          "position": "Chief Technology Officer",
+          "value": 5918203.0,
+          "shares": 53541
+        },
+        {
+          "date": "2026-03-02",
+          "name": "WALTERS SEAN MICHAEL",
+          "position": "Officer",
+          "value": 3550192.0,
+          "shares": 32118
+        },
+        {
+          "date": "2026-03-02",
+          "name": "ACOCELLA KERRY",
+          "position": "General Counsel",
+          "value": 1951287.0,
+          "shares": 17653
+        },
+        {
+          "date": "2026-03-02",
+          "name": "POMEL OLIVIER",
+          "position": "Chief Executive Officer",
+          "value": 7618355.0,
+          "shares": 68922
+        },
+        {
+          "date": "2026-03-02",
+          "name": "GALLOREESE DAVID",
+          "position": "Officer",
+          "value": 1183617.0,
+          "shares": 10708
+        },
+        {
+          "date": "2026-03-02",
+          "name": "LI YANBING",
+          "position": "Officer",
+          "value": 2544866.0,
+          "shares": 23023
+        },
+        {
+          "date": "2026-03-02",
+          "name": "OBSTLER DAVID M",
+          "position": "Chief Financial Officer",
+          "value": 4427737.0,
+          "shares": 40057
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 228.11000061035156,
+      "change": 18.89,
+      "change_pct": 9.03,
+      "open": 214.5,
+      "high": 228.27,
+      "low": 213.3,
+      "prev_close": 209.22,
+      "volume": 4569100,
+      "avg_volume": 4922265,
+      "vol_ratio": 0.93,
+      "chg_1w": 7.27,
+      "chg_1m": 7.61,
+      "rsi": 39.2,
+      "sma20": 213.26,
+      "sma50": 208.52,
+      "high_52w": 260.0,
+      "low_52w": 158.83,
+      "pct_from_high": -12.3,
+      "market_cap": 80629186560,
+      "pe": null,
+      "fwd_pe": 149.57,
+      "eps": -0.25,
+      "target": 234.18,
+      "recommendation": "buy",
+      "rev_growth": 0.335,
+      "profit_margin": -0.037,
+      "beta": 1.67,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-27",
+          "name": "ZATLYN MICHELLE",
+          "position": "President",
+          "value": 18330473.0,
+          "shares": 86362
+        },
+        {
+          "date": "2026-05-21",
+          "name": "PRINCE MATTHEW",
+          "position": "Chief Executive Officer",
+          "value": 32606962.0,
+          "shares": 157152
+        },
+        {
+          "date": "2026-05-18",
+          "name": "SEIFERT THOMAS J",
+          "position": "Chief Financial Officer",
+          "value": 2006068.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-05-18",
+          "name": "RILEY JANEL",
+          "position": "Officer",
+          "value": 1329381.0,
+          "shares": 6814
+        },
+        {
+          "date": "2026-05-05",
+          "name": "LEDBETTER CARL",
+          "position": "Director",
+          "value": 3571797.0,
+          "shares": 15000
+        },
+        {
+          "date": "2026-05-04",
+          "name": "GRAHAM-CUMMING JOHN",
+          "position": "Director",
+          "value": 558382.0,
+          "shares": 2520
+        },
+        {
+          "date": "2026-05-01",
+          "name": "LEDBETTER CARL",
+          "position": "Director",
+          "value": 1081049.0,
+          "shares": 5009
+        },
+        {
+          "date": "2026-05-01",
+          "name": "HAWKINS MARK J",
+          "position": "Director",
+          "value": 28145.0,
+          "shares": 133
+        },
+        {
+          "date": "2026-04-28",
+          "name": "LEDBETTER CARL",
+          "position": "Director",
+          "value": 2156573.0,
+          "shares": 9991
+        },
+        {
+          "date": "2026-04-22",
+          "name": "ZATLYN MICHELLE",
+          "position": "President",
+          "value": 15759466.0,
+          "shares": 76923
+        },
+        {
+          "date": "2026-04-17",
+          "name": "SEIFERT THOMAS J",
+          "position": "Chief Financial Officer",
+          "value": 1979757.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-04-08",
+          "name": "PRINCE MATTHEW",
+          "position": "Chief Executive Officer",
+          "value": 33167769.0,
+          "shares": 156493
+        },
+        {
+          "date": "2026-04-08",
+          "name": "PRINCE MATTHEW",
+          "position": "Chief Executive Officer",
+          "value": 147367.0,
+          "shares": 659
+        },
+        {
+          "date": "2026-04-01",
+          "name": "HAWKINS MARK J",
+          "position": "Director",
+          "value": 27877.0,
+          "shares": 133
+        },
+        {
+          "date": "2026-03-27",
+          "name": "GRAHAM-CUMMING JOHN",
+          "position": "Director",
+          "value": 737203.0,
+          "shares": 3644
+        },
+        {
+          "date": "2026-03-18",
+          "name": "PRINCE MATTHEW",
+          "position": "Chief Executive Officer",
+          "value": 30555701.0,
+          "shares": 143534
+        },
+        {
+          "date": "2026-03-18",
+          "name": "PRINCE MATTHEW",
+          "position": "Chief Executive Officer",
+          "value": 3102156.0,
+          "shares": 13618
+        },
+        {
+          "date": "2026-03-18",
+          "name": "LEDBETTER CARL",
+          "position": "Director",
+          "value": 3405750.0,
+          "shares": 15000
+        },
+        {
+          "date": "2026-03-17",
+          "name": "SEIFERT THOMAS J",
+          "position": "Chief Financial Officer",
+          "value": 2195442.0,
+          "shares": 10341
+        },
+        {
+          "date": "2026-03-05",
+          "name": "RILEY JANEL",
+          "position": "Officer",
+          "value": 4433080.0,
+          "shares": 23332
+        },
+        {
+          "date": "2026-03-05",
+          "name": "ZATLYN MICHELLE",
+          "position": "President",
+          "value": 13941970.0,
+          "shares": 76923
+        },
+        {
+          "date": "2026-03-03",
+          "name": "RILEY JANEL",
+          "position": "Officer",
+          "value": 748800.0,
+          "shares": 4160
+        },
+        {
+          "date": "2026-03-02",
+          "name": "GRAHAM-CUMMING JOHN",
+          "position": "Director",
+          "value": 449154.0,
+          "shares": 2520
+        },
+        {
+          "date": "2026-03-02",
+          "name": "HAWKINS MARK J",
+          "position": "Director",
+          "value": 22426.0,
+          "shares": 133
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 325.67999267578125,
+      "change": 31.22,
+      "change_pct": 10.6,
+      "open": 321.49,
+      "high": 331.85,
+      "low": 316.2,
+      "prev_close": 294.46,
+      "volume": 9255400,
+      "avg_volume": 2230090,
+      "vol_ratio": 4.15,
+      "chg_1w": 2.58,
+      "chg_1m": 26.09,
+      "rsi": 60.7,
+      "sma20": 299.52,
+      "sma50": 271.08,
+      "high_52w": 444.72,
+      "low_52w": 182.43,
+      "pct_from_high": -26.8,
+      "market_cap": 26217218048,
+      "pe": null,
+      "fwd_pe": 45.98,
+      "eps": -0.98,
+      "target": 362.24,
+      "recommendation": "buy",
+      "rev_growth": 0.267,
+      "profit_margin": -0.029,
+      "beta": 1.49,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-18",
+          "name": "MERRIMAN DWIGHT A",
+          "position": "Director",
+          "value": 4869798.0,
+          "shares": 16000
+        },
+        {
+          "date": "2026-05-07",
+          "name": "MERRIMAN DWIGHT A",
+          "position": "Director",
+          "value": 580120.0,
+          "shares": 2000
+        },
+        {
+          "date": "2026-04-16",
+          "name": "MERRIMAN DWIGHT A",
+          "position": "Director",
+          "value": 2904414.0,
+          "shares": 12000
+        },
+        {
+          "date": "2026-04-01",
+          "name": "COCHRAN HOPE F",
+          "position": "Director",
+          "value": 390451.0,
+          "shares": 1566
+        },
+        {
+          "date": "2026-03-16",
+          "name": "MERRIMAN DWIGHT A",
+          "position": "Director",
+          "value": 3123799.0,
+          "shares": 12000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 130.0399932861328,
+      "change": 3.63,
+      "change_pct": 2.87,
+      "open": 126.55,
+      "high": 133.25,
+      "low": 122.31,
+      "prev_close": 126.41,
+      "volume": 16215900,
+      "avg_volume": 5750090,
+      "vol_ratio": 2.82,
+      "chg_1w": -23.96,
+      "chg_1m": -3.48,
+      "rsi": 40.1,
+      "sma20": 153.94,
+      "sma50": 143.91,
+      "high_52w": 336.99,
+      "low_52w": 114.625,
+      "pct_from_high": -61.4,
+      "market_cap": 21028704256,
+      "pe": null,
+      "fwd_pe": 28.29,
+      "eps": -0.48,
+      "target": 194.46,
+      "recommendation": "buy",
+      "rev_growth": 0.254,
+      "profit_margin": -0.024,
+      "beta": 0.96,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-03-18",
+          "name": "GELLER ADAM",
+          "position": "Officer",
+          "value": 554033.0,
+          "shares": 3579
+        },
+        {
+          "date": "2026-03-18",
+          "name": "BEER JAMES ALEXANDER",
+          "position": "Director",
+          "value": 27175.0,
+          "shares": 177
+        },
+        {
+          "date": "2026-03-17",
+          "name": "RICH MICHAEL J",
+          "position": "Officer",
+          "value": 492799.0,
+          "shares": 3147
+        },
+        {
+          "date": "2026-03-17",
+          "name": "JUDGE RAJ",
+          "position": "Officer and Director",
+          "value": 389604.0,
+          "shares": 2488
+        },
+        {
+          "date": "2026-03-17",
+          "name": "SCHLOSSMAN ROBERT S",
+          "position": "Officer",
+          "value": 354370.0,
+          "shares": 2263
+        },
+        {
+          "date": "2026-03-17",
+          "name": "CHAUDHRY JAGTAR SINGH",
+          "position": "Chief Executive Officer",
+          "value": 303947.0,
+          "shares": 1941
+        },
+        {
+          "date": "2026-03-17",
+          "name": "RUBIN KEVIN E",
+          "position": "Chief Financial Officer",
+          "value": 263390.0,
+          "shares": 1682
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 257.7699890136719,
+      "change": 9.3,
+      "change_pct": 3.74,
+      "open": 249.23,
+      "high": 259.0,
+      "low": 248.41,
+      "prev_close": 248.47,
+      "volume": 5663300,
+      "avg_volume": 8003665,
+      "vol_ratio": 0.71,
+      "chg_1w": 1.92,
+      "chg_1m": 41.99,
+      "rsi": 80.5,
+      "sma20": 223.3,
+      "sma50": 189.16,
+      "high_52w": 261.41,
+      "low_52w": 139.57,
+      "pct_from_high": -1.4,
+      "market_cap": 209051467776,
+      "pe": 143.21,
+      "fwd_pe": 64.77,
+      "eps": 1.8,
+      "target": 230.1,
+      "recommendation": "buy",
+      "rev_growth": 0.149,
+      "profit_margin": 0.13,
+      "beta": 0.77,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-03-27",
+          "name": "ARORA NIKESH",
+          "position": "Chief Executive Officer",
+          "value": 9999977.0,
+          "shares": 68085
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-05-22",
+          "name": "KLARICH LEE",
+          "position": "Officer and Director",
+          "value": 16270352.0,
+          "shares": 62904
+        },
+        {
+          "date": "2026-05-20",
+          "name": "PAUL JOSHUA D.",
+          "position": "Officer",
+          "value": 94780.0,
+          "shares": 400
+        },
+        {
+          "date": "2026-04-08",
+          "name": "KEY JOHN PHILLIP",
+          "position": "Director",
+          "value": 272459.0,
+          "shares": 1572
+        },
+        {
+          "date": "2026-04-01",
+          "name": "PAUL JOSHUA D.",
+          "position": "Officer",
+          "value": 177540.0,
+          "shares": 1100
+        },
+        {
+          "date": "2026-04-01",
+          "name": "GOLECHHA DIPAK",
+          "position": "Chief Financial Officer",
+          "value": 802077.0,
+          "shares": 5000
+        },
+        {
+          "date": "2026-03-06",
+          "name": "GOETZ JAMES JOSEPH",
+          "position": "Director",
+          "value": 3729511.0,
+          "shares": 22684
+        },
+        {
+          "date": "2026-03-06",
+          "name": "GOETZ JAMES JOSEPH",
+          "position": "Director",
+          "value": 3729511.0,
+          "shares": 22684
+        },
+        {
+          "date": "2026-03-02",
+          "name": "PAUL JOSHUA D.",
+          "position": "Officer",
+          "value": 251430.0,
+          "shares": 1700
+        }
+      ],
+      "total_insider_buys": 9999977,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 129.6999969482422,
+      "change": 1.77,
+      "change_pct": 1.38,
+      "open": 128.58,
+      "high": 129.94,
+      "low": 126.61,
+      "prev_close": 127.93,
+      "volume": 5806200,
+      "avg_volume": 6485105,
+      "vol_ratio": 0.9,
+      "chg_1w": 0.19,
+      "chg_1m": 50.62,
+      "rsi": 78.6,
+      "sma20": 114.63,
+      "sma50": 95.06,
+      "high_52w": 134.91,
+      "low_52w": 70.12,
+      "pct_from_high": -3.9,
+      "market_cap": 95024496640,
+      "pe": 49.5,
+      "fwd_pe": 37.87,
+      "eps": 2.62,
+      "target": 107.86,
+      "recommendation": "hold",
+      "rev_growth": 0.201,
+      "profit_margin": 0.275,
+      "beta": 0.92,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-21",
+          "name": "WHITTLE JOHN",
+          "position": "Chief Operating Officer",
+          "value": 18749948.0,
+          "shares": 146015
+        },
+        {
+          "date": "2026-05-20",
+          "name": "OHLGART CHRISTIANE MARGRIT",
+          "position": "Chief Financial Officer",
+          "value": 30940.0,
+          "shares": 238
+        },
+        {
+          "date": "2026-05-14",
+          "name": "OHLGART CHRISTIANE MARGRIT",
+          "position": "Chief Financial Officer",
+          "value": 90720.0,
+          "shares": 756
+        },
+        {
+          "date": "2026-05-11",
+          "name": "OHLGART CHRISTIANE MARGRIT",
+          "position": "Chief Financial Officer",
+          "value": 27370.0,
+          "shares": 238
+        },
+        {
+          "date": "2026-05-07",
+          "name": "OHLGART CHRISTIANE MARGRIT",
+          "position": "Chief Financial Officer",
+          "value": 83160.0,
+          "shares": 756
+        },
+        {
+          "date": "2026-05-05",
+          "name": "OHLGART CHRISTIANE MARGRIT",
+          "position": "Chief Financial Officer",
+          "value": 53461.0,
+          "shares": 596
+        },
+        {
+          "date": "2026-05-04",
+          "name": "XIE KENNETH QING",
+          "position": "Chief Executive Officer",
+          "value": 476035.0,
+          "shares": 5355
+        },
+        {
+          "date": "2026-05-04",
+          "name": "XIE MICHAEL",
+          "position": "Chief Technology Officer",
+          "value": 220281.0,
+          "shares": 2478
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 130.00999450683594,
+      "change": 5.51,
+      "change_pct": 4.43,
+      "open": 126.73,
+      "high": 131.47,
+      "low": 124.02,
+      "prev_close": 124.5,
+      "volume": 5590800,
+      "avg_volume": 5168215,
+      "vol_ratio": 1.08,
+      "chg_1w": 6.7,
+      "chg_1m": 6.19,
+      "rsi": 49.1,
+      "sma20": 125.06,
+      "sma50": 125.21,
+      "high_52w": 257.09,
+      "low_52w": 110.36,
+      "pct_from_high": -49.4,
+      "market_cap": 32109019136,
+      "pe": 38.81,
+      "fwd_pe": 10.3,
+      "eps": 3.35,
+      "target": 171.13,
+      "recommendation": "buy",
+      "rev_growth": 0.135,
+      "profit_margin": 0.086,
+      "beta": 1.03,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-04-10",
+          "name": "GARFIELD MARK S.",
+          "position": "Officer",
+          "value": 179184.0,
+          "shares": 1585
+        },
+        {
+          "date": "2026-04-09",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 12075839.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-04-07",
+          "name": "ROWE ZANE C",
+          "position": "Chief Financial Officer",
+          "value": 769314.0,
+          "shares": 6000
+        },
+        {
+          "date": "2026-04-07",
+          "name": "KAZMAIER GERRIT S",
+          "position": "Officer",
+          "value": 1201217.0,
+          "shares": 9356
+        },
+        {
+          "date": "2026-04-06",
+          "name": "ENSLIN ROBERT",
+          "position": "President",
+          "value": 695339.0,
+          "shares": 5373
+        },
+        {
+          "date": "2026-04-06",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 13932089.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-31",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 13949215.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-26",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 13797430.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-23",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 14708651.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-18",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 14252009.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-13",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 14262350.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-10",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 15284227.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-05",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 15819244.0,
+          "shares": 107500
+        },
+        {
+          "date": "2026-03-02",
+          "name": "DUFFIELD DAVID A.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 14447900.0,
+          "shares": 107500
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 198.8000030517578,
+      "change": -1.92,
+      "change_pct": -0.96,
+      "open": 204.43,
+      "high": 208.23,
+      "low": 196.29,
+      "prev_close": 200.72,
+      "volume": 2043300,
+      "avg_volume": 2110700,
+      "vol_ratio": 0.97,
+      "chg_1w": 0.22,
+      "chg_1m": -12.52,
+      "rsi": 30.7,
+      "sma20": 209.05,
+      "sma50": 222.42,
+      "high_52w": 611.0,
+      "low_52w": 173.25,
+      "pct_from_high": -67.5,
+      "market_cap": 10176712704,
+      "pe": 105.19,
+      "fwd_pe": 12.73,
+      "eps": 1.89,
+      "target": 280.16,
+      "recommendation": "buy",
+      "rev_growth": 0.234,
+      "profit_margin": 0.03,
+      "beta": 1.23,
+      "score": 85,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-05-12",
+          "name": "SHAH DHARMESH P",
+          "position": "Chief Technology Officer",
+          "value": 1813700.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-05-12",
+          "name": "RANGAN YAMINI",
+          "position": "Chief Executive Officer",
+          "value": 522060.0,
+          "shares": 2750
+        },
+        {
+          "date": "2026-05-11",
+          "name": "NORRINGTON LORRIE M",
+          "position": "Director",
+          "value": 250021.0,
+          "shares": 1313
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-05-19",
+          "name": "HALLIGAN BRIAN P",
+          "position": "Director",
+          "value": 1870000.0,
+          "shares": 8500
+        },
+        {
+          "date": "2026-05-04",
+          "name": "FISHER ERIKA",
+          "position": "Officer",
+          "value": 216544.0,
+          "shares": 915
+        },
+        {
+          "date": "2026-04-21",
+          "name": "HALLIGAN BRIAN P",
+          "position": "Director",
+          "value": 1913130.0,
+          "shares": 8292
+        },
+        {
+          "date": "2026-03-17",
+          "name": "HALLIGAN BRIAN P",
+          "position": "Director",
+          "value": 2233375.0,
+          "shares": 8500
+        }
+      ],
+      "total_insider_buys": 2585781,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "ESTC",
+      "company": "Elastic N.V.",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 57.61000061035156,
+      "change": 3.71,
+      "change_pct": 6.88,
+      "open": 57.1,
+      "high": 59.19,
+      "low": 56.0,
+      "prev_close": 53.9,
+      "volume": 6279900,
+      "avg_volume": 1996020,
+      "vol_ratio": 3.15,
+      "chg_1w": 7.0,
+      "chg_1m": 21.54,
+      "rsi": 66.3,
+      "sma20": 51.79,
+      "sma50": 50.1,
+      "high_52w": 96.07,
+      "low_52w": 42.05,
+      "pct_from_high": -40.0,
+      "market_cap": 5962693120,
+      "pe": 16.8,
+      "fwd_pe": 17.33,
+      "eps": 3.43,
+      "target": 77.01,
+      "recommendation": "buy",
+      "rev_growth": 0.177,
+      "profit_margin": -0.05,
+      "beta": 0.89,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-03-09",
+          "name": "BONE JANE E",
+          "position": "Officer",
+          "value": 46372.0,
+          "shares": 887
+        },
+        {
+          "date": "2026-03-09",
+          "name": "HERZOG CAROLYN",
+          "position": "Officer",
+          "value": 208545.0,
+          "shares": 3989
+        },
+        {
+          "date": "2026-03-09",
+          "name": "EXNER KEN",
+          "position": "Officer",
+          "value": 225327.0,
+          "shares": 4310
+        },
+        {
+          "date": "2026-03-09",
+          "name": "DODDS MARK EUGENE",
+          "position": "Officer",
+          "value": 194638.0,
+          "shares": 3723
+        },
+        {
+          "date": "2026-03-09",
+          "name": "KULKARNI ASHUTOSH K",
+          "position": "Chief Executive Officer",
+          "value": 928284.0,
+          "shares": 17756
+        },
+        {
+          "date": "2026-03-09",
+          "name": "WELIHINDA NAVAM",
+          "position": "Chief Financial Officer",
+          "value": 169387.0,
+          "shares": 3240
+        },
+        {
+          "date": "2026-03-09",
+          "name": "BANON SHAY - SHALOM",
+          "position": "Chief Technology Officer",
+          "value": 223915.0,
+          "shares": 4283
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "GTLB",
+      "company": "GitLab Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 27.93000030517578,
+      "change": 1.41,
+      "change_pct": 5.32,
+      "open": 27.2,
+      "high": 28.57,
+      "low": 26.61,
+      "prev_close": 26.52,
+      "volume": 4629600,
+      "avg_volume": 5474940,
+      "vol_ratio": 0.85,
+      "chg_1w": 9.02,
+      "chg_1m": 27.48,
+      "rsi": 58.0,
+      "sma20": 24.98,
+      "sma50": 22.9,
+      "high_52w": 52.38,
+      "low_52w": 18.73,
+      "pct_from_high": -46.7,
+      "market_cap": 4716032000,
+      "pe": null,
+      "fwd_pe": 28.47,
+      "eps": -0.34,
+      "target": 30.3,
+      "recommendation": "hold",
+      "rev_growth": 0.232,
+      "profit_margin": -0.059,
+      "beta": 0.82,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-03-31",
+          "name": "STAPLES WILLIAM",
+          "position": "Chief Executive Officer",
+          "value": 128342.0,
+          "shares": 6010
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-05-18",
+          "name": "SIJBRANDIJ SYTSE",
+          "position": "Director",
+          "value": 2887801.0,
+          "shares": 116200
+        },
+        {
+          "date": "2026-04-15",
+          "name": "SIJBRANDIJ SYTSE",
+          "position": "Director",
+          "value": 2413474.0,
+          "shares": 116200
+        },
+        {
+          "date": "2026-03-27",
+          "name": "BOSTROM SUSAN L",
+          "position": "Director",
+          "value": 661700.0,
+          "shares": 32500
+        },
+        {
+          "date": "2026-03-20",
+          "name": "JACOBSON MATTHEW",
+          "position": "Director",
+          "value": 26350369.0,
+          "shares": 1159908
+        }
+      ],
+      "total_insider_buys": 128342,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "price": 16.969999313354492,
+      "change": 0.8,
+      "change_pct": 4.95,
+      "open": 16.02,
+      "high": 17.08,
+      "low": 15.82,
+      "prev_close": 16.17,
+      "volume": 69070400,
+      "avg_volume": 63780910,
+      "vol_ratio": 1.08,
+      "chg_1w": 8.43,
+      "chg_1m": 9.31,
+      "rsi": 59.2,
+      "sma20": 15.95,
+      "sma50": 16.69,
+      "high_52w": 32.73,
+      "low_52w": 12.86,
+      "pct_from_high": -48.2,
+      "market_cap": 21768118272,
+      "pe": 37.71,
+      "fwd_pe": 21.88,
+      "eps": 0.45,
+      "target": 21.0,
+      "recommendation": "hold",
+      "rev_growth": 0.425,
+      "profit_margin": 0.148,
+      "beta": 2.13,
+      "score": 90,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-05-11",
+          "name": "NOTO ANTHONY J.",
+          "position": "Chief Executive Officer",
+          "value": 248781.0,
+          "shares": 15545
+        },
+        {
+          "date": "2026-05-08",
+          "name": "NOTO ANTHONY J.",
+          "position": "Chief Executive Officer",
+          "value": 249769.0,
+          "shares": 15878
+        },
+        {
+          "date": "2026-03-17",
+          "name": "NOTO ANTHONY J.",
+          "position": "Chief Executive Officer",
+          "value": 500516.0,
+          "shares": 28900
+        },
+        {
+          "date": "2026-03-02",
+          "name": "NOTO ANTHONY J.",
+          "position": "Chief Executive Officer",
+          "value": 1001515.0,
+          "shares": 56000
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-05-20",
+          "name": "KEOUGH KELLI ALLEN",
+          "position": "Officer",
+          "value": 155921.0,
+          "shares": 10037
+        },
+        {
+          "date": "2026-04-21",
+          "name": "KEOUGH KELLI ALLEN",
+          "position": "Officer",
+          "value": 187551.0,
+          "shares": 9742
+        },
+        {
+          "date": "2026-03-20",
+          "name": "KEOUGH KELLI ALLEN",
+          "position": "Officer",
+          "value": 165066.0,
+          "shares": 9742
+        },
+        {
+          "date": "2026-03-18",
+          "name": "RISHEL JEREMY DYLAN",
+          "position": "Chief Technology Officer",
+          "value": 1655118.0,
+          "shares": 94958
+        }
+      ],
+      "total_insider_buys": 2000581,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "price": 84.83999633789062,
+      "change": 8.61,
+      "change_pct": 11.29,
+      "open": 74.85,
+      "high": 84.92,
+      "low": 73.53,
+      "prev_close": 76.23,
+      "volume": 43790000,
+      "avg_volume": 23272430,
+      "vol_ratio": 1.88,
+      "chg_1w": 11.75,
+      "chg_1m": 19.16,
+      "rsi": 62.5,
+      "sma20": 76.9,
+      "sma50": 76.39,
+      "high_52w": 153.86,
+      "low_52w": 62.92,
+      "pct_from_high": -44.9,
+      "market_cap": 76398845952,
+      "pe": 41.18,
+      "fwd_pe": 31.1,
+      "eps": 2.06,
+      "target": 98.44,
+      "recommendation": "buy",
+      "rev_growth": 0.151,
+      "profit_margin": 0.411,
+      "beta": 2.29,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-20",
+          "name": "BHATT BAIJU PRAFULKUMAR",
+          "position": "Director",
+          "value": 5082038.0,
+          "shares": 67422
+        },
+        {
+          "date": "2026-05-15",
+          "name": "VERMA SHIV",
+          "position": "Chief Financial Officer",
+          "value": 420536.0,
+          "shares": 5436
+        },
+        {
+          "date": "2026-05-04",
+          "name": "GALLAGHER DANIEL MARTIN JR",
+          "position": "Officer",
+          "value": 768908.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-04-27",
+          "name": "PINNER JEFFREY TSVI",
+          "position": "Chief Technology Officer",
+          "value": 489687.0,
+          "shares": 5835
+        },
+        {
+          "date": "2026-04-16",
+          "name": "BHATT BAIJU PRAFULKUMAR",
+          "position": "Director",
+          "value": 4946061.0,
+          "shares": 57261
+        },
+        {
+          "date": "2026-04-15",
+          "name": "QUIRK STEVEN M",
+          "position": "Officer",
+          "value": 725302.0,
+          "shares": 8540
+        },
+        {
+          "date": "2026-04-15",
+          "name": "VERMA SHIV",
+          "position": "Chief Financial Officer",
+          "value": 466717.0,
+          "shares": 5436
+        },
+        {
+          "date": "2026-04-06",
+          "name": "GALLAGHER DANIEL MARTIN JR",
+          "position": "Officer",
+          "value": 698451.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-04-06",
+          "name": "TENEV VLADIMIR",
+          "position": "Chief Executive Officer",
+          "value": 26187704.0,
+          "shares": 375000
+        },
+        {
+          "date": "2026-04-06",
+          "name": "PINNER JEFFREY TSVI",
+          "position": "Chief Technology Officer",
+          "value": 407575.0,
+          "shares": 5835
+        },
+        {
+          "date": "2026-03-20",
+          "name": "BHATT BAIJU PRAFULKUMAR",
+          "position": "Director",
+          "value": 4808528.0,
+          "shares": 67422
+        },
+        {
+          "date": "2026-03-20",
+          "name": "PINNER JEFFREY TSVI",
+          "position": "Chief Technology Officer",
+          "value": 416392.0,
+          "shares": 5835
+        },
+        {
+          "date": "2026-03-16",
+          "name": "VERMA SHIV",
+          "position": "Chief Financial Officer",
+          "value": 407855.0,
+          "shares": 5438
+        },
+        {
+          "date": "2026-03-05",
+          "name": "PINNER JEFFREY TSVI",
+          "position": "Chief Technology Officer",
+          "value": 469822.0,
+          "shares": 5836
+        },
+        {
+          "date": "2026-03-03",
+          "name": "GALLAGHER DANIEL MARTIN JR",
+          "position": "Officer",
+          "value": 754903.0,
+          "shares": 10000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "price": 182.25,
+      "change": 8.47,
+      "change_pct": 4.87,
+      "open": 170.49,
+      "high": 182.65,
+      "low": 169.17,
+      "prev_close": 173.78,
+      "volume": 9026700,
+      "avg_volume": 9568330,
+      "vol_ratio": 0.94,
+      "chg_1w": -5.84,
+      "chg_1m": 0.29,
+      "rsi": 45.0,
+      "sma20": 194.7,
+      "sma50": 189.62,
+      "high_52w": 444.65,
+      "low_52w": 139.36,
+      "pct_from_high": -59.0,
+      "market_cap": 48015724544,
+      "pe": 67.0,
+      "fwd_pe": 36.78,
+      "eps": 2.72,
+      "target": 231.55,
+      "recommendation": "buy",
+      "rev_growth": -0.308,
+      "profit_margin": 0.127,
+      "beta": 3.38,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-15",
+          "name": "HAAS ALESIA J",
+          "position": "Chief Financial Officer",
+          "value": 2004990.0,
+          "shares": 9750
+        },
+        {
+          "date": "2026-04-16",
+          "name": "HAAS ALESIA J",
+          "position": "Chief Financial Officer",
+          "value": 2004000.0,
+          "shares": 10020
+        },
+        {
+          "date": "2026-03-16",
+          "name": "HAAS ALESIA J",
+          "position": "Chief Financial Officer",
+          "value": 2005934.0,
+          "shares": 9950
+        },
+        {
+          "date": "2026-03-04",
+          "name": "HAAS ALESIA J",
+          "position": "Chief Financial Officer",
+          "value": 2004000.0,
+          "shares": 10020
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "sector": "Technology",
+      "industry": "Software - Application",
+      "price": 151.63999938964844,
+      "change": -2.56,
+      "change_pct": -1.66,
+      "open": 148.98,
+      "high": 153.64,
+      "low": 144.3,
+      "prev_close": 154.2,
+      "volume": 16234400,
+      "avg_volume": 14761975,
+      "vol_ratio": 1.1,
+      "chg_1w": -8.01,
+      "chg_1m": -4.14,
+      "rsi": 32.5,
+      "sma20": 173.9,
+      "sma50": 155.41,
+      "high_52w": 457.22,
+      "low_52w": 104.17,
+      "pct_from_high": -66.8,
+      "market_cap": 53242249216,
+      "pe": null,
+      "fwd_pe": 33.99,
+      "eps": -36.98,
+      "target": 380.79,
+      "recommendation": "strong_buy",
+      "rev_growth": 0.119,
+      "profit_margin": null,
+      "beta": 3.6,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-20",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 875088.0,
+          "shares": 5250
+        },
+        {
+          "date": "2026-05-19",
+          "name": "KANG ANDREW",
+          "position": "Chief Financial Officer",
+          "value": 927865.0,
+          "shares": 5597
+        },
+        {
+          "date": "2026-05-19",
+          "name": "KANG ANDREW",
+          "position": "Chief Financial Officer",
+          "value": 927865.0,
+          "shares": 5597
+        },
+        {
+          "date": "2026-05-14",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 286280.0,
+          "shares": 1500
+        },
+        {
+          "date": "2026-05-11",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 713571.0,
+          "shares": 3750
+        },
+        {
+          "date": "2026-05-04",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 366500.0,
+          "shares": 2000
+        },
+        {
+          "date": "2026-05-01",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 676700.0,
+          "shares": 4000
+        },
+        {
+          "date": "2026-04-22",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 356312.0,
+          "shares": 2000
+        },
+        {
+          "date": "2026-04-21",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 336420.0,
+          "shares": 2000
+        },
+        {
+          "date": "2026-04-13",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 444193.0,
+          "shares": 3400
+        },
+        {
+          "date": "2026-04-09",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 248105.0,
+          "shares": 1900
+        },
+        {
+          "date": "2026-04-08",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 270654.0,
+          "shares": 2100
+        },
+        {
+          "date": "2026-04-01",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 172653.0,
+          "shares": 1400
+        },
+        {
+          "date": "2026-03-30",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 89628.0,
+          "shares": 700
+        },
+        {
+          "date": "2026-03-26",
+          "name": "PATTEN JARROD MICHAEL",
+          "position": "Director",
+          "value": 96159.0,
+          "shares": 700
+        },
+        {
+          "date": "2026-03-24",
+          "name": "LE PHONG QUOC",
+          "position": "Chief Executive Officer",
+          "value": 456362.0,
+          "shares": 3299
+        },
+        {
+          "date": "2026-03-24",
+          "name": "KANG ANDREW",
+          "position": "Chief Financial Officer",
+          "value": 328266.0,
+          "shares": 2373
+        },
+        {
+          "date": "2026-03-24",
+          "name": "MONTGOMERY JEANINE J.",
+          "position": "Officer",
+          "value": 65016.0,
+          "shares": 470
+        },
+        {
+          "date": "2026-03-12",
+          "name": "LE PHONG QUOC",
+          "position": "Chief Executive Officer",
+          "value": 279175.0,
+          "shares": 2034
+        },
+        {
+          "date": "2026-03-12",
+          "name": "KANG ANDREW",
+          "position": "Chief Financial Officer",
+          "value": 125725.0,
+          "shares": 916
+        },
+        {
+          "date": "2026-03-12",
+          "name": "MONTGOMERY JEANINE J.",
+          "position": "Officer",
+          "value": 35686.0,
+          "shares": 260
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "price": 44.459999084472656,
+      "change": 0.7,
+      "change_pct": 1.6,
+      "open": 43.71,
+      "high": 44.58,
+      "low": 43.32,
+      "prev_close": 43.76,
+      "volume": 17112200,
+      "avg_volume": 15443225,
+      "vol_ratio": 1.11,
+      "chg_1w": 0.36,
+      "chg_1m": -12.72,
+      "rsi": 32.4,
+      "sma20": 45.7,
+      "sma50": 46.54,
+      "high_52w": 79.5,
+      "low_52w": 38.46,
+      "pct_from_high": -44.1,
+      "market_cap": 39218409472,
+      "pe": 8.34,
+      "fwd_pe": 7.7,
+      "eps": 5.33,
+      "target": 52.53,
+      "recommendation": "hold",
+      "rev_growth": 0.072,
+      "profit_margin": 0.15,
+      "beta": 1.4,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-19",
+          "name": "KEREERE SUZAN",
+          "position": "Officer",
+          "value": 183944.0,
+          "shares": 4162
+        },
+        {
+          "date": "2026-04-29",
+          "name": "NATALI CHRIS",
+          "position": "Officer",
+          "value": 66128.0,
+          "shares": 1337
+        },
+        {
+          "date": "2026-04-29",
+          "name": "KELLER FRANK",
+          "position": "Officer",
+          "value": 536205.0,
+          "shares": 10732
+        },
+        {
+          "date": "2026-03-03",
+          "name": "KEREERE SUZAN",
+          "position": "Officer",
+          "value": 621984.0,
+          "shares": 13515
+        },
+        {
+          "date": "2026-03-03",
+          "name": "NATALI CHRIS",
+          "position": "Officer",
+          "value": 98764.0,
+          "shares": 2208
+        },
+        {
+          "date": "2026-03-03",
+          "name": "KELLER FRANK",
+          "position": "Officer",
+          "value": 1361370.0,
+          "shares": 29581
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "AFRM",
+      "company": "Affirm Holdings, Inc.",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "price": 73.0,
+      "change": 2.56,
+      "change_pct": 3.63,
+      "open": 70.44,
+      "high": 73.33,
+      "low": 69.64,
+      "prev_close": 70.44,
+      "volume": 5020100,
+      "avg_volume": 5472325,
+      "vol_ratio": 0.92,
+      "chg_1w": 8.66,
+      "chg_1m": 15.0,
+      "rsi": 59.9,
+      "sma20": 66.67,
+      "sma50": 58.42,
+      "high_52w": 100.0,
+      "low_52w": 42.095,
+      "pct_from_high": -27.0,
+      "market_cap": 24447594496,
+      "pe": 66.36,
+      "fwd_pe": 19.14,
+      "eps": 1.1,
+      "target": 83.15,
+      "recommendation": "buy",
+      "rev_growth": 0.326,
+      "profit_margin": 0.096,
+      "beta": 3.72,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-13",
+          "name": "WATSON NOEL BERTRAM JR",
+          "position": "Director",
+          "value": 130000.0,
+          "shares": 2000
+        },
+        {
+          "date": "2026-04-14",
+          "name": "WATSON NOEL BERTRAM JR",
+          "position": "Director",
+          "value": 110000.0,
+          "shares": 2000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "UPST",
+      "company": "Upstart Holdings, Inc.",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "price": 32.689998626708984,
+      "change": 1.97,
+      "change_pct": 6.41,
+      "open": 30.14,
+      "high": 32.73,
+      "low": 29.93,
+      "prev_close": 30.72,
+      "volume": 5417800,
+      "avg_volume": 5079070,
+      "vol_ratio": 1.07,
+      "chg_1w": 13.31,
+      "chg_1m": 7.25,
+      "rsi": 65.6,
+      "sma20": 29.66,
+      "sma50": 29.26,
+      "high_52w": 87.3,
+      "low_52w": 23.965,
+      "pct_from_high": -62.6,
+      "market_cap": 3128811008,
+      "pe": 79.73,
+      "fwd_pe": 9.63,
+      "eps": 0.41,
+      "target": 40.2,
+      "recommendation": "buy",
+      "rev_growth": 0.446,
+      "profit_margin": 0.042,
+      "beta": 2.26,
+      "score": 85,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-05-13",
+          "name": "GU PAUL",
+          "position": "Chief Executive Officer",
+          "value": 1375000.0,
+          "shares": 50000
+        },
+        {
+          "date": "2026-05-07",
+          "name": "GIROUARD DAVID",
+          "position": "Director and Beneficial Owner of more than 10% of a Class of Security",
+          "value": 4999607.0,
+          "shares": 170240
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-05-26",
+          "name": "MIRGORODSKAYA NATALIA",
+          "position": "Officer",
+          "value": 28236.0,
+          "shares": 974
+        },
+        {
+          "date": "2026-05-20",
+          "name": "DARLING SCOTT L",
+          "position": "Officer",
+          "value": 190912.0,
+          "shares": 6634
+        },
+        {
+          "date": "2026-05-20",
+          "name": "DATTA SANJAY",
+          "position": "Officer",
+          "value": 229740.0,
+          "shares": 7985
+        },
+        {
+          "date": "2026-05-20",
+          "name": "MIRGORODSKAYA NATALIA",
+          "position": "Officer",
+          "value": 15134.0,
+          "shares": 526
+        },
+        {
+          "date": "2026-05-15",
+          "name": "DARLING SCOTT L",
+          "position": "Officer",
+          "value": 21476.0,
+          "shares": 727
+        },
+        {
+          "date": "2026-05-15",
+          "name": "DATTA SANJAY",
+          "position": "Officer",
+          "value": 53707.0,
+          "shares": 1817
+        },
+        {
+          "date": "2026-03-02",
+          "name": "MIRGORODSKAYA NATALIA",
+          "position": "Officer",
+          "value": 10148.0,
+          "shares": 390
+        }
+      ],
+      "total_insider_buys": 6374607,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "price": 167.69000244140625,
+      "change": 13.5,
+      "change_pct": 8.76,
+      "open": 155.01,
+      "high": 167.72,
+      "low": 151.66,
+      "prev_close": 154.19,
+      "volume": 5708000,
+      "avg_volume": 6091695,
+      "vol_ratio": 0.94,
+      "chg_1w": 11.76,
+      "chg_1m": 13.5,
+      "rsi": 52.5,
+      "sma20": 157.01,
+      "sma50": 150.0,
+      "high_52w": 282.95,
+      "low_52w": 106.34,
+      "pct_from_high": -40.7,
+      "market_cap": 32281841664,
+      "pe": 47.91,
+      "fwd_pe": 18.99,
+      "eps": 3.5,
+      "target": 224.92,
+      "recommendation": "buy",
+      "rev_growth": 0.691,
+      "profit_margin": 0.286,
+      "beta": 1.85,
+      "score": 90,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-03-13",
+          "name": "FARRELL SARAH E",
+          "position": "Director",
+          "value": 1388730.0,
+          "shares": 10500
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-05-18",
+          "name": "WONG JENNIFER L",
+          "position": "Chief Operating Officer",
+          "value": 6208842.0,
+          "shares": 39167
+        },
+        {
+          "date": "2026-05-15",
+          "name": "HUFFMAN STEVE LADD",
+          "position": "Chief Executive Officer",
+          "value": 2828744.0,
+          "shares": 18000
+        },
+        {
+          "date": "2026-05-05",
+          "name": "HUFFMAN STEVE LADD",
+          "position": "Chief Executive Officer",
+          "value": 3092449.0,
+          "shares": 18000
+        },
+        {
+          "date": "2026-04-16",
+          "name": "WONG JENNIFER L",
+          "position": "Chief Operating Officer",
+          "value": 6324169.0,
+          "shares": 39167
+        },
+        {
+          "date": "2026-04-15",
+          "name": "HUFFMAN STEVE LADD",
+          "position": "Chief Executive Officer",
+          "value": 2851237.0,
+          "shares": 18000
+        },
+        {
+          "date": "2026-04-08",
+          "name": "SLOWE CHRISTOPHER BRIAN",
+          "position": "Chief Technology Officer",
+          "value": 2335420.0,
+          "shares": 15500
+        },
+        {
+          "date": "2026-03-31",
+          "name": "HUFFMAN STEVE LADD",
+          "position": "Chief Executive Officer",
+          "value": 2389852.0,
+          "shares": 18000
+        },
+        {
+          "date": "2026-03-23",
+          "name": "SLOWE CHRISTOPHER BRIAN",
+          "position": "Chief Technology Officer",
+          "value": 1342138.0,
+          "shares": 9500
+        },
+        {
+          "date": "2026-03-18",
+          "name": "WONG JENNIFER L",
+          "position": "Chief Operating Officer",
+          "value": 5616679.0,
+          "shares": 39165
+        },
+        {
+          "date": "2026-03-13",
+          "name": "HUFFMAN STEVE LADD",
+          "position": "Chief Executive Officer",
+          "value": 2391428.0,
+          "shares": 18000
+        },
+        {
+          "date": "2026-03-09",
+          "name": "SLOWE CHRISTOPHER BRIAN",
+          "position": "Chief Technology Officer",
+          "value": 1297225.0,
+          "shares": 9500
+        }
+      ],
+      "total_insider_buys": 1388730,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "sector": "Technology",
+      "industry": "Software - Infrastructure",
+      "price": 143.33999633789062,
+      "change": 10.83,
+      "change_pct": 8.17,
+      "open": 133.16,
+      "high": 145.0,
+      "low": 133.0,
+      "prev_close": 132.51,
+      "volume": 51670300,
+      "avg_volume": 42055120,
+      "vol_ratio": 1.23,
+      "chg_1w": 4.31,
+      "chg_1m": 3.89,
+      "rsi": 60.0,
+      "sma20": 136.94,
+      "sma50": 141.72,
+      "high_52w": 207.52,
+      "low_52w": 118.93,
+      "pct_from_high": -30.9,
+      "market_cap": 343630708736,
+      "pe": 149.31,
+      "fwd_pe": 69.1,
+      "eps": 0.96,
+      "target": 183.73,
+      "recommendation": "buy",
+      "rev_growth": 0.847,
+      "profit_margin": 0.437,
+      "beta": 1.52,
+      "score": 80,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-22",
+          "name": "BUCKLEY JEFFREY JOHANSING",
+          "position": "Officer",
+          "value": 346954.0,
+          "shares": 2542
+        },
+        {
+          "date": "2026-05-20",
+          "name": "SANKAR SHYAM",
+          "position": "Chief Executive Officer",
+          "value": 22516876.0,
+          "shares": 165514
+        },
+        {
+          "date": "2026-05-20",
+          "name": "TAYLOR RYAN DOUGLAS",
+          "position": "Officer",
+          "value": 2674859.0,
+          "shares": 19662
+        },
+        {
+          "date": "2026-05-20",
+          "name": "KARP ALEXANDER C.",
+          "position": "Chief Executive Officer",
+          "value": 54109936.0,
+          "shares": 397744
+        },
+        {
+          "date": "2026-05-20",
+          "name": "COHEN STEPHEN ANDREW",
+          "position": "President",
+          "value": 43524501.0,
+          "shares": 319934
+        },
+        {
+          "date": "2026-05-15",
+          "name": "MOORE ALEXANDER D",
+          "position": "Director",
+          "value": 2144663.0,
+          "shares": 16000
+        },
+        {
+          "date": "2026-04-15",
+          "name": "MOORE ALEXANDER D",
+          "position": "Director",
+          "value": 2230580.0,
+          "shares": 16000
+        },
+        {
+          "date": "2026-03-16",
+          "name": "MOORE ALEXANDER D",
+          "position": "Director",
+          "value": 2438623.0,
+          "shares": 16000
+        },
+        {
+          "date": "2026-03-02",
+          "name": "THIEL PETER A. J.D.",
+          "position": "Director",
+          "value": 289707507.0,
+          "shares": 2000000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Non-Alcoholic",
+      "price": 33.220001220703125,
+      "change": 1.57,
+      "change_pct": 4.96,
+      "open": 31.39,
+      "high": 33.44,
+      "low": 30.94,
+      "prev_close": 31.65,
+      "volume": 10348600,
+      "avg_volume": 10955190,
+      "vol_ratio": 0.94,
+      "chg_1w": 11.85,
+      "chg_1m": 1.71,
+      "rsi": 46.7,
+      "sma20": 31.12,
+      "sma50": 33.73,
+      "high_52w": 66.74,
+      "low_52w": 27.66,
+      "pct_from_high": -50.2,
+      "market_cap": 8492372992,
+      "pe": 77.26,
+      "fwd_pe": 16.36,
+      "eps": 0.43,
+      "target": 61.35,
+      "recommendation": "buy",
+      "rev_growth": 1.377,
+      "profit_margin": 0.059,
+      "beta": 0.94,
+      "score": 90,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-05-22",
+          "name": "KRAVITZ HAL",
+          "position": "Director",
+          "value": 249732.0,
+          "shares": 8400
+        },
+        {
+          "date": "2026-05-22",
+          "name": "FIELDLY JOHN ERICK",
+          "position": "Chief Executive Officer",
+          "value": 248826.0,
+          "shares": 8475
+        },
+        {
+          "date": "2026-05-21",
+          "name": "HANSON ERIC",
+          "position": "President",
+          "value": 217800.0,
+          "shares": 7500
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-03-02",
+          "name": "RUSSELL JOYCE",
+          "position": "Director",
+          "value": 147773.0,
+          "shares": 2880
+        }
+      ],
+      "total_insider_buys": 716358,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "CVNA",
+      "company": "Carvana Co.",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto & Truck Dealerships",
+      "price": 73.48999786376953,
+      "change": 0.49,
+      "change_pct": 0.67,
+      "open": 72.55,
+      "high": 75.11,
+      "low": 71.1,
+      "prev_close": 73.0,
+      "volume": 10289500,
+      "avg_volume": 11624210,
+      "vol_ratio": 0.89,
+      "chg_1w": 14.13,
+      "chg_1m": -7.35,
+      "rsi": 38.3,
+      "sma20": 72.14,
+      "sma50": 70.24,
+      "high_52w": 97.378,
+      "low_52w": 54.464,
+      "pct_from_high": -24.5,
+      "market_cap": 80606453760,
+      "pe": 42.48,
+      "fwd_pe": 34.8,
+      "eps": 1.73,
+      "target": 92.9,
+      "recommendation": "buy",
+      "rev_growth": 0.52,
+      "profit_margin": 0.064,
+      "beta": 3.55,
+      "score": 80,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-08",
+          "name": "TAIRA THOMAS",
+          "position": "Officer",
+          "value": 2178423.0,
+          "shares": 5590
+        },
+        {
+          "date": "2026-05-01",
+          "name": "PALMER STEPHEN R",
+          "position": "Officer",
+          "value": 395320.0,
+          "shares": 1000
+        },
+        {
+          "date": "2026-05-01",
+          "name": "HUSTON BENJAMIN EDWARD",
+          "position": "Chief Operating Officer",
+          "value": 3849592.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-05-01",
+          "name": "JENKINS MARK W",
+          "position": "Chief Financial Officer",
+          "value": 4936671.0,
+          "shares": 12750
+        },
+        {
+          "date": "2026-04-08",
+          "name": "TAIRA THOMAS",
+          "position": "Officer",
+          "value": 1285570.0,
+          "shares": 3770
+        },
+        {
+          "date": "2026-04-01",
+          "name": "PALMER STEPHEN R",
+          "position": "Officer",
+          "value": 317500.0,
+          "shares": 1000
+        },
+        {
+          "date": "2026-04-01",
+          "name": "HUSTON BENJAMIN EDWARD",
+          "position": "Chief Operating Officer",
+          "value": 3098592.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-04-01",
+          "name": "JENKINS MARK W",
+          "position": "Chief Financial Officer",
+          "value": 3956945.0,
+          "shares": 12750
+        },
+        {
+          "date": "2026-03-09",
+          "name": "QUAYLE DAN",
+          "position": "Director",
+          "value": 898913.0,
+          "shares": 2900
+        },
+        {
+          "date": "2026-03-09",
+          "name": "TAIRA THOMAS",
+          "position": "Officer",
+          "value": 309725.0,
+          "shares": 953
+        },
+        {
+          "date": "2026-03-02",
+          "name": "PALMER STEPHEN R",
+          "position": "Officer",
+          "value": 324840.0,
+          "shares": 1000
+        },
+        {
+          "date": "2026-03-02",
+          "name": "HUSTON BENJAMIN EDWARD",
+          "position": "Chief Operating Officer",
+          "value": 3226678.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-03-02",
+          "name": "JENKINS MARK W",
+          "position": "Chief Financial Officer",
+          "value": 4120173.0,
+          "shares": 12750
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "price": 148.02999877929688,
+      "change": -2.2,
+      "change_pct": -1.46,
+      "open": 147.17,
+      "high": 150.83,
+      "low": 142.37,
+      "prev_close": 150.23,
+      "volume": 20372500,
+      "avg_volume": 29319110,
+      "vol_ratio": 0.69,
+      "chg_1w": 18.0,
+      "chg_1m": 92.2,
+      "rsi": 80.3,
+      "sma20": 115.04,
+      "sma50": 89.77,
+      "high_52w": 151.0,
+      "low_52w": 25.24,
+      "pct_from_high": -2.0,
+      "market_cap": 85689745408,
+      "pe": null,
+      "fwd_pe": -13432.85,
+      "eps": -0.33,
+      "target": 103.91,
+      "recommendation": "buy",
+      "rev_growth": 0.635,
+      "profit_margin": -0.269,
+      "beta": 2.31,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-12",
+          "name": "SLUSKY ALEXANDER R",
+          "position": "Director",
+          "value": 11807634.0,
+          "shares": 100000
+        },
+        {
+          "date": "2026-03-06",
+          "name": "SAINTIL MERLINE A",
+          "position": "Director",
+          "value": 1360171.0,
+          "shares": 18126
+        },
+        {
+          "date": "2026-03-04",
+          "name": "KAMPANI ARJUN E",
+          "position": "General Counsel",
+          "value": 3707381.0,
+          "shares": 52472
+        },
+        {
+          "date": "2026-03-04",
+          "name": "KLEIN FRANK",
+          "position": "Chief Operating Officer",
+          "value": 5740940.0,
+          "shares": 81250
+        },
+        {
+          "date": "2026-03-02",
+          "name": "SPICE ADAM C",
+          "position": "Chief Financial Officer",
+          "value": 4366349.0,
+          "shares": 62744
+        },
+        {
+          "date": "2026-03-02",
+          "name": "BECK PETER",
+          "position": "Chief Executive Officer",
+          "value": 1312257.0,
+          "shares": 18857
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "sector": "Technology",
+      "industry": "Communication Equipment",
+      "price": 133.08999633789062,
+      "change": 3.49,
+      "change_pct": 2.69,
+      "open": 126.86,
+      "high": 133.86,
+      "low": 122.0,
+      "prev_close": 129.6,
+      "volume": 21518700,
+      "avg_volume": 24259510,
+      "vol_ratio": 0.89,
+      "chg_1w": 38.3,
+      "chg_1m": 90.54,
+      "rsi": 89.0,
+      "sma20": 86.71,
+      "sma50": 86.42,
+      "high_52w": 133.8599,
+      "low_52w": 22.47,
+      "pct_from_high": -0.6,
+      "market_cap": 51655499776,
+      "pe": null,
+      "fwd_pe": -447.92,
+      "eps": -1.8,
+      "target": 83.47,
+      "recommendation": "hold",
+      "rev_growth": 19.522,
+      "profit_margin": null,
+      "beta": 2.6,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-20",
+          "name": "JOHNSON ANDREW MARTIN",
+          "position": "Chief Financial Officer",
+          "value": 451250.0,
+          "shares": 5000
+        },
+        {
+          "date": "2026-05-13",
+          "name": "TORRES JULIO A",
+          "position": "Director",
+          "value": 1145100.0,
+          "shares": 15000
+        },
+        {
+          "date": "2026-04-15",
+          "name": "MIKITANI HIROSHI",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 270896800.0,
+          "shares": 3040000
+        },
+        {
+          "date": "2026-03-23",
+          "name": "YAO HUIWEN",
+          "position": "Chief Technology Officer",
+          "value": 3555200.0,
+          "shares": 40000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "sector": "Technology",
+      "industry": "Computer Hardware",
+      "price": 70.13999938964844,
+      "change": 4.74,
+      "change_pct": 7.25,
+      "open": 64.87,
+      "high": 71.47,
+      "low": 64.72,
+      "prev_close": 65.4,
+      "volume": 31652000,
+      "avg_volume": 35281555,
+      "vol_ratio": 0.9,
+      "chg_1w": 19.1,
+      "chg_1m": 66.56,
+      "rsi": 75.6,
+      "sma20": 54.2,
+      "sma50": 42.95,
+      "high_52w": 84.64,
+      "low_52w": 25.89,
+      "pct_from_high": -17.1,
+      "market_cap": 26181154816,
+      "pe": 179.85,
+      "fwd_pe": -67.29,
+      "eps": 0.39,
+      "target": 67.64,
+      "recommendation": "strong_buy",
+      "rev_growth": 7.547,
+      "profit_margin": 1.749,
+      "beta": 3.05,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-06",
+          "name": "CARDILLO ROBERT THOMAS",
+          "position": "Director",
+          "value": 188273.0,
+          "shares": 3773
+        },
+        {
+          "date": "2026-04-16",
+          "name": "CARDILLO ROBERT THOMAS",
+          "position": "Director",
+          "value": 112250.0,
+          "shares": 2500
+        },
+        {
+          "date": "2026-03-12",
+          "name": "RAYMOND JOHN W.",
+          "position": "Director",
+          "value": 93352.0,
+          "shares": 2800
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "price": 3.440000057220459,
+      "change": 0.27,
+      "change_pct": 8.52,
+      "open": 3.1,
+      "high": 3.48,
+      "low": 3.08,
+      "prev_close": 3.17,
+      "volume": 24436900,
+      "avg_volume": 16174100,
+      "vol_ratio": 1.51,
+      "chg_1w": 10.61,
+      "chg_1m": 4.24,
+      "rsi": 56.1,
+      "sma20": 3.18,
+      "sma50": 3.28,
+      "high_52w": 7.18,
+      "low_52w": 2.77,
+      "pct_from_high": -52.1,
+      "market_cap": 1825822080,
+      "pe": null,
+      "fwd_pe": -3.91,
+      "eps": -1.16,
+      "target": 6.64,
+      "recommendation": "buy",
+      "rev_growth": -0.561,
+      "profit_margin": null,
+      "beta": 1.05,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-22",
+          "name": "GIBSON CHRISTOPHER",
+          "position": "Director",
+          "value": 123200.0,
+          "shares": 40000
+        },
+        {
+          "date": "2026-05-07",
+          "name": "GIBSON CHRISTOPHER",
+          "position": "Director",
+          "value": 134800.0,
+          "shares": 40000
+        },
+        {
+          "date": "2026-05-05",
+          "name": "BORGESON BLAKE CHARLES",
+          "position": "Director",
+          "value": 105600.0,
+          "shares": 30000
+        },
+        {
+          "date": "2026-04-22",
+          "name": "GIBSON CHRISTOPHER",
+          "position": "Director",
+          "value": 144400.0,
+          "shares": 40000
+        },
+        {
+          "date": "2026-04-07",
+          "name": "GIBSON CHRISTOPHER",
+          "position": "Director",
+          "value": 124000.0,
+          "shares": 40000
+        },
+        {
+          "date": "2026-04-07",
+          "name": "BORGESON BLAKE CHARLES",
+          "position": "Director",
+          "value": 93000.0,
+          "shares": 30000
+        },
+        {
+          "date": "2026-03-23",
+          "name": "GIBSON CHRISTOPHER",
+          "position": "Director",
+          "value": 130000.0,
+          "shares": 40000
+        },
+        {
+          "date": "2026-03-17",
+          "name": "TAYLOR BEN R",
+          "position": "Chief Financial Officer",
+          "value": 26971.0,
+          "shares": 7956
+        },
+        {
+          "date": "2026-03-09",
+          "name": "KHAN NAJAT",
+          "position": "Chief Executive Officer",
+          "value": 94660.0,
+          "shares": 28298
+        },
+        {
+          "date": "2026-03-03",
+          "name": "BORGESON BLAKE CHARLES",
+          "position": "Director",
+          "value": 588200.0,
+          "shares": 170000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "CRSP",
+      "company": "CRISPR Therapeutics AG",
+      "sector": "Healthcare",
+      "industry": "Biotechnology",
+      "price": 56.380001068115234,
+      "change": 2.85,
+      "change_pct": 5.32,
+      "open": 53.04,
+      "high": 57.24,
+      "low": 52.38,
+      "prev_close": 53.53,
+      "volume": 2662700,
+      "avg_volume": 1696690,
+      "vol_ratio": 1.57,
+      "chg_1w": 12.99,
+      "chg_1m": 11.18,
+      "rsi": 60.6,
+      "sma20": 51.86,
+      "sma50": 51.3,
+      "high_52w": 78.48,
+      "low_52w": 35.48,
+      "pct_from_high": -28.2,
+      "market_cap": 5437783040,
+      "pe": null,
+      "fwd_pe": -14.6,
+      "eps": -6.17,
+      "target": 82.24,
+      "recommendation": "buy",
+      "rev_growth": 0.686,
+      "profit_margin": null,
+      "beta": 1.74,
+      "score": 80,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-03-23",
+          "name": "KASINGER JAMES R.",
+          "position": "General Counsel",
+          "value": 148854.0,
+          "shares": 3182
+        },
+        {
+          "date": "2026-03-23",
+          "name": "PRASAD RAJU",
+          "position": "Chief Financial Officer",
+          "value": 173460.0,
+          "shares": 3708
+        },
+        {
+          "date": "2026-03-23",
+          "name": "KULKARNI SAMARTH",
+          "position": "Chief Executive Officer",
+          "value": 468736.0,
+          "shares": 10020
+        },
+        {
+          "date": "2026-03-16",
+          "name": "KASINGER JAMES R.",
+          "position": "General Counsel",
+          "value": 166497.0,
+          "shares": 3450
+        },
+        {
+          "date": "2026-03-16",
+          "name": "PRASAD RAJU",
+          "position": "Chief Financial Officer",
+          "value": 476278.0,
+          "shares": 9869
+        },
+        {
+          "date": "2026-03-16",
+          "name": "PATEL NAIMISH M.D.",
+          "position": "Officer",
+          "value": 152019.0,
+          "shares": 3150
+        },
+        {
+          "date": "2026-03-16",
+          "name": "KULKARNI SAMARTH",
+          "position": "Chief Executive Officer",
+          "value": 499443.0,
+          "shares": 10349
+        },
+        {
+          "date": "2026-03-11",
+          "name": "KASINGER JAMES R.",
+          "position": "General Counsel",
+          "value": 147840.0,
+          "shares": 2800
+        },
+        {
+          "date": "2026-03-11",
+          "name": "KULKARNI SAMARTH",
+          "position": "Chief Executive Officer",
+          "value": 517334.0,
+          "shares": 9798
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "SDGR",
+      "company": "Schrodinger, Inc.",
+      "sector": "Healthcare",
+      "industry": "Health Information Services",
+      "price": 14.15999984741211,
+      "change": 0.92,
+      "change_pct": 6.95,
+      "open": 13.18,
+      "high": 14.23,
+      "low": 13.05,
+      "prev_close": 13.24,
+      "volume": 1234700,
+      "avg_volume": 1346865,
+      "vol_ratio": 0.92,
+      "chg_1w": 7.03,
+      "chg_1m": 20.41,
+      "rsi": 60.8,
+      "sma20": 12.78,
+      "sma50": 12.19,
+      "high_52w": 27.63,
+      "low_52w": 10.945,
+      "pct_from_high": -48.8,
+      "market_cap": 1058045376,
+      "pe": null,
+      "fwd_pe": -9.05,
+      "eps": -1.5,
+      "target": 20.88,
+      "recommendation": "strong_buy",
+      "rev_growth": -0.016,
+      "profit_margin": -0.406,
+      "beta": 1.58,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-04-17",
+          "name": "RAMY SAMIR FARID PH.D.",
+          "position": "Chief Executive Officer",
+          "value": 1055177.0,
+          "shares": 86000
+        },
+        {
+          "date": "2026-04-16",
+          "name": "JAIN RACHIT",
+          "position": "Chief Financial Officer",
+          "value": 10758.0,
+          "shares": 844
+        },
+        {
+          "date": "2026-03-06",
+          "name": "HERMAN JENNY",
+          "position": "Officer",
+          "value": 17764.0,
+          "shares": 1383
+        },
+        {
+          "date": "2026-03-05",
+          "name": "LORTON KENNETH PATRICK",
+          "position": "Officer",
+          "value": 15761.0,
+          "shares": 1222
+        },
+        {
+          "date": "2026-03-05",
+          "name": "TRAN YVONNE KIM",
+          "position": "Officer",
+          "value": 14107.0,
+          "shares": 1094
+        },
+        {
+          "date": "2026-03-05",
+          "name": "FRIESNER RICHARD A",
+          "position": "Chief Executive Officer",
+          "value": 47249.0,
+          "shares": 3661
+        },
+        {
+          "date": "2026-03-05",
+          "name": "AKINSANYA-AKIWUMI KAREN OLUFUNMILYO",
+          "position": "President",
+          "value": 17625.0,
+          "shares": 1366
+        },
+        {
+          "date": "2026-03-05",
+          "name": "JAIN RACHIT",
+          "position": "Chief Financial Officer",
+          "value": 21033.0,
+          "shares": 1631
+        },
+        {
+          "date": "2026-03-04",
+          "name": "ABEL ROBERT LORNE",
+          "position": "Officer",
+          "value": 16653.0,
+          "shares": 1300
+        },
+        {
+          "date": "2026-03-02",
+          "name": "RAMY SAMIR FARID PH.D.",
+          "position": "Chief Executive Officer",
+          "value": 66151.0,
+          "shares": 5560
+        },
+        {
+          "date": "2026-03-02",
+          "name": "AKINSANYA-AKIWUMI KAREN OLUFUNMILYO",
+          "position": "President",
+          "value": 26454.0,
+          "shares": 2206
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "DKNG",
+      "company": "DraftKings Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Gambling",
+      "price": 24.530000686645508,
+      "change": -0.54,
+      "change_pct": -2.15,
+      "open": 24.99,
+      "high": 25.39,
+      "low": 24.42,
+      "prev_close": 25.07,
+      "volume": 12690800,
+      "avg_volume": 12080605,
+      "vol_ratio": 1.05,
+      "chg_1w": -3.43,
+      "chg_1m": 6.01,
+      "rsi": 45.4,
+      "sma20": 24.66,
+      "sma50": 23.59,
+      "high_52w": 48.78,
+      "low_52w": 20.46,
+      "pct_from_high": -49.7,
+      "market_cap": 12170040320,
+      "pe": 272.56,
+      "fwd_pe": 14.33,
+      "eps": 0.09,
+      "target": 34.71,
+      "recommendation": "buy",
+      "rev_growth": 0.168,
+      "profit_margin": 0.009,
+      "beta": 1.67,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-20",
+          "name": "BRADBURY ERIK",
+          "position": "Officer",
+          "value": 21834.0,
+          "shares": 862
+        },
+        {
+          "date": "2026-05-18",
+          "name": "LEVIN WOODROW",
+          "position": "Director",
+          "value": 880156.0,
+          "shares": 34234
+        },
+        {
+          "date": "2026-03-13",
+          "name": "MOORE JOCELYN",
+          "position": "Director",
+          "value": 55040.0,
+          "shares": 2150
+        },
+        {
+          "date": "2026-03-11",
+          "name": "LIBERMAN PAUL",
+          "position": "Officer and Director",
+          "value": 12187932.0,
+          "shares": 484417
+        },
+        {
+          "date": "2026-03-03",
+          "name": "BRADBURY ERIK",
+          "position": "Officer",
+          "value": 70800.0,
+          "shares": 2883
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "RBLX",
+      "company": "Roblox Corporation",
+      "sector": "Communication Services",
+      "industry": "Electronic Gaming & Multimedia",
+      "price": 46.83000183105469,
+      "change": 1.2,
+      "change_pct": 2.63,
+      "open": 45.76,
+      "high": 47.67,
+      "low": 45.41,
+      "prev_close": 45.63,
+      "volume": 9258500,
+      "avg_volume": 15397800,
+      "vol_ratio": 0.6,
+      "chg_1w": 1.5,
+      "chg_1m": -16.79,
+      "rsi": 54.9,
+      "sma20": 45.19,
+      "sma50": 52.38,
+      "high_52w": 150.59,
+      "low_52w": 40.15,
+      "pct_from_high": -68.9,
+      "market_cap": 33529286656,
+      "pe": null,
+      "fwd_pe": -37.17,
+      "eps": -1.57,
+      "target": 64.81,
+      "recommendation": "buy",
+      "rev_growth": 0.393,
+      "profit_margin": -0.207,
+      "beta": 1.5,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-26",
+          "name": "RAWLINGS AMY MARIE",
+          "position": "Officer",
+          "value": 13152.0,
+          "shares": 274
+        },
+        {
+          "date": "2026-05-21",
+          "name": "REINSTRA MARK",
+          "position": "Officer",
+          "value": 1035526.0,
+          "shares": 22735
+        },
+        {
+          "date": "2026-05-20",
+          "name": "BASZUCKI DAVID BRENT",
+          "position": "Chief Executive Officer",
+          "value": 2292446.0,
+          "shares": 50628
+        },
+        {
+          "date": "2026-05-20",
+          "name": "CHOPRA NAVEEN KUMAR",
+          "position": "Chief Financial Officer",
+          "value": 763602.0,
+          "shares": 16863
+        },
+        {
+          "date": "2026-05-20",
+          "name": "RAWLINGS AMY MARIE",
+          "position": "Officer",
+          "value": 130969.0,
+          "shares": 2895
+        },
+        {
+          "date": "2026-05-20",
+          "name": "KAUFMAN MATTHEW D",
+          "position": "Officer",
+          "value": 649956.0,
+          "shares": 14356
+        },
+        {
+          "date": "2026-05-20",
+          "name": "BUCKLEY SEAN JACK",
+          "position": "Officer",
+          "value": 256501.0,
+          "shares": 5666
+        },
+        {
+          "date": "2026-05-05",
+          "name": "BASZUCKI GREGORY",
+          "position": "Director",
+          "value": 749424.0,
+          "shares": 16666
+        },
+        {
+          "date": "2026-04-13",
+          "name": "REINSTRA MARK",
+          "position": "Officer",
+          "value": 1080808.0,
+          "shares": 18653
+        },
+        {
+          "date": "2026-04-13",
+          "name": "KAUFMAN MATTHEW D",
+          "position": "Officer",
+          "value": 772102.0,
+          "shares": 13325
+        },
+        {
+          "date": "2026-04-01",
+          "name": "BASZUCKI GREGORY",
+          "position": "Director",
+          "value": 965840.0,
+          "shares": 16666
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "TTD",
+      "company": "The Trade Desk, Inc.",
+      "sector": "Communication Services",
+      "industry": "Advertising Agencies",
+      "price": 21.149999618530273,
+      "change": -1.14,
+      "change_pct": -5.11,
+      "open": 21.24,
+      "high": 21.76,
+      "low": 20.8,
+      "prev_close": 22.29,
+      "volume": 21665100,
+      "avg_volume": 19838470,
+      "vol_ratio": 1.09,
+      "chg_1w": -0.61,
+      "chg_1m": -13.21,
+      "rsi": 37.0,
+      "sma20": 22.28,
+      "sma50": 22.37,
+      "high_52w": 91.45,
+      "low_52w": 19.74,
+      "pct_from_high": -76.9,
+      "market_cap": 9942791168,
+      "pe": 25.18,
+      "fwd_pe": 9.84,
+      "eps": 0.84,
+      "target": 25.34,
+      "recommendation": "buy",
+      "rev_growth": 0.118,
+      "profit_margin": 0.146,
+      "beta": 1.1,
+      "score": 80,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-03-04",
+          "name": "GREEN JEFFREY TERRY",
+          "position": "Chief Executive Officer",
+          "value": 148101266.0,
+          "shares": 6000000
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-03-05",
+          "name": "FALBERG KATHRYN E.",
+          "position": "Director",
+          "value": 4655113.0,
+          "shares": 152828
+        }
+      ],
+      "total_insider_buys": 148101266,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "SNAP",
+      "company": "Snap Inc.",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "price": 5.909999847412109,
+      "change": 0.03,
+      "change_pct": 0.51,
+      "open": 5.87,
+      "high": 5.95,
+      "low": 5.74,
+      "prev_close": 5.88,
+      "volume": 25500900,
+      "avg_volume": 41221000,
+      "vol_ratio": 0.62,
+      "chg_1w": 3.87,
+      "chg_1m": -1.17,
+      "rsi": 48.0,
+      "sma20": 5.82,
+      "sma50": 5.38,
+      "high_52w": 10.41,
+      "low_52w": 3.81,
+      "pct_from_high": -43.2,
+      "market_cap": 9793820672,
+      "pe": null,
+      "fwd_pe": 7.98,
+      "eps": -0.24,
+      "target": 7.63,
+      "recommendation": "hold",
+      "rev_growth": 0.121,
+      "profit_margin": -0.067,
+      "beta": 1.05,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-19",
+          "name": "BRIERS ZACHARY M",
+          "position": "General Counsel",
+          "value": 1132022.0,
+          "shares": 201238
+        },
+        {
+          "date": "2026-05-19",
+          "name": "MORROW REBECCA",
+          "position": "Officer",
+          "value": 114142.0,
+          "shares": 20299
+        },
+        {
+          "date": "2026-05-18",
+          "name": "MOHAN AJIT",
+          "position": "Officer",
+          "value": 250809.0,
+          "shares": 44785
+        },
+        {
+          "date": "2026-05-14",
+          "name": "MURPHY ROBERT C.",
+          "position": "Chief Technology Officer",
+          "value": 21445200.0,
+          "shares": 4000000
+        },
+        {
+          "date": "2026-04-16",
+          "name": "MOHAN AJIT",
+          "position": "Officer",
+          "value": 168850.0,
+          "shares": 28058
+        },
+        {
+          "date": "2026-04-15",
+          "name": "BRIERS ZACHARY M",
+          "position": "General Counsel",
+          "value": 69079.0,
+          "shares": 11437
+        },
+        {
+          "date": "2026-04-08",
+          "name": "SPIEGEL EVAN",
+          "position": "Chief Executive Officer",
+          "value": 5041200.0,
+          "shares": 1000000
+        },
+        {
+          "date": "2026-03-16",
+          "name": "MOHAN AJIT",
+          "position": "Officer",
+          "value": 127474.0,
+          "shares": 27743
+        },
+        {
+          "date": "2026-03-16",
+          "name": "ANDERSEN DEREK",
+          "position": "Chief Financial Officer",
+          "value": 427058.0,
+          "shares": 92956
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "DASH",
+      "company": "DoorDash, Inc.",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "price": 156.6999969482422,
+      "change": -0.88,
+      "change_pct": -0.56,
+      "open": 156.92,
+      "high": 160.35,
+      "low": 154.51,
+      "prev_close": 157.58,
+      "volume": 4418900,
+      "avg_volume": 5418970,
+      "vol_ratio": 0.82,
+      "chg_1w": -1.61,
+      "chg_1m": -7.46,
+      "rsi": 38.4,
+      "sma20": 161.34,
+      "sma50": 162.95,
+      "high_52w": 285.5,
+      "low_52w": 143.3,
+      "pct_from_high": -45.1,
+      "market_cap": 68277121024,
+      "pe": 73.92,
+      "fwd_pe": 20.13,
+      "eps": 2.12,
+      "target": 245.99,
+      "recommendation": "buy",
+      "rev_growth": 0.331,
+      "profit_margin": 0.063,
+      "beta": 1.87,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-22",
+          "name": "SHERRINGHAM TIA A.",
+          "position": "General Counsel",
+          "value": 441047.0,
+          "shares": 2743
+        },
+        {
+          "date": "2026-05-20",
+          "name": "SHERRINGHAM TIA A.",
+          "position": "General Counsel",
+          "value": 1196472.0,
+          "shares": 7690
+        },
+        {
+          "date": "2026-05-20",
+          "name": "INUKONDA RAVI KIRAN REDDY",
+          "position": "Chief Financial Officer",
+          "value": 3034744.0,
+          "shares": 19505
+        },
+        {
+          "date": "2026-05-20",
+          "name": "LEE GORDON S",
+          "position": "Officer",
+          "value": 452761.0,
+          "shares": 2910
+        },
+        {
+          "date": "2026-05-20",
+          "name": "FANG ANDY",
+          "position": "Director",
+          "value": 181104.0,
+          "shares": 1164
+        },
+        {
+          "date": "2026-05-20",
+          "name": "TANG WEIRUI STANLEY",
+          "position": "Director",
+          "value": 247696.0,
+          "shares": 1592
+        },
+        {
+          "date": "2026-05-20",
+          "name": "ADARKAR PRABIR RAJENDRA",
+          "position": "President",
+          "value": 2664600.0,
+          "shares": 17126
+        },
+        {
+          "date": "2026-05-20",
+          "name": "YANDELL KEITH",
+          "position": "Officer",
+          "value": 657670.0,
+          "shares": 4227
+        },
+        {
+          "date": "2026-05-04",
+          "name": "TANG WEIRUI STANLEY",
+          "position": "Director",
+          "value": 4023024.0,
+          "shares": 23125
+        },
+        {
+          "date": "2026-04-20",
+          "name": "ADARKAR PRABIR RAJENDRA",
+          "position": "President",
+          "value": 1883368.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-04-15",
+          "name": "BROWN SHONA L",
+          "position": "Director",
+          "value": 218750.0,
+          "shares": 1250
+        },
+        {
+          "date": "2026-04-02",
+          "name": "TANG WEIRUI STANLEY",
+          "position": "Director",
+          "value": 3468750.0,
+          "shares": 23125
+        },
+        {
+          "date": "2026-03-23",
+          "name": "ADARKAR PRABIR RAJENDRA",
+          "position": "President",
+          "value": 1589744.0,
+          "shares": 10000
+        },
+        {
+          "date": "2026-03-09",
+          "name": "BROWN SHONA L",
+          "position": "Director",
+          "value": 220762.0,
+          "shares": 1250
+        },
+        {
+          "date": "2026-03-04",
+          "name": "TANG WEIRUI STANLEY",
+          "position": "Director",
+          "value": 4087935.0,
+          "shares": 23125
+        },
+        {
+          "date": "2026-03-02",
+          "name": "INUKONDA RAVI KIRAN REDDY",
+          "position": "Chief Financial Officer",
+          "value": 2903869.0,
+          "shares": 16578
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "price": 382.5299987792969,
+      "change": -1.48,
+      "change_pct": -0.39,
+      "open": 384.96,
+      "high": 389.26,
+      "low": 380.96,
+      "prev_close": 384.01,
+      "volume": 4330800,
+      "avg_volume": 6415815,
+      "vol_ratio": 0.68,
+      "chg_1w": 0.01,
+      "chg_1m": 3.18,
+      "rsi": 58.4,
+      "sma20": 382.19,
+      "sma50": 336.41,
+      "high_52w": 404.15,
+      "low_52w": 234.6,
+      "pct_from_high": -5.3,
+      "market_cap": 347392475136,
+      "pe": 28.83,
+      "fwd_pe": 18.33,
+      "eps": 13.27,
+      "target": 399.73,
+      "recommendation": "buy",
+      "rev_growth": 0.02,
+      "profit_margin": 0.027,
+      "beta": 0.65,
+      "score": 60,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-04-23",
+          "name": "CONWAY PATRICK HUGH M.D.",
+          "position": "Officer",
+          "value": 284000.0,
+          "shares": 800
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "price": 1126.800048828125,
+      "change": 43.88,
+      "change_pct": 4.05,
+      "open": 1096.64,
+      "high": 1149.1,
+      "low": 1092.01,
+      "prev_close": 1082.92,
+      "volume": 4600700,
+      "avg_volume": 3499095,
+      "vol_ratio": 1.31,
+      "chg_1w": 8.17,
+      "chg_1m": 32.6,
+      "rsi": 79.1,
+      "sma20": 1007.02,
+      "sma50": 949.42,
+      "high_52w": 1149.1,
+      "low_52w": 623.78,
+      "pct_from_high": -1.9,
+      "market_cap": 1004814204928,
+      "pe": 38.46,
+      "fwd_pe": 25.34,
+      "eps": 29.3,
+      "target": 1215.1,
+      "recommendation": "buy",
+      "rev_growth": 0.555,
+      "profit_margin": 0.35,
+      "beta": 0.48,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-06",
+          "name": "LILLY ENDOWMENT, INC.",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 15754537.0,
+          "shares": 15828
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "price": 230.8000030517578,
+      "change": -0.49,
+      "change_pct": -0.21,
+      "open": 230.03,
+      "high": 231.87,
+      "low": 229.73,
+      "prev_close": 231.29,
+      "volume": 7193400,
+      "avg_volume": 7429000,
+      "vol_ratio": 0.97,
+      "chg_1w": 0.17,
+      "chg_1m": 2.1,
+      "rsi": 67.1,
+      "sma20": 226.67,
+      "sma50": 231.5,
+      "high_52w": 251.71,
+      "low_52w": 149.04,
+      "pct_from_high": -8.3,
+      "market_cap": 555585634304,
+      "pe": 26.81,
+      "fwd_pe": 18.16,
+      "eps": 8.61,
+      "target": 252.96,
+      "recommendation": "buy",
+      "rev_growth": 0.099,
+      "profit_margin": 0.218,
+      "beta": 0.26,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "ABBV",
+      "company": "AbbVie Inc.",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - General",
+      "price": 218.6300048828125,
+      "change": 3.23,
+      "change_pct": 1.5,
+      "open": 215.9,
+      "high": 219.38,
+      "low": 215.9,
+      "prev_close": 215.4,
+      "volume": 5189300,
+      "avg_volume": 5693295,
+      "vol_ratio": 0.91,
+      "chg_1w": 1.93,
+      "chg_1m": 7.23,
+      "rsi": 77.4,
+      "sma20": 209.73,
+      "sma50": 207.39,
+      "high_52w": 244.81,
+      "low_52w": 181.73,
+      "pct_from_high": -10.7,
+      "market_cap": 386273935360,
+      "pe": 107.7,
+      "fwd_pe": 13.47,
+      "eps": 2.03,
+      "target": 252.9,
+      "recommendation": "buy",
+      "rev_growth": 0.124,
+      "profit_margin": 0.058,
+      "beta": 0.3,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-03-04",
+          "name": "PURDUE DAVID R.",
+          "position": "Officer",
+          "value": 1221519.0,
+          "shares": 5230
+        },
+        {
+          "date": "2026-03-02",
+          "name": "SIATIS PERRY C.",
+          "position": "General Counsel",
+          "value": 4375549.0,
+          "shares": 18668
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "HIMS",
+      "company": "Hims & Hers Health, Inc.",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "price": 25.3799991607666,
+      "change": 0.18,
+      "change_pct": 0.71,
+      "open": 24.89,
+      "high": 25.92,
+      "low": 24.39,
+      "prev_close": 25.2,
+      "volume": 12833400,
+      "avg_volume": 23010615,
+      "vol_ratio": 0.56,
+      "chg_1w": 5.71,
+      "chg_1m": -3.61,
+      "rsi": 49.1,
+      "sma20": 25.33,
+      "sma50": 24.25,
+      "high_52w": 70.43,
+      "low_52w": 13.74,
+      "pct_from_high": -64.0,
+      "market_cap": 5874396160,
+      "pe": null,
+      "fwd_pe": 19.73,
+      "eps": -0.09,
+      "target": 26.61,
+      "recommendation": "hold",
+      "rev_growth": 0.038,
+      "profit_margin": -0.006,
+      "beta": 2.42,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-05-26",
+          "name": "WELLS DAVID B",
+          "position": "Director",
+          "value": 1172974.0,
+          "shares": 48400
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-05-18",
+          "name": "OKUPE OLUYEMI",
+          "position": "Chief Financial Officer",
+          "value": 187916.0,
+          "shares": 7950
+        },
+        {
+          "date": "2026-04-20",
+          "name": "BOUGHTON SOLEIL",
+          "position": "Officer",
+          "value": 283890.0,
+          "shares": 9463
+        },
+        {
+          "date": "2026-04-20",
+          "name": "OKUPE OLUYEMI",
+          "position": "Chief Financial Officer",
+          "value": 588615.0,
+          "shares": 19645
+        },
+        {
+          "date": "2026-04-17",
+          "name": "OKUPE OLUYEMI",
+          "position": "Chief Financial Officer",
+          "value": 1457305.0,
+          "shares": 54927
+        },
+        {
+          "date": "2026-04-06",
+          "name": "OKUPE OLUYEMI",
+          "position": "Chief Financial Officer",
+          "value": 79409.0,
+          "shares": 3975
+        },
+        {
+          "date": "2026-03-20",
+          "name": "OKUPE OLUYEMI",
+          "position": "Chief Financial Officer",
+          "value": 219067.0,
+          "shares": 9217
+        },
+        {
+          "date": "2026-03-17",
+          "name": "CHI MICHAEL Y",
+          "position": "Chief Operating Officer",
+          "value": 2402065.0,
+          "shares": 97289
+        },
+        {
+          "date": "2026-03-17",
+          "name": "BOUGHTON SOLEIL",
+          "position": "Officer",
+          "value": 118808.0,
+          "shares": 4812
+        },
+        {
+          "date": "2026-03-17",
+          "name": "BECKLUND IRENE",
+          "position": "Officer",
+          "value": 136511.0,
+          "shares": 5529
+        }
+      ],
+      "total_insider_buys": 1172974,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "MTDR",
+      "company": "Matador Resources Company",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 53.83000183105469,
+      "change": 1.35,
+      "change_pct": 2.57,
+      "open": 53.83,
+      "high": 54.27,
+      "low": 52.84,
+      "prev_close": 52.48,
+      "volume": 1831700,
+      "avg_volume": 1746165,
+      "vol_ratio": 1.05,
+      "chg_1w": -4.03,
+      "chg_1m": -13.84,
+      "rsi": 46.2,
+      "sma20": 58.11,
+      "sma50": 59.3,
+      "high_52w": 66.84,
+      "low_52w": 37.14,
+      "pct_from_high": -19.5,
+      "market_cap": 6684513792,
+      "pe": 13.87,
+      "fwd_pe": 6.0,
+      "eps": 3.88,
+      "target": 72.61,
+      "recommendation": "buy",
+      "rev_growth": -0.064,
+      "profit_margin": 0.135,
+      "beta": 0.8,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [
+        {
+          "date": "2026-03-06",
+          "name": "EHRMAN MONIKA U.",
+          "position": "Director",
+          "value": 15029.0,
+          "shares": 267
+        }
+      ],
+      "insider_sales": [],
+      "total_insider_buys": 15029,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "price": 146.9600067138672,
+      "change": -0.94,
+      "change_pct": -0.64,
+      "open": 149.34,
+      "high": 150.21,
+      "low": 146.87,
+      "prev_close": 147.9,
+      "volume": 13989400,
+      "avg_volume": 17326600,
+      "vol_ratio": 0.81,
+      "chg_1w": -5.36,
+      "chg_1m": -4.34,
+      "rsi": 51.9,
+      "sma20": 152.05,
+      "sma50": 154.25,
+      "high_52w": 176.41,
+      "low_52w": 101.19,
+      "pct_from_high": -16.7,
+      "market_cap": 609141456896,
+      "pe": 24.7,
+      "fwd_pe": 13.8,
+      "eps": 5.95,
+      "target": 169.91,
+      "recommendation": "buy",
+      "rev_growth": 0.026,
+      "profit_margin": 0.078,
+      "beta": 0.18,
+      "score": 60,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-03-16",
+          "name": "TALLEY DARRIN L",
+          "position": "Officer",
+          "value": 167935.0,
+          "shares": 1080
+        },
+        {
+          "date": "2026-03-02",
+          "name": "TALLEY DARRIN L",
+          "position": "Officer",
+          "value": 339313.0,
+          "shares": 2150
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron Corporation",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "price": 183.02999877929688,
+      "change": 0.63,
+      "change_pct": 0.35,
+      "open": 183.71,
+      "high": 185.26,
+      "low": 182.09,
+      "prev_close": 182.4,
+      "volume": 8725400,
+      "avg_volume": 10167960,
+      "vol_ratio": 0.86,
+      "chg_1w": -4.18,
+      "chg_1m": -3.91,
+      "rsi": 53.2,
+      "sma20": 187.38,
+      "sma50": 190.96,
+      "high_52w": 214.71,
+      "low_52w": 135.21,
+      "pct_from_high": -14.8,
+      "market_cap": 364522110976,
+      "pe": 31.83,
+      "fwd_pe": 14.72,
+      "eps": 5.75,
+      "target": 216.09,
+      "recommendation": "buy",
+      "rev_growth": 0.023,
+      "profit_margin": 0.059,
+      "beta": 0.5,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-20",
+          "name": "HESS JOHN B JR.",
+          "position": "Director",
+          "value": 73414765.0,
+          "shares": 380000
+        },
+        {
+          "date": "2026-05-06",
+          "name": "HESS JOHN B JR.",
+          "position": "Director",
+          "value": 36031524.0,
+          "shares": 195000
+        },
+        {
+          "date": "2026-03-30",
+          "name": "PATE ROBERT HEWITT",
+          "position": "Officer",
+          "value": 8574857.0,
+          "shares": 40200
+        },
+        {
+          "date": "2026-03-06",
+          "name": "PATE ROBERT HEWITT",
+          "position": "Officer",
+          "value": 9068064.0,
+          "shares": 47200
+        },
+        {
+          "date": "2026-03-02",
+          "name": "NELSON MARK A.",
+          "position": "Officer",
+          "value": 26233775.0,
+          "shares": 139600
+        },
+        {
+          "date": "2026-03-02",
+          "name": "BONNER EIMEAR P",
+          "position": "Chief Financial Officer",
+          "value": 8600515.0,
+          "shares": 45800
+        },
+        {
+          "date": "2026-03-02",
+          "name": "WALZ ANDREW BENJAMIN",
+          "position": "Officer",
+          "value": 2187517.0,
+          "shares": 11600
+        },
+        {
+          "date": "2026-03-02",
+          "name": "PATE ROBERT HEWITT",
+          "position": "Officer",
+          "value": 17542418.0,
+          "shares": 93475
+        },
+        {
+          "date": "2026-03-02",
+          "name": "WIRTH MICHAEL K",
+          "position": "Chief Executive Officer",
+          "value": 51622487.0,
+          "shares": 272624
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "price": 114.98999786376953,
+      "change": -0.14,
+      "change_pct": -0.12,
+      "open": 115.83,
+      "high": 116.89,
+      "low": 114.45,
+      "prev_close": 115.13,
+      "volume": 5989400,
+      "avg_volume": 7247905,
+      "vol_ratio": 0.83,
+      "chg_1w": -4.61,
+      "chg_1m": -9.67,
+      "rsi": 52.0,
+      "sma20": 119.53,
+      "sma50": 122.58,
+      "high_52w": 135.87,
+      "low_52w": 84.54,
+      "pct_from_high": -15.4,
+      "market_cap": 140091621376,
+      "pe": 19.49,
+      "fwd_pe": 12.56,
+      "eps": 5.9,
+      "target": 142.88,
+      "recommendation": "buy",
+      "rev_growth": -0.053,
+      "profit_margin": 0.123,
+      "beta": 0.15,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-03-31",
+          "name": "LANCE RYAN MICHAEL",
+          "position": "Chief Executive Officer",
+          "value": 15025389.0,
+          "shares": 113221
+        },
+        {
+          "date": "2026-03-24",
+          "name": "ROSE KELLY BRUNETTI",
+          "position": "General Counsel",
+          "value": 1001212.0,
+          "shares": 7700
+        },
+        {
+          "date": "2026-03-23",
+          "name": "OLDS NICHOLAS G",
+          "position": "Officer",
+          "value": 888651.0,
+          "shares": 6994
+        },
+        {
+          "date": "2026-03-20",
+          "name": "LANCE RYAN MICHAEL",
+          "position": "Chief Executive Officer",
+          "value": 64493594.0,
+          "shares": 506800
+        },
+        {
+          "date": "2026-03-13",
+          "name": "LUNDQUIST ANDREW D",
+          "position": "Officer",
+          "value": 4128960.0,
+          "shares": 34500
+        },
+        {
+          "date": "2026-03-13",
+          "name": "HRAP HEATHER G.",
+          "position": "Officer",
+          "value": 317631.0,
+          "shares": 2654
+        },
+        {
+          "date": "2026-03-12",
+          "name": "OLDS NICHOLAS G",
+          "position": "Officer",
+          "value": 1733376.0,
+          "shares": 14522
+        },
+        {
+          "date": "2026-03-12",
+          "name": "HAYNES-WELSH KONTESSA S.",
+          "position": "Officer",
+          "value": 1241406.0,
+          "shares": 10339
+        },
+        {
+          "date": "2026-03-11",
+          "name": "OLDS NICHOLAS G",
+          "position": "Officer",
+          "value": 1413835.0,
+          "shares": 12150
+        },
+        {
+          "date": "2026-03-09",
+          "name": "ROSE KELLY BRUNETTI",
+          "position": "General Counsel",
+          "value": 1003345.0,
+          "shares": 8500
+        },
+        {
+          "date": "2026-03-06",
+          "name": "LEACH TIMOTHY ALLEN",
+          "position": "Director",
+          "value": 4751684.0,
+          "shares": 40000
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "company": "JP Morgan Chase & Co.",
+      "sector": "Financial Services",
+      "industry": "Banks - Diversified",
+      "price": 296.7300109863281,
+      "change": -2.55,
+      "change_pct": -0.85,
+      "open": 297.57,
+      "high": 301.07,
+      "low": 295.75,
+      "prev_close": 299.28,
+      "volume": 9757700,
+      "avg_volume": 8297165,
+      "vol_ratio": 1.18,
+      "chg_1w": -2.07,
+      "chg_1m": -4.05,
+      "rsi": 39.9,
+      "sma20": 303.97,
+      "sma50": 302.23,
+      "high_52w": 337.25,
+      "low_52w": 260.31,
+      "pct_from_high": -12.0,
+      "market_cap": 795091402752,
+      "pe": 14.2,
+      "fwd_pe": 12.6,
+      "eps": 20.89,
+      "target": 342.19,
+      "recommendation": "buy",
+      "rev_growth": 0.127,
+      "profit_margin": 0.339,
+      "beta": 1.02,
+      "score": 65,
+      "category": "watch",
+      "insider_buys": [],
+      "insider_sales": [
+        {
+          "date": "2026-05-20",
+          "name": "FRIEDMAN STACEY R.",
+          "position": "General Counsel",
+          "value": 1641856.0,
+          "shares": 5468
+        },
+        {
+          "date": "2026-05-15",
+          "name": "BEER LORI A",
+          "position": "Chief Technology Officer",
+          "value": 949658.0,
+          "shares": 3165
+        },
+        {
+          "date": "2026-05-15",
+          "name": "ERDOES MARY E.",
+          "position": "Officer",
+          "value": 1983527.0,
+          "shares": 6648
+        },
+        {
+          "date": "2026-05-15",
+          "name": "PETNO DOUGLAS B",
+          "position": "Officer",
+          "value": 1697983.0,
+          "shares": 5659
+        },
+        {
+          "date": "2026-05-15",
+          "name": "LAKE MARIANNE",
+          "position": "Officer",
+          "value": 1917531.0,
+          "shares": 6427
+        },
+        {
+          "date": "2026-05-05",
+          "name": "BARNUM JEREMY",
+          "position": "Chief Financial Officer",
+          "value": 935032.0,
+          "shares": 3022
+        },
+        {
+          "date": "2026-05-05",
+          "name": "BACON ASHLEY",
+          "position": "Officer",
+          "value": 1259356.0,
+          "shares": 4070
+        },
+        {
+          "date": "2026-05-05",
+          "name": "PIEPSZAK JENNIFER A",
+          "position": "Chief Operating Officer",
+          "value": 1522037.0,
+          "shares": 4919
+        },
+        {
+          "date": "2026-04-15",
+          "name": "DIMON JAMES",
+          "position": "Chief Executive Officer",
+          "value": 40002010.0,
+          "shares": 130488
+        },
+        {
+          "date": "2026-04-15",
+          "name": "BEER LORI A",
+          "position": "Chief Technology Officer",
+          "value": 970660.0,
+          "shares": 3166
+        },
+        {
+          "date": "2026-04-15",
+          "name": "ERDOES MARY E.",
+          "position": "Officer",
+          "value": 3784554.0,
+          "shares": 12345
+        },
+        {
+          "date": "2026-04-15",
+          "name": "PETNO DOUGLAS B",
+          "position": "Officer",
+          "value": 1735219.0,
+          "shares": 5660
+        },
+        {
+          "date": "2026-04-15",
+          "name": "BARNUM JEREMY",
+          "position": "Chief Financial Officer",
+          "value": 1720064.0,
+          "shares": 5611
+        },
+        {
+          "date": "2026-04-15",
+          "name": "BACON ASHLEY",
+          "position": "Officer",
+          "value": 2316931.0,
+          "shares": 7558
+        },
+        {
+          "date": "2026-04-15",
+          "name": "PIEPSZAK JENNIFER A",
+          "position": "Chief Operating Officer",
+          "value": 2800713.0,
+          "shares": 9136
+        },
+        {
+          "date": "2026-04-15",
+          "name": "LAKE MARIANNE",
+          "position": "Officer",
+          "value": 1970304.0,
+          "shares": 6427
+        },
+        {
+          "date": "2026-03-23",
+          "name": "LEOPOLD ROBIN",
+          "position": "Officer",
+          "value": 127761.0,
+          "shares": 433
+        }
+      ],
+      "total_insider_buys": 0,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "NWBI",
+      "company": "Northwest Bancshares, Inc.",
+      "sector": "Financial Services",
+      "industry": "Banks - Regional",
+      "price": 14.069999694824219,
+      "change": 0.16,
+      "change_pct": 1.15,
+      "open": 13.91,
+      "high": 14.11,
+      "low": 13.83,
+      "prev_close": 13.91,
+      "volume": 1333500,
+      "avg_volume": 988535,
+      "vol_ratio": 1.35,
+      "chg_1w": 0.72,
+      "chg_1m": 3.8,
+      "rsi": 56.9,
+      "sma20": 13.78,
+      "sma50": 13.23,
+      "high_52w": 14.26,
+      "low_52w": 11.25,
+      "pct_from_high": -1.3,
+      "market_cap": 2058647168,
+      "pe": 15.29,
+      "fwd_pe": 9.75,
+      "eps": 0.92,
+      "target": 15.0,
+      "recommendation": "none",
+      "rev_growth": 0.151,
+      "profit_margin": 0.214,
+      "beta": 0.68,
+      "score": 75,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-05-01",
+          "name": "BOWERS URICH T",
+          "position": "Officer",
+          "value": 97825.0,
+          "shares": 7000
+        },
+        {
+          "date": "2026-05-01",
+          "name": "SCHOSSER DOUGLAS M",
+          "position": "Chief Financial Officer",
+          "value": 20883.0,
+          "shares": 1500
+        },
+        {
+          "date": "2026-04-30",
+          "name": "BETCHKAL GREGORY J",
+          "position": "Officer",
+          "value": 69650.0,
+          "shares": 5000
+        },
+        {
+          "date": "2026-03-06",
+          "name": "TORCHIO LOUIS J",
+          "position": "Chief Executive Officer",
+          "value": 42560.0,
+          "shares": 3500
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-04-30",
+          "name": "BARNUM CAREY A",
+          "position": "Officer",
+          "value": 18873.0,
+          "shares": 1351
+        }
+      ],
+      "total_insider_buys": 230918,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    },
+    {
+      "ticker": "DGICA",
+      "company": "Donegal Group, Inc.",
+      "sector": "Financial Services",
+      "industry": "Insurance - Property & Casualty",
+      "price": 17.06999969482422,
+      "change": 0.01,
+      "change_pct": 0.06,
+      "open": 17.01,
+      "high": 17.1,
+      "low": 16.92,
+      "prev_close": 17.06,
+      "volume": 137500,
+      "avg_volume": 127200,
+      "vol_ratio": 1.08,
+      "chg_1w": -2.79,
+      "chg_1m": -2.05,
+      "rsi": 45.6,
+      "sma20": 17.04,
+      "sma50": 17.09,
+      "high_52w": 21.06,
+      "low_52w": 16.11,
+      "pct_from_high": -18.9,
+      "market_cap": 632436736,
+      "pe": 9.59,
+      "fwd_pe": 9.1,
+      "eps": 1.78,
+      "target": 19.25,
+      "recommendation": "none",
+      "rev_growth": -0.037,
+      "profit_margin": 0.068,
+      "beta": -0.01,
+      "score": 70,
+      "category": "strong",
+      "insider_buys": [
+        {
+          "date": "2026-05-22",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 296510.0,
+          "shares": 17000
+        },
+        {
+          "date": "2026-05-20",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 293720.0,
+          "shares": 16828
+        },
+        {
+          "date": "2026-05-18",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 293182.0,
+          "shares": 17000
+        },
+        {
+          "date": "2026-05-14",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 289123.0,
+          "shares": 17000
+        },
+        {
+          "date": "2026-05-12",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 290316.0,
+          "shares": 17000
+        },
+        {
+          "date": "2026-05-08",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 283392.0,
+          "shares": 16577
+        },
+        {
+          "date": "2026-05-06",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 281856.0,
+          "shares": 17000
+        },
+        {
+          "date": "2026-03-03",
+          "name": "DONEGAL MUTUAL INSURANCE COMPANY",
+          "position": "Beneficial Owner of more than 10% of a Class of Security",
+          "value": 158652.0,
+          "shares": 9000
+        }
+      ],
+      "insider_sales": [
+        {
+          "date": "2026-03-03",
+          "name": "DELAMATER WILLIAM DANIEL",
+          "position": "Chief Operating Officer",
+          "value": 158652.0,
+          "shares": 9000
+        }
+      ],
+      "total_insider_buys": 2186751,
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
+    }
+  ],
+  "categories": {
+    "strong": [
+      "META",
+      "AMZN",
+      "GOOGL",
+      "MSFT",
+      "NVDA",
+      "CRM",
+      "NOW",
+      "ADBE",
+      "SNOW",
+      "NET",
+      "MDB",
+      "ZS",
+      "PANW",
+      "FTNT",
+      "WDAY",
+      "HUBS",
+      "ESTC",
+      "GTLB",
+      "SOFI",
+      "HOOD",
+      "PYPL",
+      "AFRM",
+      "UPST",
+      "RDDT",
+      "PLTR",
+      "CELH",
+      "CVNA",
+      "IONQ",
+      "RXRX",
+      "CRSP",
+      "RBLX",
+      "TTD",
+      "SNAP",
+      "DASH",
+      "LLY",
+      "ABBV",
+      "HIMS",
+      "NWBI",
+      "DGICA"
+    ],
+    "watch": [
+      "AAPL",
+      "TSLA",
+      "BRK-B",
+      "DDOG",
+      "COIN",
+      "MSTR",
+      "RKLB",
+      "ASTS",
+      "SDGR",
+      "DKNG",
+      "UNH",
+      "JNJ",
+      "MTDR",
+      "XOM",
+      "CVX",
+      "COP",
+      "JPM"
+    ],
+    "neutral": []
+  }
+}
