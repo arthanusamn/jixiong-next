@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T08:44:53.744695",
+  "generated_at": "2026-06-01T14:00:30.070218",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 36,
+    "strong_buys": 41,
     "insider_buys_total": 14,
-    "volume_spikes": 0
+    "volume_spikes": 5
   },
   "top_insider_buys": [
     {
@@ -13,7 +13,7 @@
       "company": "The Trade Desk, Inc.",
       "total_value": 148101266,
       "buys_count": 1,
-      "current_price": 22.90999984741211,
+      "current_price": 23.219999313354492,
       "score": 80,
       "category": "strong"
     },
@@ -22,8 +22,8 @@
       "company": "Palo Alto Networks, Inc.",
       "total_value": 9999977,
       "buys_count": 1,
-      "current_price": 294.5450134277344,
-      "score": 75,
+      "current_price": 300.4800109863281,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -31,8 +31,8 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 6374607,
       "buys_count": 2,
-      "current_price": 34.63999938964844,
-      "score": 80,
+      "current_price": 33.61000061035156,
+      "score": 85,
       "category": "strong"
     },
     {
@@ -40,7 +40,7 @@
       "company": "HubSpot, Inc.",
       "total_value": 2585781,
       "buys_count": 3,
-      "current_price": 256.1000061035156,
+      "current_price": 262.20001220703125,
       "score": 80,
       "category": "strong"
     },
@@ -49,7 +49,7 @@
       "company": "Donegal Group, Inc.",
       "total_value": 2465523,
       "buys_count": 9,
-      "current_price": 16.760000228881836,
+      "current_price": 16.920000076293945,
       "score": 70,
       "category": "strong"
     },
@@ -58,7 +58,7 @@
       "company": "Reddit, Inc.",
       "total_value": 1388730,
       "buys_count": 1,
-      "current_price": 181.00010681152344,
+      "current_price": 177.85000610351562,
       "score": 90,
       "category": "strong"
     },
@@ -67,7 +67,7 @@
       "company": "Hims & Hers Health, Inc.",
       "total_value": 1172974,
       "buys_count": 1,
-      "current_price": 27.440500259399414,
+      "current_price": 27.760000228881836,
       "score": 65,
       "category": "watch"
     },
@@ -76,8 +76,8 @@
       "company": "Salesforce, Inc.",
       "total_value": 1000444,
       "buys_count": 2,
-      "current_price": 210.28509521484375,
-      "score": 85,
+      "current_price": 209.60000610351562,
+      "score": 90,
       "category": "strong"
     },
     {
@@ -85,7 +85,7 @@
       "company": "SoFi Technologies, Inc.",
       "total_value": 999066,
       "buys_count": 3,
-      "current_price": 18.584999084472656,
+      "current_price": 18.579999923706055,
       "score": 85,
       "category": "strong"
     },
@@ -94,7 +94,7 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 716358,
       "buys_count": 3,
-      "current_price": 31.260000228881836,
+      "current_price": 30.8799991607666,
       "score": 90,
       "category": "strong"
     }
@@ -103,67 +103,98 @@
     {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
-      "chg_1w": 58.26,
-      "price": 281.07000732421875
+      "chg_1w": 57.75,
+      "price": 280.1600036621094
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
-      "chg_1w": 37.58,
-      "price": 137.46499633789062
+      "chg_1w": 35.97,
+      "price": 135.86000061035156
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
-      "chg_1w": 29.35,
-      "price": 256.1000061035156
+      "chg_1w": 32.43,
+      "price": 262.20001220703125
     },
     {
       "ticker": "MDB",
       "company": "MongoDB, Inc.",
-      "chg_1w": 27.62,
-      "price": 392.239990234375
+      "chg_1w": 31.41,
+      "price": 403.8800048828125
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "chg_1w": 27.22,
-      "price": 157.77999877929688
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "chg_1w": 27.61,
+      "price": 3.7899999618530273
     }
   ],
   "top_losers": [
     {
       "ticker": "ZS",
       "company": "Zscaler, Inc.",
-      "chg_1w": -16.29,
-      "price": 154.52000427246094
-    },
-    {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "chg_1w": -12.69,
-      "price": 104.51000213623047
+      "chg_1w": -15.65,
+      "price": 155.7100067138672
     },
     {
       "ticker": "RKLB",
       "company": "Rocket Lab Corporation",
-      "chg_1w": -11.76,
-      "price": 126.36000061035156
+      "chg_1w": -14.53,
+      "price": 122.38999938964844
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "chg_1w": -11.74,
+      "price": 105.6500015258789
     },
     {
       "ticker": "MSTR",
       "company": "Strategy Inc",
-      "chg_1w": -5.36,
-      "price": 151.35499572753906
+      "chg_1w": -6.35,
+      "price": 149.77999877929688
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "chg_1w": -3.47,
-      "price": 375.3800048828125
+      "ticker": "TSLA",
+      "company": "Tesla, Inc.",
+      "chg_1w": -4.08,
+      "price": 415.8800048828125
     }
   ],
-  "volume_spikes": [],
+  "volume_spikes": [
+    {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "vol_ratio": 2.26,
+      "price": 403.8800048828125
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "vol_ratio": 2.06,
+      "price": 135.86000061035156
+    },
+    {
+      "ticker": "GTLB",
+      "company": "GitLab Inc.",
+      "vol_ratio": 2.01,
+      "price": 33.790000915527344
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce, Inc.",
+      "vol_ratio": 1.84,
+      "price": 209.60000610351562
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "vol_ratio": 1.82,
+      "price": 280.1600036621094
+    }
+  ],
   "categories": {
     "strong": [
       "META",
@@ -174,6 +205,9 @@
       "CRM",
       "NOW",
       "ADBE",
+      "SNOW",
+      "NET",
+      "MDB",
       "ZS",
       "PANW",
       "FTNT",
@@ -191,7 +225,9 @@
       "CELH",
       "CVNA",
       "IONQ",
+      "RXRX",
       "CRSP",
+      "SDGR",
       "DKNG",
       "RBLX",
       "TTD",
@@ -207,16 +243,11 @@
       "AAPL",
       "TSLA",
       "BRK-B",
-      "SNOW",
       "DDOG",
-      "NET",
-      "MDB",
       "MSTR",
       "PYPL",
       "RKLB",
       "ASTS",
-      "RXRX",
-      "SDGR",
       "UNH",
       "JNJ",
       "HIMS",
