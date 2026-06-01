@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T14:01:02.369115",
+  "generated_at": "2026-06-01T08:44:53.744695",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 42,
+    "strong_buys": 36,
     "insider_buys_total": 14,
-    "volume_spikes": 5
+    "volume_spikes": 0
   },
   "top_insider_buys": [
     {
@@ -13,7 +13,7 @@
       "company": "The Trade Desk, Inc.",
       "total_value": 148101266,
       "buys_count": 1,
-      "current_price": 21.559999465942383,
+      "current_price": 22.90999984741211,
       "score": 80,
       "category": "strong"
     },
@@ -22,8 +22,8 @@
       "company": "Palo Alto Networks, Inc.",
       "total_value": 9999977,
       "buys_count": 1,
-      "current_price": 281.69000244140625,
-      "score": 80,
+      "current_price": 294.5450134277344,
+      "score": 75,
       "category": "strong"
     },
     {
@@ -31,8 +31,8 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 6374607,
       "buys_count": 2,
-      "current_price": 33.790000915527344,
-      "score": 85,
+      "current_price": 34.63999938964844,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -40,26 +40,17 @@
       "company": "HubSpot, Inc.",
       "total_value": 2585781,
       "buys_count": 3,
-      "current_price": 220.6300048828125,
-      "score": 90,
+      "current_price": 256.1000061035156,
+      "score": 80,
       "category": "strong"
     },
     {
       "ticker": "DGICA",
       "company": "Donegal Group, Inc.",
-      "total_value": 2479819,
+      "total_value": 2465523,
       "buys_count": 9,
-      "current_price": 16.969999313354492,
+      "current_price": 16.760000228881836,
       "score": 70,
-      "category": "strong"
-    },
-    {
-      "ticker": "SOFI",
-      "company": "SoFi Technologies, Inc.",
-      "total_value": 2000581,
-      "buys_count": 4,
-      "current_price": 18.219999313354492,
-      "score": 90,
       "category": "strong"
     },
     {
@@ -67,7 +58,7 @@
       "company": "Reddit, Inc.",
       "total_value": 1388730,
       "buys_count": 1,
-      "current_price": 176.0,
+      "current_price": 181.00010681152344,
       "score": 90,
       "category": "strong"
     },
@@ -76,17 +67,26 @@
       "company": "Hims & Hers Health, Inc.",
       "total_value": 1172974,
       "buys_count": 1,
-      "current_price": 26.149999618530273,
-      "score": 70,
-      "category": "strong"
+      "current_price": 27.440500259399414,
+      "score": 65,
+      "category": "watch"
     },
     {
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
       "total_value": 1000444,
       "buys_count": 2,
-      "current_price": 191.10000610351562,
-      "score": 90,
+      "current_price": 210.28509521484375,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "total_value": 999066,
+      "buys_count": 3,
+      "current_price": 18.584999084472656,
+      "score": 85,
       "category": "strong"
     },
     {
@@ -94,7 +94,7 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 716358,
       "buys_count": 3,
-      "current_price": 33.27000045776367,
+      "current_price": 31.260000228881836,
       "score": 90,
       "category": "strong"
     }
@@ -103,98 +103,67 @@
     {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
-      "chg_1w": 48.4,
-      "price": 255.5500030517578
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
-      "chg_1w": 28.06,
-      "price": 94.30000305175781
-    },
-    {
-      "ticker": "RDDT",
-      "company": "Reddit, Inc.",
-      "chg_1w": 24.23,
-      "price": 176.0
+      "chg_1w": 58.26,
+      "price": 281.07000732421875
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
-      "chg_1w": 21.78,
-      "price": 124.37000274658203
+      "chg_1w": 37.58,
+      "price": 137.46499633789062
     },
     {
-      "ticker": "RXRX",
-      "company": "Recursion Pharmaceuticals, Inc.",
-      "chg_1w": 19.27,
-      "price": 3.5899999141693115
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "chg_1w": 29.35,
+      "price": 256.1000061035156
+    },
+    {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "chg_1w": 27.62,
+      "price": 392.239990234375
+    },
+    {
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "chg_1w": 27.22,
+      "price": 157.77999877929688
     }
   ],
   "top_losers": [
     {
       "ticker": "ZS",
       "company": "Zscaler, Inc.",
-      "chg_1w": -23.38,
-      "price": 139.72999572753906
+      "chg_1w": -16.29,
+      "price": 154.52000427246094
     },
     {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "chg_1w": -6.24,
-      "price": 145.25999450683594
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "chg_1w": -12.69,
+      "price": 104.51000213623047
     },
     {
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "chg_1w": -5.38,
-      "price": 113.9800033569336
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "chg_1w": -11.76,
+      "price": 126.36000061035156
     },
     {
-      "ticker": "MTDR",
-      "company": "Matador Resources Company",
-      "chg_1w": -5.37,
-      "price": 53.599998474121094
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "chg_1w": -5.36,
+      "price": 151.35499572753906
     },
     {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "chg_1w": -4.69,
-      "price": 182.4600067138672
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "chg_1w": -3.47,
+      "price": 375.3800048828125
     }
   ],
-  "volume_spikes": [
-    {
-      "ticker": "MDB",
-      "company": "MongoDB, Inc.",
-      "vol_ratio": 3.94,
-      "price": 335.54998779296875
-    },
-    {
-      "ticker": "ESTC",
-      "company": "Elastic N.V.",
-      "vol_ratio": 3.27,
-      "price": 64.69999694824219
-    },
-    {
-      "ticker": "HUBS",
-      "company": "HubSpot, Inc.",
-      "vol_ratio": 2.83,
-      "price": 220.6300048828125
-    },
-    {
-      "ticker": "DKNG",
-      "company": "DraftKings Inc.",
-      "vol_ratio": 2.56,
-      "price": 24.489999771118164
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
-      "vol_ratio": 2.55,
-      "price": 94.30000305175781
-    }
-  ],
+  "volume_spikes": [],
   "categories": {
     "strong": [
       "META",
@@ -205,8 +174,6 @@
       "CRM",
       "NOW",
       "ADBE",
-      "SNOW",
-      "MDB",
       "ZS",
       "PANW",
       "FTNT",
@@ -223,20 +190,16 @@
       "PLTR",
       "CELH",
       "CVNA",
-      "ASTS",
       "IONQ",
-      "RXRX",
       "CRSP",
-      "SDGR",
       "DKNG",
       "RBLX",
       "TTD",
+      "SNAP",
       "DASH",
       "LLY",
       "ABBV",
-      "HIMS",
       "MTDR",
-      "COP",
       "NWBI",
       "DGICA"
     ],
@@ -244,16 +207,22 @@
       "AAPL",
       "TSLA",
       "BRK-B",
+      "SNOW",
       "DDOG",
       "NET",
+      "MDB",
       "MSTR",
       "PYPL",
       "RKLB",
-      "SNAP",
+      "ASTS",
+      "RXRX",
+      "SDGR",
       "UNH",
       "JNJ",
+      "HIMS",
       "XOM",
       "CVX",
+      "COP",
       "JPM"
     ],
     "neutral": []
