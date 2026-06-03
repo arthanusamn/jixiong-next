@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-02T18:39:46.672720",
+  "generated_at": "2026-06-02T18:47:27.964021",
   "stats": {
-    "total_tracked": 56,
-    "active_signals": 56,
-    "strong_buys": 38,
-    "insider_buys_total": 14,
+    "total_tracked": 35,
+    "active_signals": 35,
+    "strong_buys": 26,
+    "insider_buys_total": 10,
     "volume_spikes": 4
   },
   "top_insider_buys": [
@@ -45,15 +45,6 @@
       "category": "strong"
     },
     {
-      "ticker": "DGICA",
-      "company": "Donegal Group, Inc.",
-      "total_value": 2465523,
-      "buys_count": 9,
-      "current_price": 16.979999542236328,
-      "score": 70,
-      "category": "strong"
-    },
-    {
       "ticker": "RDDT",
       "company": "Reddit, Inc.",
       "total_value": 1388730,
@@ -61,15 +52,6 @@
       "current_price": 169.1300048828125,
       "score": 90,
       "category": "strong"
-    },
-    {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health, Inc.",
-      "total_value": 1172974,
-      "buys_count": 1,
-      "current_price": 27.510000228881836,
-      "score": 65,
-      "category": "watch"
     },
     {
       "ticker": "CRM",
@@ -96,6 +78,24 @@
       "buys_count": 3,
       "current_price": 30.540000915527344,
       "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "BRK-B",
+      "company": "Berkshire Hathaway Inc. New",
+      "total_value": 250545,
+      "buys_count": 1,
+      "current_price": 471.510009765625,
+      "score": 65,
+      "category": "watch"
+    },
+    {
+      "ticker": "GTLB",
+      "company": "GitLab Inc.",
+      "total_value": 128342,
+      "buys_count": 1,
+      "current_price": 31.81999969482422,
+      "score": 75,
       "category": "strong"
     }
   ],
@@ -216,19 +216,7 @@
       "RDDT",
       "PLTR",
       "CELH",
-      "CVNA",
-      "IONQ",
-      "CRSP",
-      "DKNG",
-      "RBLX",
-      "TTD",
-      "DASH",
-      "LLY",
-      "MTDR",
-      "COP",
-      "JPM",
-      "NWBI",
-      "DGICA"
+      "CVNA"
     ],
     "watch": [
       "AAPL",
@@ -239,16 +227,7 @@
       "MDB",
       "PYPL",
       "RKLB",
-      "ASTS",
-      "RXRX",
-      "SDGR",
-      "SNAP",
-      "UNH",
-      "JNJ",
-      "ABBV",
-      "HIMS",
-      "XOM",
-      "CVX"
+      "ASTS"
     ],
     "neutral": []
   }
