@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-03T14:01:37.499286",
+  "generated_at": "2026-06-05T15:49:29.367899",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 36,
+    "strong_buys": 40,
     "insider_buys_total": 14,
-    "volume_spikes": 2
+    "volume_spikes": 5
   },
   "top_insider_buys": [
     {
       "ticker": "HOOD",
       "company": "Robinhood Markets, Inc.",
-      "total_value": 20018206,
-      "buys_count": 1,
-      "current_price": 82.8499984741211,
+      "total_value": 35122059,
+      "buys_count": 2,
+      "current_price": 82.47000122070312,
       "score": 80,
       "category": "strong"
     },
@@ -22,8 +22,8 @@
       "company": "Palo Alto Networks, Inc.",
       "total_value": 9999977,
       "buys_count": 1,
-      "current_price": 280.42999267578125,
-      "score": 75,
+      "current_price": 272.04998779296875,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -31,17 +31,17 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 6374607,
       "buys_count": 2,
-      "current_price": 30.290000915527344,
+      "current_price": 29.739999771118164,
       "score": 80,
       "category": "strong"
     },
     {
       "ticker": "DGICA",
       "company": "Donegal Group, Inc.",
-      "total_value": 2753330,
-      "buys_count": 10,
-      "current_price": 16.540000915527344,
-      "score": 70,
+      "total_value": 3064319,
+      "buys_count": 11,
+      "current_price": 17.239999771118164,
+      "score": 75,
       "category": "strong"
     },
     {
@@ -49,8 +49,8 @@
       "company": "HubSpot, Inc.",
       "total_value": 2585781,
       "buys_count": 3,
-      "current_price": 222.4499969482422,
-      "score": 85,
+      "current_price": 212.63999938964844,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -58,8 +58,8 @@
       "company": "Reddit, Inc.",
       "total_value": 1388730,
       "buys_count": 1,
-      "current_price": 169.49000549316406,
-      "score": 90,
+      "current_price": 173.4499969482422,
+      "score": 85,
       "category": "strong"
     },
     {
@@ -67,7 +67,7 @@
       "company": "Hims & Hers Health, Inc.",
       "total_value": 1172974,
       "buys_count": 1,
-      "current_price": 27.510000228881836,
+      "current_price": 26.190000534057617,
       "score": 65,
       "category": "watch"
     },
@@ -76,8 +76,8 @@
       "company": "Salesforce, Inc.",
       "total_value": 1000444,
       "buys_count": 2,
-      "current_price": 190.61000061035156,
-      "score": 85,
+      "current_price": 185.66000366210938,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -85,7 +85,7 @@
       "company": "SoFi Technologies, Inc.",
       "total_value": 999066,
       "buys_count": 3,
-      "current_price": 16.68000030517578,
+      "current_price": 16.030000686645508,
       "score": 85,
       "category": "strong"
     },
@@ -94,87 +94,105 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 716358,
       "buys_count": 3,
-      "current_price": 30.010000228881836,
+      "current_price": 28.1299991607666,
       "score": 85,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "NET",
-      "company": "Cloudflare, Inc.",
-      "chg_1w": 16.32,
-      "price": 265.3299865722656
+      "ticker": "ABBV",
+      "company": "AbbVie Inc.",
+      "chg_1w": 6.72,
+      "price": 227.22999572753906
     },
     {
-      "ticker": "MDB",
-      "company": "MongoDB, Inc.",
-      "chg_1w": 13.09,
-      "price": 368.32000732421875
+      "ticker": "JPM",
+      "company": "JP Morgan Chase & Co.",
+      "chg_1w": 5.32,
+      "price": 312.3699951171875
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "chg_1w": 12.99,
-      "price": 146.89999389648438
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "chg_1w": 5.16,
+      "price": 399.4700012207031
     },
     {
-      "ticker": "FTNT",
-      "company": "Fortinet, Inc.",
-      "chg_1w": 12.94,
-      "price": 146.47999572753906
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "chg_1w": 4.55,
+      "price": 1131.4200439453125
     },
     {
-      "ticker": "HUBS",
-      "company": "HubSpot, Inc.",
-      "chg_1w": 11.9,
-      "price": 222.4499969482422
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "chg_1w": 4.14,
+      "price": 232.77000427246094
     }
   ],
   "top_losers": [
     {
-      "ticker": "RKLB",
-      "company": "Rocket Lab Corporation",
-      "chg_1w": -22.52,
-      "price": 114.69999694824219
-    },
-    {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "chg_1w": -19.05,
-      "price": 107.7300033569336
-    },
-    {
       "ticker": "MSTR",
       "company": "Strategy Inc",
-      "chg_1w": -16.55,
-      "price": 126.54499816894531
+      "chg_1w": -19.59,
+      "price": 120.44000244140625
     },
     {
-      "ticker": "CVNA",
-      "company": "Carvana Co.",
-      "chg_1w": -13.39,
-      "price": 63.650001525878906
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "chg_1w": -18.9,
+      "price": 212.63999938964844
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "chg_1w": -18.04,
+      "price": 56.779998779296875
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "chg_1w": -17.23,
+      "price": 112.44999694824219
     },
     {
       "ticker": "COIN",
       "company": "Coinbase Global, Inc.",
-      "chg_1w": -10.44,
-      "price": 163.22000122070312
+      "chg_1w": -16.54,
+      "price": 152.39999389648438
     }
   ],
   "volume_spikes": [
     {
-      "ticker": "GTLB",
-      "company": "GitLab Inc.",
-      "vol_ratio": 2.38,
-      "price": 30.93000030517578
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "vol_ratio": 2.35,
+      "price": 120.44000244140625
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
       "vol_ratio": 1.76,
-      "price": 358.989990234375
+      "price": 593.0
+    },
+    {
+      "ticker": "BRK-B",
+      "company": "Berkshire Hathaway Inc. New",
+      "vol_ratio": 1.65,
+      "price": 488.1300048828125
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "vol_ratio": 1.62,
+      "price": 152.39999389648438
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "vol_ratio": 1.58,
+      "price": 41.290000915527344
     }
   ],
   "categories": {
@@ -184,32 +202,36 @@
       "GOOGL",
       "MSFT",
       "NVDA",
+      "AAPL",
+      "BRK-B",
       "CRM",
       "NOW",
       "ADBE",
       "SNOW",
-      "MDB",
       "ZS",
       "PANW",
-      "FTNT",
       "WDAY",
       "HUBS",
       "ESTC",
       "GTLB",
       "SOFI",
       "HOOD",
+      "COIN",
+      "MSTR",
+      "PYPL",
       "AFRM",
       "UPST",
       "RDDT",
       "PLTR",
       "CELH",
       "CVNA",
+      "IONQ",
       "CRSP",
-      "DKNG",
       "RBLX",
       "TTD",
       "DASH",
       "LLY",
+      "ABBV",
       "MTDR",
       "COP",
       "JPM",
@@ -217,23 +239,19 @@
       "DGICA"
     ],
     "watch": [
-      "AAPL",
       "TSLA",
-      "BRK-B",
       "DDOG",
       "NET",
-      "COIN",
-      "MSTR",
-      "PYPL",
+      "MDB",
+      "FTNT",
       "RKLB",
       "ASTS",
-      "IONQ",
       "RXRX",
       "SDGR",
+      "DKNG",
       "SNAP",
       "UNH",
       "JNJ",
-      "ABBV",
       "HIMS",
       "XOM",
       "CVX"
