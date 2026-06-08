@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T15:49:29.367899",
+  "generated_at": "2026-06-08T16:21:32.491911",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 40,
+    "strong_buys": 36,
     "insider_buys_total": 14,
-    "volume_spikes": 5
+    "volume_spikes": 1
   },
   "top_insider_buys": [
     {
@@ -13,8 +13,8 @@
       "company": "Robinhood Markets, Inc.",
       "total_value": 35122059,
       "buys_count": 2,
-      "current_price": 82.47000122070312,
-      "score": 80,
+      "current_price": 85.04000091552734,
+      "score": 75,
       "category": "strong"
     },
     {
@@ -22,7 +22,7 @@
       "company": "Palo Alto Networks, Inc.",
       "total_value": 9999977,
       "buys_count": 1,
-      "current_price": 272.04998779296875,
+      "current_price": 266.3299865722656,
       "score": 80,
       "category": "strong"
     },
@@ -31,7 +31,7 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 6374607,
       "buys_count": 2,
-      "current_price": 29.739999771118164,
+      "current_price": 31.0,
       "score": 80,
       "category": "strong"
     },
@@ -40,7 +40,7 @@
       "company": "Donegal Group, Inc.",
       "total_value": 3064319,
       "buys_count": 11,
-      "current_price": 17.239999771118164,
+      "current_price": 17.079999923706055,
       "score": 75,
       "category": "strong"
     },
@@ -49,7 +49,7 @@
       "company": "HubSpot, Inc.",
       "total_value": 2585781,
       "buys_count": 3,
-      "current_price": 212.63999938964844,
+      "current_price": 208.1199951171875,
       "score": 80,
       "category": "strong"
     },
@@ -58,8 +58,8 @@
       "company": "Reddit, Inc.",
       "total_value": 1388730,
       "buys_count": 1,
-      "current_price": 173.4499969482422,
-      "score": 85,
+      "current_price": 171.1300048828125,
+      "score": 90,
       "category": "strong"
     },
     {
@@ -67,8 +67,8 @@
       "company": "Hims & Hers Health, Inc.",
       "total_value": 1172974,
       "buys_count": 1,
-      "current_price": 26.190000534057617,
-      "score": 65,
+      "current_price": 27.170000076293945,
+      "score": 60,
       "category": "watch"
     },
     {
@@ -76,7 +76,7 @@
       "company": "Salesforce, Inc.",
       "total_value": 1000444,
       "buys_count": 2,
-      "current_price": 185.66000366210938,
+      "current_price": 182.5500030517578,
       "score": 80,
       "category": "strong"
     },
@@ -85,7 +85,7 @@
       "company": "SoFi Technologies, Inc.",
       "total_value": 999066,
       "buys_count": 3,
-      "current_price": 16.030000686645508,
+      "current_price": 16.5,
       "score": 85,
       "category": "strong"
     },
@@ -94,105 +94,81 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 716358,
       "buys_count": 3,
-      "current_price": 28.1299991607666,
+      "current_price": 28.0,
       "score": 85,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "ABBV",
-      "company": "AbbVie Inc.",
-      "chg_1w": 6.72,
-      "price": 227.22999572753906
-    },
-    {
-      "ticker": "JPM",
-      "company": "JP Morgan Chase & Co.",
-      "chg_1w": 5.32,
-      "price": 312.3699951171875
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "chg_1w": 7.99,
+      "price": 1149.1500244140625
     },
     {
       "ticker": "UNH",
       "company": "UnitedHealth Group Incorporated",
-      "chg_1w": 5.16,
-      "price": 399.4700012207031
+      "chg_1w": 7.58,
+      "price": 406.57000732421875
     },
     {
-      "ticker": "LLY",
-      "company": "Eli Lilly and Company",
-      "chg_1w": 4.55,
-      "price": 1131.4200439453125
+      "ticker": "CVNA",
+      "company": "Carvana Co.",
+      "chg_1w": 5.87,
+      "price": 69.44999694824219
     },
     {
       "ticker": "JNJ",
       "company": "Johnson & Johnson",
-      "chg_1w": 4.14,
-      "price": 232.77000427246094
+      "chg_1w": 4.16,
+      "price": 232.16000366210938
+    },
+    {
+      "ticker": "ABBV",
+      "company": "AbbVie Inc.",
+      "chg_1w": 3.56,
+      "price": 223.07000732421875
     }
   ],
   "top_losers": [
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "chg_1w": -19.59,
-      "price": 120.44000244140625
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "chg_1w": -22.1,
+      "price": 92.05999755859375
+    },
+    {
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "chg_1w": -13.92,
+      "price": 231.67999267578125
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
-      "chg_1w": -18.9,
-      "price": 212.63999938964844
+      "chg_1w": -13.34,
+      "price": 208.1199951171875
     },
     {
       "ticker": "IONQ",
       "company": "IonQ, Inc.",
-      "chg_1w": -18.04,
-      "price": 56.779998779296875
+      "chg_1w": -12.04,
+      "price": 62.79999923706055
     },
     {
-      "ticker": "NOW",
-      "company": "ServiceNow, Inc.",
-      "chg_1w": -17.23,
-      "price": 112.44999694824219
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global, Inc.",
-      "chg_1w": -16.54,
-      "price": 152.39999389648438
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "chg_1w": -11.52,
+      "price": 352.55999755859375
     }
   ],
   "volume_spikes": [
     {
-      "ticker": "MSTR",
-      "company": "Strategy Inc",
-      "vol_ratio": 2.35,
-      "price": 120.44000244140625
-    },
-    {
-      "ticker": "META",
-      "company": "Meta Platforms, Inc.",
-      "vol_ratio": 1.76,
-      "price": 593.0
-    },
-    {
-      "ticker": "BRK-B",
-      "company": "Berkshire Hathaway Inc. New",
-      "vol_ratio": 1.65,
-      "price": 488.1300048828125
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global, Inc.",
-      "vol_ratio": 1.62,
-      "price": 152.39999389648438
-    },
-    {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings, Inc.",
-      "vol_ratio": 1.58,
-      "price": 41.290000915527344
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "vol_ratio": 1.59,
+      "price": 301.5400085449219
     }
   ],
   "categories": {
@@ -212,13 +188,9 @@
       "PANW",
       "WDAY",
       "HUBS",
-      "ESTC",
       "GTLB",
       "SOFI",
       "HOOD",
-      "COIN",
-      "MSTR",
-      "PYPL",
       "AFRM",
       "UPST",
       "RDDT",
@@ -244,6 +216,10 @@
       "NET",
       "MDB",
       "FTNT",
+      "ESTC",
+      "COIN",
+      "MSTR",
+      "PYPL",
       "RKLB",
       "ASTS",
       "RXRX",
