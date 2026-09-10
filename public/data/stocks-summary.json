@@ -1,186 +1,175 @@
 {
-  "generated_at": "2026-06-16T17:03:34.911384",
+  "generated_at": "2026-09-10T11:57:28.431514",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 43,
-    "insider_buys_total": 14,
-    "volume_spikes": 1
+    "strong_buys": 36,
+    "insider_buys_total": 10,
+    "volume_spikes": 0
   },
   "top_insider_buys": [
     {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
-      "total_value": 55306259,
-      "buys_count": 3,
-      "current_price": 96.70999908447266,
-      "score": 80,
-      "category": "strong"
-    },
-    {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks, Inc.",
-      "total_value": 9999977,
-      "buys_count": 1,
-      "current_price": 279.8999938964844,
-      "score": 85,
-      "category": "strong"
-    },
-    {
-      "ticker": "UPST",
-      "company": "Upstart Holdings, Inc.",
-      "total_value": 6374607,
-      "buys_count": 2,
-      "current_price": 32.2400016784668,
-      "score": 85,
-      "category": "strong"
-    },
-    {
       "ticker": "DGICA",
       "company": "Donegal Group, Inc.",
-      "total_value": 3408764,
-      "buys_count": 12,
-      "current_price": 17.459999084472656,
+      "total_value": 3285223,
+      "buys_count": 9,
+      "current_price": 19.15999984741211,
       "score": 70,
       "category": "strong"
     },
     {
-      "ticker": "HUBS",
-      "company": "HubSpot, Inc.",
-      "total_value": 2585781,
-      "buys_count": 3,
-      "current_price": 182.85000610351562,
-      "score": 80,
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "total_value": 1945130,
+      "buys_count": 1,
+      "current_price": 249.32000732421875,
+      "score": 75,
       "category": "strong"
     },
     {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health, Inc.",
-      "total_value": 1172974,
+      "ticker": "CVNA",
+      "company": "Carvana Co.",
+      "total_value": 1544981,
       "buys_count": 1,
-      "current_price": 31.469999313354492,
-      "score": 65,
-      "category": "watch"
-    },
-    {
-      "ticker": "CELH",
-      "company": "Celsius Holdings, Inc.",
-      "total_value": 716358,
-      "buys_count": 3,
-      "current_price": 30.010000228881836,
-      "score": 90,
+      "current_price": 70.20999908447266,
+      "score": 85,
       "category": "strong"
     },
     {
       "ticker": "MTDR",
       "company": "Matador Resources Company",
-      "total_value": 655722,
-      "buys_count": 9,
-      "current_price": 51.209999084472656,
-      "score": 75,
+      "total_value": 1237513,
+      "buys_count": 7,
+      "current_price": 61.65999984741211,
+      "score": 85,
       "category": "strong"
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce, Inc.",
-      "total_value": 500266,
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "total_value": 619200,
       "buys_count": 1,
-      "current_price": 161.7100067138672,
+      "current_price": 60.94990158081055,
       "score": 80,
       "category": "strong"
     },
     {
       "ticker": "SOFI",
       "company": "SoFi Technologies, Inc.",
-      "total_value": 498550,
-      "buys_count": 2,
-      "current_price": 17.709999084472656,
-      "score": 85,
+      "total_value": 250787,
+      "buys_count": 1,
+      "current_price": 17.235000610351562,
+      "score": 80,
+      "category": "strong"
+    },
+    {
+      "ticker": "BRK-B",
+      "company": "Berkshire Hathaway Inc. New",
+      "total_value": 250072,
+      "buys_count": 1,
+      "current_price": 505.614990234375,
+      "score": 65,
+      "category": "watch"
+    },
+    {
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "total_value": 199735,
+      "buys_count": 1,
+      "current_price": 224.27000427246094,
+      "score": 65,
+      "category": "watch"
+    },
+    {
+      "ticker": "GTLB",
+      "company": "GitLab Inc.",
+      "total_value": 122960,
+      "buys_count": 1,
+      "current_price": 47.279998779296875,
+      "score": 70,
+      "category": "strong"
+    },
+    {
+      "ticker": "NWBI",
+      "company": "Northwest Bancshares, Inc.",
+      "total_value": 24975,
+      "buys_count": 1,
+      "current_price": 15.354999542236328,
+      "score": 70,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "AFRM",
-      "company": "Affirm Holdings, Inc.",
-      "chg_1w": 18.91,
-      "price": 74.69000244140625
+      "ticker": "NET",
+      "company": "Cloudflare, Inc.",
+      "chg_1w": 9.63,
+      "price": 311.8999938964844
     },
     {
       "ticker": "RBLX",
       "company": "Roblox Corporation",
-      "chg_1w": 18.89,
-      "price": 49.34000015258789
+      "chg_1w": 8.19,
+      "price": 44.90999984741211
     },
     {
-      "ticker": "HIMS",
-      "company": "Hims & Hers Health, Inc.",
-      "chg_1w": 13.28,
-      "price": 31.469999313354492
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "chg_1w": 5.78,
+      "price": 645.989990234375
     },
     {
-      "ticker": "DASH",
-      "company": "DoorDash, Inc.",
-      "chg_1w": 12.6,
-      "price": 170.02999877929688
-    },
-    {
-      "ticker": "HOOD",
-      "company": "Robinhood Markets, Inc.",
-      "chg_1w": 11.98,
-      "price": 96.70999908447266
-    }
-  ],
-  "top_losers": [
-    {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "chg_1w": -11.17,
-      "price": 207.32000732421875
-    },
-    {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "chg_1w": -7.78,
-      "price": 126.7699966430664
-    },
-    {
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "chg_1w": -7.15,
-      "price": 111.33999633789062
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "chg_1w": 4.19,
+      "price": 223.75999450683594
     },
     {
       "ticker": "MTDR",
       "company": "Matador Resources Company",
-      "chg_1w": -6.74,
-      "price": 51.209999084472656
+      "chg_1w": 3.25,
+      "price": 61.65999984741211
+    }
+  ],
+  "top_losers": [
+    {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "chg_1w": -15.5,
+      "price": 26.7101993560791
     },
     {
-      "ticker": "XOM",
-      "company": "Exxon Mobil Corporation",
-      "chg_1w": -5.82,
-      "price": 141.86000061035156
-    }
-  ],
-  "volume_spikes": [
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "chg_1w": -12.75,
+      "price": 249.32000732421875
+    },
     {
-      "ticker": "SNAP",
-      "company": "Snap Inc.",
-      "vol_ratio": 2.24,
-      "price": 5.159999847412109
+      "ticker": "ESTC",
+      "company": "Elastic N.V.",
+      "chg_1w": -12.75,
+      "price": 83.87000274658203
+    },
+    {
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "chg_1w": -12.09,
+      "price": 224.27000427246094
+    },
+    {
+      "ticker": "UPST",
+      "company": "Upstart Holdings, Inc.",
+      "chg_1w": -11.69,
+      "price": 25.184999465942383
     }
   ],
+  "volume_spikes": [],
   "categories": {
     "strong": [
       "META",
       "AMZN",
       "GOOGL",
-      "MSFT",
       "NVDA",
-      "AAPL",
-      "BRK-B",
-      "CRM",
       "NOW",
       "ADBE",
       "SNOW",
@@ -190,47 +179,51 @@
       "ZS",
       "PANW",
       "FTNT",
-      "WDAY",
-      "HUBS",
       "ESTC",
       "GTLB",
       "SOFI",
       "HOOD",
-      "COIN",
-      "MSTR",
-      "PYPL",
       "AFRM",
       "UPST",
       "RDDT",
       "PLTR",
-      "CELH",
       "CVNA",
+      "RKLB",
+      "ASTS",
       "IONQ",
       "CRSP",
       "RBLX",
-      "TTD",
-      "SNAP",
       "DASH",
       "LLY",
       "MTDR",
+      "XOM",
+      "CVX",
+      "COP",
       "JPM",
       "NWBI",
       "DGICA"
     ],
     "watch": [
+      "MSFT",
+      "AAPL",
       "TSLA",
-      "RKLB",
-      "ASTS",
+      "BRK-B",
+      "CRM",
+      "WDAY",
+      "HUBS",
+      "COIN",
+      "MSTR",
+      "PYPL",
+      "CELH",
       "RXRX",
       "SDGR",
       "DKNG",
+      "TTD",
+      "SNAP",
       "UNH",
       "JNJ",
       "ABBV",
-      "HIMS",
-      "XOM",
-      "CVX",
-      "COP"
+      "HIMS"
     ],
     "neutral": []
   }
