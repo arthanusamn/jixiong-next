@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:57:28.431514",
+  "generated_at": "2026-09-10T12:45:43.535352",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
@@ -13,7 +13,7 @@
       "company": "Donegal Group, Inc.",
       "total_value": 3285223,
       "buys_count": 9,
-      "current_price": 19.15999984741211,
+      "current_price": 19.22010040283203,
       "score": 70,
       "category": "strong"
     },
@@ -22,7 +22,7 @@
       "company": "Adobe Inc.",
       "total_value": 1945130,
       "buys_count": 1,
-      "current_price": 249.32000732421875,
+      "current_price": 249.58999633789062,
       "score": 75,
       "category": "strong"
     },
@@ -31,8 +31,8 @@
       "company": "Carvana Co.",
       "total_value": 1544981,
       "buys_count": 1,
-      "current_price": 70.20999908447266,
-      "score": 85,
+      "current_price": 70.55500030517578,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -40,7 +40,7 @@
       "company": "Matador Resources Company",
       "total_value": 1237513,
       "buys_count": 7,
-      "current_price": 61.65999984741211,
+      "current_price": 62.029998779296875,
       "score": 85,
       "category": "strong"
     },
@@ -49,7 +49,7 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 60.94990158081055,
+      "current_price": 60.15999984741211,
       "score": 80,
       "category": "strong"
     },
@@ -58,7 +58,7 @@
       "company": "SoFi Technologies, Inc.",
       "total_value": 250787,
       "buys_count": 1,
-      "current_price": 17.235000610351562,
+      "current_price": 17.219999313354492,
       "score": 80,
       "category": "strong"
     },
@@ -67,7 +67,7 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 505.614990234375,
+      "current_price": 506.739990234375,
       "score": 65,
       "category": "watch"
     },
@@ -76,7 +76,7 @@
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 224.27000427246094,
+      "current_price": 223.33999633789062,
       "score": 65,
       "category": "watch"
     },
@@ -85,7 +85,7 @@
       "company": "GitLab Inc.",
       "total_value": 122960,
       "buys_count": 1,
-      "current_price": 47.279998779296875,
+      "current_price": 47.310001373291016,
       "score": 70,
       "category": "strong"
     },
@@ -94,7 +94,7 @@
       "company": "Northwest Bancshares, Inc.",
       "total_value": 24975,
       "buys_count": 1,
-      "current_price": 15.354999542236328,
+      "current_price": 15.414999961853027,
       "score": 70,
       "category": "strong"
     }
@@ -103,64 +103,64 @@
     {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
-      "chg_1w": 9.63,
-      "price": 311.8999938964844
+      "chg_1w": 9.92,
+      "price": 312.739990234375
     },
     {
       "ticker": "RBLX",
       "company": "Roblox Corporation",
-      "chg_1w": 8.19,
-      "price": 44.90999984741211
+      "chg_1w": 7.71,
+      "price": 44.709999084472656
     },
     {
       "ticker": "META",
       "company": "Meta Platforms, Inc.",
-      "chg_1w": 5.78,
-      "price": 645.989990234375
+      "chg_1w": 5.58,
+      "price": 644.7849731445312
     },
     {
       "ticker": "DDOG",
       "company": "Datadog, Inc.",
-      "chg_1w": 4.19,
-      "price": 223.75999450683594
+      "chg_1w": 4.12,
+      "price": 223.61000061035156
     },
     {
       "ticker": "MTDR",
       "company": "Matador Resources Company",
-      "chg_1w": 3.25,
-      "price": 61.65999984741211
+      "chg_1w": 3.87,
+      "price": 62.029998779296875
     }
   ],
   "top_losers": [
     {
       "ticker": "CELH",
       "company": "Celsius Holdings, Inc.",
-      "chg_1w": -15.5,
-      "price": 26.7101993560791
-    },
-    {
-      "ticker": "ADBE",
-      "company": "Adobe Inc.",
-      "chg_1w": -12.75,
-      "price": 249.32000732421875
+      "chg_1w": -15.49,
+      "price": 26.71500015258789
     },
     {
       "ticker": "ESTC",
       "company": "Elastic N.V.",
-      "chg_1w": -12.75,
-      "price": 83.87000274658203
+      "chg_1w": -12.78,
+      "price": 83.84500122070312
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe Inc.",
+      "chg_1w": -12.65,
+      "price": 249.58999633789062
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
-      "chg_1w": -12.09,
-      "price": 224.27000427246094
+      "chg_1w": -12.46,
+      "price": 223.33999633789062
     },
     {
       "ticker": "UPST",
       "company": "Upstart Holdings, Inc.",
-      "chg_1w": -11.69,
-      "price": 25.184999465942383
+      "chg_1w": -11.66,
+      "price": 25.19499969482422
     }
   ],
   "volume_spikes": [],
