@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-14T15:51:51.254544",
+  "generated_at": "2026-09-16T07:30:45.913679",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
     "strong_buys": 44,
     "insider_buys_total": 11,
-    "volume_spikes": 4
+    "volume_spikes": 0
   },
   "top_insider_buys": [
     {
       "ticker": "DGICA",
       "company": "Donegal Group, Inc.",
-      "total_value": 3734135,
-      "buys_count": 10,
-      "current_price": 19.450000762939453,
+      "total_value": 4786550,
+      "buys_count": 11,
+      "current_price": 19.28499984741211,
       "score": 75,
       "category": "strong"
     },
@@ -22,7 +22,7 @@
       "company": "Adobe Inc.",
       "total_value": 1945130,
       "buys_count": 1,
-      "current_price": 265.6000061035156,
+      "current_price": 253.27000427246094,
       "score": 80,
       "category": "strong"
     },
@@ -31,7 +31,16 @@
       "company": "Carvana Co.",
       "total_value": 1544981,
       "buys_count": 1,
-      "current_price": 70.87000274658203,
+      "current_price": 66.37999725341797,
+      "score": 85,
+      "category": "strong"
+    },
+    {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "total_value": 1494043,
+      "buys_count": 2,
+      "current_price": 28.40999984741211,
       "score": 80,
       "category": "strong"
     },
@@ -40,8 +49,8 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": 26.100000381469727,
-      "score": 80,
+      "current_price": 25.2549991607666,
+      "score": 85,
       "category": "strong"
     },
     {
@@ -49,8 +58,8 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": 61.18000030517578,
-      "score": 85,
+      "current_price": 60.23500061035156,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -58,17 +67,8 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 60.0,
+      "current_price": 59.189998626708984,
       "score": 80,
-      "category": "strong"
-    },
-    {
-      "ticker": "CELH",
-      "company": "Celsius Holdings, Inc.",
-      "total_value": 493843,
-      "buys_count": 1,
-      "current_price": 28.450000762939453,
-      "score": 70,
       "category": "strong"
     },
     {
@@ -76,7 +76,7 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 514.9500122070312,
+      "current_price": 519.4500122070312,
       "score": 70,
       "category": "strong"
     },
@@ -85,110 +85,85 @@
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 250.61000061035156,
-      "score": 65,
-      "category": "watch"
+      "current_price": 239.49000549316406,
+      "score": 70,
+      "category": "strong"
     },
     {
       "ticker": "GTLB",
       "company": "GitLab Inc.",
       "total_value": 122960,
       "buys_count": 1,
-      "current_price": 49.25,
+      "current_price": 48.625,
       "score": 75,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
+      "ticker": "SDGR",
+      "company": "Schrodinger, Inc.",
+      "chg_1w": 23.72,
+      "price": 23.260000228881836
+    },
+    {
       "ticker": "ZS",
       "company": "Zscaler, Inc.",
-      "chg_1w": 18.4,
-      "price": 191.72999572753906
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare, Inc.",
-      "chg_1w": 16.2,
-      "price": 330.3599853515625
-    },
-    {
-      "ticker": "RBLX",
-      "company": "Roblox Corporation",
-      "chg_1w": 14.44,
-      "price": 51.290000915527344
+      "chg_1w": 17.4,
+      "price": 191.92550659179688
     },
     {
       "ticker": "PANW",
       "company": "Palo Alto Networks, Inc.",
-      "chg_1w": 10.97,
-      "price": 373.94000244140625
+      "chg_1w": 11.23,
+      "price": 376.5101013183594
     },
     {
-      "ticker": "DDOG",
-      "company": "Datadog, Inc.",
-      "chg_1w": 9.43,
-      "price": 230.0500030517578
+      "ticker": "RBLX",
+      "company": "Roblox Corporation",
+      "chg_1w": 9.0,
+      "price": 48.919898986816406
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet, Inc.",
+      "chg_1w": 8.43,
+      "price": 172.24000549316406
     }
   ],
   "top_losers": [
     {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "chg_1w": -9.26,
-      "price": 60.0
-    },
-    {
-      "ticker": "IONQ",
-      "company": "IonQ, Inc.",
-      "chg_1w": -7.34,
-      "price": 37.5
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "chg_1w": -6.44,
-      "price": 210.9600067138672
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "chg_1w": -6.66,
+      "price": 105.78500366210938
     },
     {
       "ticker": "CVNA",
       "company": "Carvana Co.",
-      "chg_1w": -5.15,
-      "price": 70.87000274658203
+      "chg_1w": -5.55,
+      "price": 66.37999725341797
     },
     {
-      "ticker": "RKLB",
-      "company": "Rocket Lab Corporation",
-      "chg_1w": -5.04,
-      "price": 62.54999923706055
+      "ticker": "DASH",
+      "company": "DoorDash, Inc.",
+      "chg_1w": -2.63,
+      "price": 195.75
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "chg_1w": -2.41,
+      "price": 168.1199951171875
+    },
+    {
+      "ticker": "MTDR",
+      "company": "Matador Resources Company",
+      "chg_1w": -2.25,
+      "price": 60.23500061035156
     }
   ],
-  "volume_spikes": [
-    {
-      "ticker": "ZS",
-      "company": "Zscaler, Inc.",
-      "vol_ratio": 2.3,
-      "price": 191.72999572753906
-    },
-    {
-      "ticker": "SDGR",
-      "company": "Schrodinger, Inc.",
-      "vol_ratio": 1.98,
-      "price": 20.75
-    },
-    {
-      "ticker": "PANW",
-      "company": "Palo Alto Networks, Inc.",
-      "vol_ratio": 1.84,
-      "price": 373.94000244140625
-    },
-    {
-      "ticker": "RBLX",
-      "company": "Roblox Corporation",
-      "vol_ratio": 1.79,
-      "price": 51.290000915527344
-    }
-  ],
+  "volume_spikes": [],
   "categories": {
     "strong": [
       "META",
@@ -208,6 +183,7 @@
       "PANW",
       "FTNT",
       "WDAY",
+      "HUBS",
       "ESTC",
       "GTLB",
       "SOFI",
@@ -222,7 +198,6 @@
       "ASTS",
       "IONQ",
       "CRSP",
-      "RBLX",
       "SNAP",
       "DASH",
       "LLY",
@@ -239,13 +214,13 @@
     "watch": [
       "AAPL",
       "TSLA",
-      "HUBS",
       "COIN",
       "MSTR",
       "PYPL",
       "RXRX",
       "SDGR",
       "DKNG",
+      "RBLX",
       "TTD",
       "UNH",
       "JNJ"
