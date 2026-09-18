@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T17:48:42.605214",
+  "generated_at": "2026-09-17T17:35:52.342131",
   "stats": {
     "total_tracked": 56,
-    "active_signals": 51,
-    "strong_buys": 6,
+    "active_signals": 53,
+    "strong_buys": 5,
     "insider_buys_total": 11,
-    "volume_spikes": 3
+    "volume_spikes": 4
   },
   "top_insider_buys": [
     {
@@ -27,6 +27,15 @@
       "category": "strong"
     },
     {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "total_value": 1830043,
+      "buys_count": 3,
+      "current_price": NaN,
+      "score": 65,
+      "category": "watch"
+    },
+    {
       "ticker": "CVNA",
       "company": "Carvana Co.",
       "total_value": 1544981,
@@ -34,15 +43,6 @@
       "current_price": NaN,
       "score": 75,
       "category": "strong"
-    },
-    {
-      "ticker": "CELH",
-      "company": "Celsius Holdings, Inc.",
-      "total_value": 1494043,
-      "buys_count": 2,
-      "current_price": NaN,
-      "score": 65,
-      "category": "watch"
     },
     {
       "ticker": "UPST",
@@ -167,19 +167,25 @@
     {
       "ticker": "SDGR",
       "company": "Schrodinger, Inc.",
-      "vol_ratio": 2.26,
-      "price": NaN
-    },
-    {
-      "ticker": "NWBI",
-      "company": "Northwest Bancshares, Inc.",
-      "vol_ratio": 1.9,
+      "vol_ratio": 5.62,
       "price": NaN
     },
     {
       "ticker": "CRSP",
       "company": "CRISPR Therapeutics AG",
-      "vol_ratio": 1.68,
+      "vol_ratio": 1.95,
+      "price": NaN
+    },
+    {
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "vol_ratio": 1.77,
+      "price": NaN
+    },
+    {
+      "ticker": "DKNG",
+      "company": "DraftKings Inc.",
+      "vol_ratio": 1.76,
       "price": NaN
     }
   ],
@@ -189,8 +195,7 @@
       "UPST",
       "CVNA",
       "ASTS",
-      "MTDR",
-      "NWBI"
+      "MTDR"
     ],
     "watch": [
       "META",
@@ -223,8 +228,10 @@
       "CELH",
       "RKLB",
       "IONQ",
+      "RXRX",
       "CRSP",
       "SDGR",
+      "DKNG",
       "RBLX",
       "TTD",
       "SNAP",
@@ -237,13 +244,12 @@
       "CVX",
       "COP",
       "JPM",
+      "NWBI",
       "DGICA"
     ],
     "neutral": [
       "COIN",
       "MSTR",
-      "RXRX",
-      "DKNG",
       "UNH"
     ]
   }
