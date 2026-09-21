@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T15:52:55.888643",
+  "generated_at": "2026-09-21T14:25:46.245286",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 45,
+    "strong_buys": 42,
     "insider_buys_total": 11,
     "volume_spikes": 5
   },
@@ -13,8 +13,8 @@
       "company": "Donegal Group, Inc.",
       "total_value": 4786550,
       "buys_count": 11,
-      "current_price": 18.729999542236328,
-      "score": 75,
+      "current_price": 18.600000381469727,
+      "score": 70,
       "category": "strong"
     },
     {
@@ -22,8 +22,8 @@
       "company": "Adobe Inc.",
       "total_value": 1945130,
       "buys_count": 1,
-      "current_price": 248.9199981689453,
-      "score": 80,
+      "current_price": 249.52000427246094,
+      "score": 75,
       "category": "strong"
     },
     {
@@ -40,7 +40,7 @@
       "company": "Carvana Co.",
       "total_value": 1544981,
       "buys_count": 1,
-      "current_price": 65.11000061035156,
+      "current_price": 67.18000030517578,
       "score": 90,
       "category": "strong"
     },
@@ -49,7 +49,7 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": 25.0,
+      "current_price": 25.579999923706055,
       "score": 85,
       "category": "strong"
     },
@@ -58,7 +58,7 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": 56.810001373291016,
+      "current_price": 54.09000015258789,
       "score": 85,
       "category": "strong"
     },
@@ -67,7 +67,7 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 58.52000045776367,
+      "current_price": 61.88999938964844,
       "score": 85,
       "category": "strong"
     },
@@ -76,26 +76,26 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 509.7699890136719,
-      "score": 70,
-      "category": "strong"
+      "current_price": 502.010009765625,
+      "score": 65,
+      "category": "watch"
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 216.1199951171875,
-      "score": 70,
-      "category": "strong"
+      "current_price": 213.86000061035156,
+      "score": 65,
+      "category": "watch"
     },
     {
       "ticker": "GTLB",
       "company": "GitLab Inc.",
       "total_value": 122960,
       "buys_count": 1,
-      "current_price": 49.22999954223633,
-      "score": 70,
+      "current_price": 49.790000915527344,
+      "score": 75,
       "category": "strong"
     }
   ],
@@ -103,96 +103,96 @@
     {
       "ticker": "SDGR",
       "company": "Schrodinger, Inc.",
-      "chg_1w": 39.86,
-      "price": 29.020000457763672
+      "chg_1w": 30.06,
+      "price": 30.239999771118164
     },
     {
       "ticker": "MSTR",
       "company": "Strategy Inc",
-      "chg_1w": 12.4,
-      "price": 153.9199981689453
+      "chg_1w": 30.02,
+      "price": 168.5
     },
     {
       "ticker": "RXRX",
       "company": "Recursion Pharmaceuticals, Inc.",
-      "chg_1w": 12.32,
-      "price": 3.8299999237060547
+      "chg_1w": 22.53,
+      "price": 3.9700000286102295
+    },
+    {
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "chg_1w": 16.81,
+      "price": 201.0500030517578
     },
     {
       "ticker": "CRSP",
       "company": "CRISPR Therapeutics AG",
-      "chg_1w": 6.8,
-      "price": 56.560001373291016
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "chg_1w": 5.36,
-      "price": 222.27000427246094
+      "chg_1w": 12.54,
+      "price": 58.33000183105469
     }
   ],
   "top_losers": [
     {
+      "ticker": "MTDR",
+      "company": "Matador Resources Company",
+      "chg_1w": -14.37,
+      "price": 54.09000015258789
+    },
+    {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
-      "chg_1w": -13.76,
-      "price": 216.1199951171875
+      "chg_1w": -11.61,
+      "price": 213.86000061035156
     },
     {
       "ticker": "DKNG",
       "company": "DraftKings Inc.",
-      "chg_1w": -12.47,
-      "price": 21.75
+      "chg_1w": -10.84,
+      "price": 21.969999313354492
     },
     {
-      "ticker": "CRM",
-      "company": "Salesforce, Inc.",
-      "chg_1w": -8.13,
-      "price": 237.9199981689453
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "chg_1w": -9.69,
+      "price": 127.52999877929688
     },
     {
-      "ticker": "CVNA",
-      "company": "Carvana Co.",
-      "chg_1w": -8.13,
-      "price": 65.11000061035156
-    },
-    {
-      "ticker": "MTDR",
-      "company": "Matador Resources Company",
-      "chg_1w": -7.14,
-      "price": 56.810001373291016
+      "ticker": "TTD",
+      "company": "The Trade Desk, Inc.",
+      "chg_1w": -7.47,
+      "price": 13.880000114440918
     }
   ],
   "volume_spikes": [
     {
-      "ticker": "TTD",
-      "company": "The Trade Desk, Inc.",
-      "vol_ratio": 6.19,
-      "price": 13.920000076293945
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "vol_ratio": 2.37,
+      "price": 741.2449951171875
     },
     {
-      "ticker": "HUBS",
-      "company": "HubSpot, Inc.",
-      "vol_ratio": 5.51,
-      "price": 216.1199951171875
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "vol_ratio": 2.12,
+      "price": 3.9700000286102295
     },
     {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "vol_ratio": 4.82,
-      "price": 209.50999450683594
+      "ticker": "SOFI",
+      "company": "SoFi Technologies, Inc.",
+      "vol_ratio": 1.59,
+      "price": 16.969999313354492
     },
     {
-      "ticker": "NWBI",
-      "company": "Northwest Bancshares, Inc.",
-      "vol_ratio": 3.69,
-      "price": 15.460000038146973
+      "ticker": "SDGR",
+      "company": "Schrodinger, Inc.",
+      "vol_ratio": 1.52,
+      "price": 30.239999771118164
     },
     {
-      "ticker": "RDDT",
-      "company": "Reddit, Inc.",
-      "vol_ratio": 2.97,
-      "price": 150.85000610351562
+      "ticker": "MSTR",
+      "company": "Strategy Inc",
+      "vol_ratio": 1.51,
+      "price": 168.5
     }
   ],
   "categories": {
@@ -202,19 +202,16 @@
       "GOOGL",
       "MSFT",
       "NVDA",
-      "AAPL",
       "TSLA",
-      "BRK-B",
+      "CRM",
       "NOW",
       "ADBE",
       "SNOW",
       "DDOG",
       "MDB",
       "ZS",
-      "PANW",
       "FTNT",
       "WDAY",
-      "HUBS",
       "ESTC",
       "GTLB",
       "SOFI",
@@ -233,8 +230,8 @@
       "CRSP",
       "DASH",
       "LLY",
-      "JNJ",
       "ABBV",
+      "HIMS",
       "MTDR",
       "XOM",
       "CVX",
@@ -244,8 +241,11 @@
       "DGICA"
     ],
     "watch": [
-      "CRM",
+      "AAPL",
+      "BRK-B",
       "NET",
+      "PANW",
+      "HUBS",
       "COIN",
       "PYPL",
       "SDGR",
@@ -254,7 +254,7 @@
       "TTD",
       "SNAP",
       "UNH",
-      "HIMS"
+      "JNJ"
     ],
     "neutral": []
   }
