@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T20:01:12.346662",
+  "generated_at": "2026-09-29T15:36:48.698551",
   "stats": {
     "total_tracked": 56,
-    "active_signals": 55,
-    "strong_buys": 39,
-    "insider_buys_total": 11,
-    "volume_spikes": 3
+    "active_signals": 56,
+    "strong_buys": 38,
+    "insider_buys_total": 10,
+    "volume_spikes": 4
   },
   "top_insider_buys": [
     {
@@ -13,7 +13,7 @@
       "company": "Donegal Group, Inc.",
       "total_value": 4786550,
       "buys_count": 11,
-      "current_price": 18.09000015258789,
+      "current_price": 18.06999969482422,
       "score": 70,
       "category": "strong"
     },
@@ -22,7 +22,7 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 1830043,
       "buys_count": 3,
-      "current_price": 27.989999771118164,
+      "current_price": 27.709999084472656,
       "score": 75,
       "category": "strong"
     },
@@ -31,7 +31,7 @@
       "company": "Carvana Co.",
       "total_value": 1544981,
       "buys_count": 1,
-      "current_price": 65.05999755859375,
+      "current_price": 63.619998931884766,
       "score": 85,
       "category": "strong"
     },
@@ -40,7 +40,7 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": 23.809999465942383,
+      "current_price": 23.139999389648438,
       "score": 80,
       "category": "strong"
     },
@@ -49,7 +49,7 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": 51.54999923706055,
+      "current_price": 50.689998626708984,
       "score": 85,
       "category": "strong"
     },
@@ -58,7 +58,7 @@
       "company": "Salesforce, Inc.",
       "total_value": 999451,
       "buys_count": 1,
-      "current_price": 234.02000427246094,
+      "current_price": 225.30999755859375,
       "score": 80,
       "category": "strong"
     },
@@ -67,8 +67,8 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 61.810001373291016,
-      "score": 80,
+      "current_price": 59.400001525878906,
+      "score": 85,
       "category": "strong"
     },
     {
@@ -76,111 +76,117 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 505.4800109863281,
-      "score": 70,
-      "category": "strong"
+      "current_price": 502.3500061035156,
+      "score": 65,
+      "category": "watch"
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 213.74000549316406,
-      "score": 65,
-      "category": "watch"
+      "current_price": 197.6699981689453,
+      "score": 70,
+      "category": "strong"
     },
     {
-      "ticker": "GTLB",
-      "company": "GitLab Inc.",
-      "total_value": 122960,
+      "ticker": "NWBI",
+      "company": "Northwest Bancshares, Inc.",
+      "total_value": 24975,
       "buys_count": 1,
-      "current_price": 46.845001220703125,
-      "score": 75,
+      "current_price": 14.920000076293945,
+      "score": 70,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "IONQ",
-      "company": "IonQ, Inc.",
-      "chg_1w": 12.27,
-      "price": 45.47999954223633
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "chg_1w": 8.92,
+      "price": 4.03000020980835
     },
     {
       "ticker": "DDOG",
       "company": "Datadog, Inc.",
-      "chg_1w": 9.42,
-      "price": 268.1300048828125
+      "chg_1w": 6.79,
+      "price": 268.55999755859375
     },
     {
-      "ticker": "RKLB",
-      "company": "Rocket Lab Corporation",
-      "chg_1w": 5.81,
-      "price": 73.94999694824219
+      "ticker": "SDGR",
+      "company": "Schrodinger, Inc.",
+      "chg_1w": 3.76,
+      "price": 30.329999923706055
     },
     {
-      "ticker": "PYPL",
-      "company": "PayPal Holdings, Inc.",
-      "chg_1w": 4.6,
-      "price": 55.040000915527344
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "chg_1w": 3.22,
+      "price": 43.90999984741211
     },
     {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies Inc.",
-      "chg_1w": 3.59,
-      "price": 189.6699981689453
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "chg_1w": 2.92,
+      "price": 1184.6300048828125
     }
   ],
   "top_losers": [
     {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "chg_1w": -21.28,
+      "price": 337.19000244140625
+    },
+    {
       "ticker": "RBLX",
       "company": "Roblox Corporation",
-      "chg_1w": -9.39,
-      "price": 46.439998626708984
+      "chg_1w": -15.94,
+      "price": 41.18000030517578
     },
     {
-      "ticker": "TTD",
-      "company": "The Trade Desk, Inc.",
-      "chg_1w": -9.22,
-      "price": 12.600000381469727
-    },
-    {
-      "ticker": "CRSP",
-      "company": "CRISPR Therapeutics AG",
-      "chg_1w": -7.03,
-      "price": 54.22999954223633
-    },
-    {
-      "ticker": "UPST",
-      "company": "Upstart Holdings, Inc.",
-      "chg_1w": -6.92,
-      "price": 23.809999465942383
-    },
-    {
-      "ticker": "ZS",
-      "company": "Zscaler, Inc.",
-      "chg_1w": -6.8,
-      "price": 193.0500030517578
-    }
-  ],
-  "volume_spikes": [
-    {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "vol_ratio": 1.75,
-      "price": 516.1699829101562
-    },
-    {
-      "ticker": "ZS",
-      "company": "Zscaler, Inc.",
-      "vol_ratio": 1.72,
-      "price": 193.0500030517578
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "chg_1w": -12.55,
+      "price": 197.6699981689453
     },
     {
       "ticker": "DKNG",
       "company": "DraftKings Inc.",
+      "chg_1w": -7.81,
+      "price": 19.59000015258789
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow, Inc.",
+      "chg_1w": -7.7,
+      "price": 129.94000244140625
+    }
+  ],
+  "volume_spikes": [
+    {
+      "ticker": "MDB",
+      "company": "MongoDB, Inc.",
+      "vol_ratio": 2.88,
+      "price": 337.19000244140625
+    },
+    {
+      "ticker": "DKNG",
+      "company": "DraftKings Inc.",
+      "vol_ratio": 1.91,
+      "price": 19.59000015258789
+    },
+    {
+      "ticker": "RBLX",
+      "company": "Roblox Corporation",
       "vol_ratio": 1.6,
-      "price": 22.020000457763672
+      "price": 41.18000030517578
+    },
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "vol_ratio": 1.57,
+      "price": 59.400001525878906
     }
   ],
   "categories": {
@@ -190,15 +196,13 @@
       "GOOGL",
       "MSFT",
       "NVDA",
-      "BRK-B",
       "CRM",
       "NOW",
       "ADBE",
       "SNOW",
       "DDOG",
       "MDB",
-      "ZS",
-      "PANW",
+      "HUBS",
       "ESTC",
       "GTLB",
       "SOFI",
@@ -213,7 +217,8 @@
       "ASTS",
       "IONQ",
       "CRSP",
-      "DKNG",
+      "RBLX",
+      "SNAP",
       "DASH",
       "LLY",
       "HIMS",
@@ -228,23 +233,23 @@
     "watch": [
       "AAPL",
       "TSLA",
+      "BRK-B",
       "NET",
+      "ZS",
+      "PANW",
       "FTNT",
       "WDAY",
-      "HUBS",
       "COIN",
       "MSTR",
       "PYPL",
       "RXRX",
-      "RBLX",
+      "SDGR",
+      "DKNG",
       "TTD",
-      "SNAP",
       "UNH",
       "JNJ",
       "ABBV"
     ],
-    "neutral": [
-      "SDGR"
-    ]
+    "neutral": []
   }
 }
