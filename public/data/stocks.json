@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T15:36:48.698551",
+  "generated_at": "2026-09-30T16:25:03.727989",
   "ticker_count": 58,
   "stock_count": 56,
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 38,
+    "strong_buys": 39,
     "insider_buys_total": 10,
     "volume_spikes": 4
   },
@@ -15,8 +15,8 @@
       "company": "Donegal Group, Inc.",
       "total_value": 4786550,
       "buys_count": 11,
-      "current_price": 18.06999969482422,
-      "score": 70,
+      "current_price": 17.790000915527344,
+      "score": 75,
       "category": "strong"
     },
     {
@@ -24,7 +24,7 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 1830043,
       "buys_count": 3,
-      "current_price": 27.709999084472656,
+      "current_price": 27.350000381469727,
       "score": 75,
       "category": "strong"
     },
@@ -33,7 +33,7 @@
       "company": "Carvana Co.",
       "total_value": 1544981,
       "buys_count": 1,
-      "current_price": 63.619998931884766,
+      "current_price": 62.540000915527344,
       "score": 85,
       "category": "strong"
     },
@@ -42,7 +42,7 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": 23.139999389648438,
+      "current_price": 22.989999771118164,
       "score": 80,
       "category": "strong"
     },
@@ -51,7 +51,7 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": 50.689998626708984,
+      "current_price": 51.58000183105469,
       "score": 85,
       "category": "strong"
     },
@@ -60,7 +60,7 @@
       "company": "Salesforce, Inc.",
       "total_value": 999451,
       "buys_count": 1,
-      "current_price": 225.30999755859375,
+      "current_price": 229.57000732421875,
       "score": 80,
       "category": "strong"
     },
@@ -69,8 +69,8 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 59.400001525878906,
-      "score": 85,
+      "current_price": 58.86000061035156,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -78,16 +78,16 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 502.3500061035156,
-      "score": 65,
-      "category": "watch"
+      "current_price": 497.95001220703125,
+      "score": 70,
+      "category": "strong"
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 197.6699981689453,
+      "current_price": 204.97999572753906,
       "score": 70,
       "category": "strong"
     },
@@ -96,99 +96,99 @@
       "company": "Northwest Bancshares, Inc.",
       "total_value": 24975,
       "buys_count": 1,
-      "current_price": 14.920000076293945,
+      "current_price": 14.84000015258789,
       "score": 70,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "RXRX",
-      "company": "Recursion Pharmaceuticals, Inc.",
-      "chg_1w": 8.92,
-      "price": 4.03000020980835
-    },
-    {
       "ticker": "DDOG",
       "company": "Datadog, Inc.",
-      "chg_1w": 6.79,
-      "price": 268.55999755859375
+      "chg_1w": 6.59,
+      "price": 273.8500061035156
+    },
+    {
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "chg_1w": 6.17,
+      "price": 4.130000114440918
     },
     {
       "ticker": "SDGR",
       "company": "Schrodinger, Inc.",
-      "chg_1w": 3.76,
-      "price": 30.329999923706055
+      "chg_1w": 5.43,
+      "price": 31.049999237060547
     },
     {
-      "ticker": "IONQ",
-      "company": "IonQ, Inc.",
-      "chg_1w": 3.22,
-      "price": 43.90999984741211
+      "ticker": "MSFT",
+      "company": "Microsoft Corporation",
+      "chg_1w": 3.01,
+      "price": 512.9000244140625
     },
     {
-      "ticker": "LLY",
-      "company": "Eli Lilly and Company",
-      "chg_1w": 2.92,
-      "price": 1184.6300048828125
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "chg_1w": 1.9,
+      "price": 397.30999755859375
     }
   ],
   "top_losers": [
     {
       "ticker": "MDB",
       "company": "MongoDB, Inc.",
-      "chg_1w": -21.28,
-      "price": 337.19000244140625
+      "chg_1w": -17.27,
+      "price": 348.6099853515625
     },
     {
       "ticker": "RBLX",
       "company": "Roblox Corporation",
-      "chg_1w": -15.94,
-      "price": 41.18000030517578
-    },
-    {
-      "ticker": "HUBS",
-      "company": "HubSpot, Inc.",
-      "chg_1w": -12.55,
-      "price": 197.6699981689453
+      "chg_1w": -13.23,
+      "price": 42.369998931884766
     },
     {
       "ticker": "DKNG",
       "company": "DraftKings Inc.",
-      "chg_1w": -7.81,
-      "price": 19.59000015258789
+      "chg_1w": -10.67,
+      "price": 19.0
     },
     {
-      "ticker": "NOW",
-      "company": "ServiceNow, Inc.",
-      "chg_1w": -7.7,
-      "price": 129.94000244140625
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "chg_1w": -7.48,
+      "price": 204.97999572753906
+    },
+    {
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "chg_1w": -7.09,
+      "price": 199.4199981689453
     }
   ],
   "volume_spikes": [
     {
       "ticker": "MDB",
       "company": "MongoDB, Inc.",
-      "vol_ratio": 2.88,
-      "price": 337.19000244140625
+      "vol_ratio": 1.85,
+      "price": 348.6099853515625
     },
     {
-      "ticker": "DKNG",
-      "company": "DraftKings Inc.",
-      "vol_ratio": 1.91,
-      "price": 19.59000015258789
+      "ticker": "SDGR",
+      "company": "Schrodinger, Inc.",
+      "vol_ratio": 1.61,
+      "price": 31.049999237060547
     },
     {
-      "ticker": "RBLX",
-      "company": "Roblox Corporation",
-      "vol_ratio": 1.6,
-      "price": 41.18000030517578
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "vol_ratio": 1.55,
+      "price": 4.130000114440918
     },
     {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "vol_ratio": 1.57,
-      "price": 59.400001525878906
+      "ticker": "BRK-B",
+      "company": "Berkshire Hathaway Inc. New",
+      "vol_ratio": 1.53,
+      "price": 497.95001220703125
     }
   ],
   "stocks": [
@@ -197,28 +197,28 @@
       "company": "Meta Platforms, Inc.",
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
-      "price": 738.7899780273438,
-      "change": 23.17,
-      "change_pct": 3.24,
-      "open": 725.34,
-      "high": 740.45,
-      "low": 715.1,
-      "prev_close": 715.62,
-      "volume": 23034083,
-      "avg_volume": 24009084,
-      "vol_ratio": 0.96,
-      "chg_1w": -0.71,
-      "chg_1m": 29.18,
-      "rsi": 65.8,
-      "sma20": 675.73,
-      "sma50": 618.59,
+      "price": 725.1799926757812,
+      "change": -13.61,
+      "change_pct": -1.84,
+      "open": 729.0,
+      "high": 738.25,
+      "low": 721.3,
+      "prev_close": 738.79,
+      "volume": 19151113,
+      "avg_volume": 24204645,
+      "vol_ratio": 0.79,
+      "chg_1w": -6.74,
+      "chg_1m": 25.45,
+      "rsi": 64.8,
+      "sma20": 683.09,
+      "sma50": 620.23,
       "high_52w": 779.82,
       "low_52w": 520.26,
-      "pct_from_high": -5.3,
-      "market_cap": 1882072023040,
-      "pe": 27.83,
-      "fwd_pe": 21.13,
-      "eps": 26.55,
+      "pct_from_high": -7.0,
+      "market_cap": 1847400464384,
+      "pe": 26.46,
+      "fwd_pe": 20.74,
+      "eps": 27.41,
       "target": 793.91,
       "recommendation": "strong_buy",
       "rev_growth": 0.28,
@@ -370,36 +370,67 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "AMZN",
       "company": "Amazon.com, Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
-      "price": 246.6699981689453,
-      "change": 0.52,
-      "change_pct": 0.21,
-      "open": 246.95,
-      "high": 248.84,
-      "low": 245.14,
-      "prev_close": 246.15,
-      "volume": 31588613,
-      "avg_volume": 33775395,
-      "vol_ratio": 0.94,
-      "chg_1w": -1.04,
-      "chg_1m": -5.04,
-      "rsi": 43.2,
-      "sma20": 252.64,
-      "sma50": 256.09,
+      "price": 249.14999389648438,
+      "change": 2.48,
+      "change_pct": 1.01,
+      "open": 246.63,
+      "high": 252.44,
+      "low": 246.09,
+      "prev_close": 246.67,
+      "volume": 41456321,
+      "avg_volume": 34370296,
+      "vol_ratio": 1.21,
+      "chg_1w": -0.09,
+      "chg_1m": -2.26,
+      "rsi": 46.9,
+      "sma20": 252.35,
+      "sma50": 256.12,
       "high_52w": 287.2,
       "low_52w": 196.0,
-      "pct_from_high": -14.1,
-      "market_cap": 2660659888128,
-      "pe": 19.84,
-      "fwd_pe": 23.55,
+      "pct_from_high": -13.2,
+      "market_cap": 2687409848320,
+      "pe": 20.04,
+      "fwd_pe": 23.82,
       "eps": 12.43,
-      "target": 329.54,
+      "target": 329.98,
       "recommendation": "strong_buy",
       "rev_growth": 0.196,
       "profit_margin": 0.174,
@@ -480,35 +511,66 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
-      "price": 340.9200134277344,
-      "change": -1.83,
-      "change_pct": -0.53,
-      "open": 341.95,
-      "high": 342.84,
-      "low": 338.02,
-      "prev_close": 342.75,
-      "volume": 20589326,
-      "avg_volume": 25959671,
-      "vol_ratio": 0.79,
-      "chg_1w": 0.91,
-      "chg_1m": 0.53,
-      "rsi": 58.1,
-      "sma20": 342.03,
-      "sma50": 343.84,
+      "price": 344.0799865722656,
+      "change": 3.16,
+      "change_pct": 0.93,
+      "open": 344.21,
+      "high": 352.6,
+      "low": 341.0,
+      "prev_close": 340.92,
+      "volume": 36642402,
+      "avg_volume": 26648535,
+      "vol_ratio": 1.38,
+      "chg_1w": 0.5,
+      "chg_1m": 2.77,
+      "rsi": 58.9,
+      "sma20": 342.49,
+      "sma50": 343.79,
       "high_52w": 408.61,
       "low_52w": 235.84,
-      "pct_from_high": -16.6,
-      "market_cap": 4169429680128,
-      "pe": 17.12,
-      "fwd_pe": 22.62,
-      "eps": 19.91,
+      "pct_from_high": -15.8,
+      "market_cap": 4208075997184,
+      "pe": 17.26,
+      "fwd_pe": 22.83,
+      "eps": 19.94,
       "target": 429.36,
       "recommendation": "strong_buy",
       "rev_growth": 0.242,
@@ -519,36 +581,67 @@
       "insider_buys": [],
       "insider_sales": [],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "MSFT",
       "company": "Microsoft Corporation",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 508.9599914550781,
-      "change": -0.26,
-      "change_pct": -0.05,
-      "open": 508.13,
-      "high": 513.64,
-      "low": 502.4,
-      "prev_close": 509.22,
-      "volume": 20020164,
-      "avg_volume": 20975433,
-      "vol_ratio": 0.95,
-      "chg_1w": 1.67,
-      "chg_1m": 0.33,
-      "rsi": 60.5,
-      "sma20": 499.91,
-      "sma50": 479.88,
+      "price": 512.9000244140625,
+      "change": 3.94,
+      "change_pct": 0.77,
+      "open": 510.8,
+      "high": 519.83,
+      "low": 510.33,
+      "prev_close": 508.96,
+      "volume": 27014238,
+      "avg_volume": 21339881,
+      "vol_ratio": 1.27,
+      "chg_1w": 3.01,
+      "chg_1m": 2.37,
+      "rsi": 62.0,
+      "sma20": 500.5,
+      "sma50": 482.19,
       "high_52w": 553.72,
       "low_52w": 349.2,
-      "pct_from_high": -8.1,
-      "market_cap": 3779305668608,
-      "pe": 28.34,
-      "fwd_pe": 21.5,
-      "eps": 17.96,
-      "target": 577.26,
+      "pct_from_high": -7.4,
+      "market_cap": 3808562511872,
+      "pe": 28.54,
+      "fwd_pe": 21.69,
+      "eps": 17.97,
+      "target": 578.42,
       "recommendation": "strong_buy",
       "rev_growth": 0.177,
       "profit_margin": 0.403,
@@ -587,35 +680,66 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "NVDA",
       "company": "NVIDIA Corporation",
       "sector": "Technology",
       "industry": "Semiconductors",
-      "price": 227.2100067138672,
-      "change": -1.65,
-      "change_pct": -0.72,
-      "open": 230.99,
-      "high": 232.82,
-      "low": 227.02,
-      "prev_close": 228.86,
-      "volume": 98224511,
-      "avg_volume": 112104990,
-      "vol_ratio": 0.88,
-      "chg_1w": 0.75,
-      "chg_1m": 3.03,
-      "rsi": 54.7,
-      "sma20": 222.57,
-      "sma50": 216.8,
+      "price": 228.3800048828125,
+      "change": 1.17,
+      "change_pct": 0.51,
+      "open": 229.0,
+      "high": 232.37,
+      "low": 228.17,
+      "prev_close": 227.21,
+      "volume": 118683065,
+      "avg_volume": 112714853,
+      "vol_ratio": 1.05,
+      "chg_1w": 1.69,
+      "chg_1m": 5.15,
+      "rsi": 63.7,
+      "sma20": 223.13,
+      "sma50": 217.23,
       "high_52w": 236.54,
       "low_52w": 164.27,
-      "pct_from_high": -3.9,
-      "market_cap": 5486440087552,
-      "pe": 28.69,
-      "fwd_pe": 14.49,
-      "eps": 7.92,
+      "pct_from_high": -3.4,
+      "market_cap": 5514691870720,
+      "pe": 28.87,
+      "fwd_pe": 14.56,
+      "eps": 7.91,
       "target": 327.7,
       "recommendation": "strong_buy",
       "rev_growth": 1.059,
@@ -662,34 +786,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "AAPL",
       "company": "Apple Inc.",
       "sector": "Technology",
       "industry": "Consumer Electronics",
-      "price": 329.3999938964844,
-      "change": -9.0,
-      "change_pct": -2.66,
-      "open": 337.06,
-      "high": 337.06,
-      "low": 328.7,
-      "prev_close": 338.4,
-      "volume": 37773928,
-      "avg_volume": 42430461,
-      "vol_ratio": 0.89,
-      "chg_1w": -2.26,
-      "chg_1m": 3.96,
-      "rsi": 64.0,
-      "sma20": 330.96,
-      "sma50": 321.9,
+      "price": 333.0199890136719,
+      "change": 3.62,
+      "change_pct": 1.1,
+      "open": 330.8,
+      "high": 339.5,
+      "low": 330.14,
+      "prev_close": 329.4,
+      "volume": 49875295,
+      "avg_volume": 42301059,
+      "vol_ratio": 1.18,
+      "chg_1w": -0.86,
+      "chg_1m": 2.43,
+      "rsi": 57.6,
+      "sma20": 331.35,
+      "sma50": 322.01,
       "high_52w": 345.34,
       "low_52w": 243.42,
-      "pct_from_high": -4.6,
-      "market_cap": 4807323025408,
-      "pe": 37.73,
-      "fwd_pe": 34.36,
+      "pct_from_high": -3.6,
+      "market_cap": 4860153954304,
+      "pe": 38.15,
+      "fwd_pe": 34.74,
       "eps": 8.73,
       "target": 328.22,
       "recommendation": "buy",
@@ -751,35 +906,66 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "TSLA",
       "company": "Tesla, Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
-      "price": 352.8399963378906,
-      "change": -4.61,
-      "change_pct": -1.29,
-      "open": 358.42,
-      "high": 358.74,
-      "low": 351.67,
-      "prev_close": 357.45,
-      "volume": 31676972,
-      "avg_volume": 38484703,
-      "vol_ratio": 0.82,
-      "chg_1w": -7.18,
-      "chg_1m": -4.11,
-      "rsi": 39.3,
-      "sma20": 365.36,
-      "sma50": 347.45,
+      "price": 354.80999755859375,
+      "change": 1.97,
+      "change_pct": 0.56,
+      "open": 351.79,
+      "high": 355.22,
+      "low": 345.88,
+      "prev_close": 352.84,
+      "volume": 38511510,
+      "avg_volume": 38641355,
+      "vol_ratio": 1.0,
+      "chg_1w": -6.12,
+      "chg_1m": -0.36,
+      "rsi": 43.5,
+      "sma20": 365.3,
+      "sma50": 346.96,
       "high_52w": 498.83,
       "low_52w": 297.38,
-      "pct_from_high": -29.3,
-      "market_cap": 1393558290432,
-      "pe": 329.76,
-      "fwd_pe": 163.13,
-      "eps": 1.07,
+      "pct_from_high": -28.9,
+      "market_cap": 1401338986496,
+      "pe": 325.51,
+      "fwd_pe": 164.04,
+      "eps": 1.09,
       "target": 395.83,
       "recommendation": "buy",
       "rev_growth": 0.255,
@@ -798,42 +984,73 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "BRK-B",
       "company": "Berkshire Hathaway Inc. New",
       "sector": "Financial Services",
       "industry": "Insurance - Diversified",
-      "price": 502.3500061035156,
-      "change": -0.74,
-      "change_pct": -0.15,
-      "open": 501.53,
-      "high": 503.85,
-      "low": 500.23,
-      "prev_close": 503.09,
-      "volume": 3222347,
-      "avg_volume": 4478892,
-      "vol_ratio": 0.72,
-      "chg_1w": -0.95,
-      "chg_1m": -0.33,
-      "rsi": 44.9,
-      "sma20": 507.54,
-      "sma50": 506.76,
+      "price": 497.95001220703125,
+      "change": -4.4,
+      "change_pct": -0.88,
+      "open": 501.43,
+      "high": 502.12,
+      "low": 497.95,
+      "prev_close": 502.35,
+      "volume": 7006003,
+      "avg_volume": 4588250,
+      "vol_ratio": 1.53,
+      "chg_1w": -1.43,
+      "chg_1m": -0.87,
+      "rsi": 40.3,
+      "sma20": 507.33,
+      "sma50": 506.92,
       "high_52w": 537.74,
       "low_52w": 464.01,
-      "pct_from_high": -6.6,
-      "market_cap": 1075385532416,
-      "pe": 12.64,
-      "fwd_pe": 22.64,
-      "eps": 39.74,
+      "pct_from_high": -7.4,
+      "market_cap": 1065966436352,
+      "pe": 12.51,
+      "fwd_pe": 22.44,
+      "eps": 39.79,
       "target": 547.67,
       "recommendation": "buy",
       "rev_growth": 0.1,
       "profit_margin": 0.223,
       "beta": 0.6,
-      "score": 65,
-      "category": "watch",
+      "score": 70,
+      "category": "strong",
       "insider_buys": [
         {
           "date": "2026-08-12",
@@ -843,36 +1060,75 @@
           "shares": 488
         }
       ],
-      "insider_sales": [],
+      "insider_sales": [
+        {
+          "date": "2026-09-28",
+          "name": "JAIN AJIT",
+          "position": "Officer and Director",
+          "value": 19972776.0,
+          "shares": 39700
+        }
+      ],
       "total_insider_buys": 250072,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 225.30999755859375,
-      "change": -1.96,
-      "change_pct": -0.86,
-      "open": 227.27,
-      "high": 228.95,
-      "low": 223.5,
-      "prev_close": 227.27,
-      "volume": 8572914,
-      "avg_volume": 12718115,
-      "vol_ratio": 0.67,
-      "chg_1w": -5.16,
-      "chg_1m": -12.36,
-      "rsi": 34.9,
-      "sma20": 244.81,
-      "sma50": 215.54,
+      "price": 229.57000732421875,
+      "change": 4.26,
+      "change_pct": 1.89,
+      "open": 225.4,
+      "high": 233.73,
+      "low": 224.43,
+      "prev_close": 225.31,
+      "volume": 9706861,
+      "avg_volume": 12655253,
+      "vol_ratio": 0.77,
+      "chg_1w": -3.63,
+      "chg_1m": -10.9,
+      "rsi": 39.9,
+      "sma20": 243.41,
+      "sma50": 216.73,
       "high_52w": 269.11,
       "low_52w": 146.32,
-      "pct_from_high": -16.3,
-      "market_cap": 185430130688,
-      "pe": 20.61,
-      "fwd_pe": 14.08,
+      "pct_from_high": -14.7,
+      "market_cap": 188936110080,
+      "pe": 21.0,
+      "fwd_pe": 14.34,
       "eps": 10.93,
       "target": 281.08,
       "recommendation": "buy",
@@ -900,34 +1156,65 @@
         }
       ],
       "total_insider_buys": 999451,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "NOW",
       "company": "ServiceNow, Inc.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 129.94000244140625,
-      "change": -1.51,
-      "change_pct": -1.15,
-      "open": 130.83,
-      "high": 132.44,
-      "low": 128.12,
-      "prev_close": 131.45,
-      "volume": 9747928,
-      "avg_volume": 12880251,
-      "vol_ratio": 0.76,
-      "chg_1w": -7.7,
-      "chg_1m": -12.2,
-      "rsi": 48.4,
-      "sma20": 137.19,
-      "sma50": 126.86,
+      "price": 134.00999450683594,
+      "change": 4.07,
+      "change_pct": 3.13,
+      "open": 129.75,
+      "high": 135.06,
+      "low": 128.85,
+      "prev_close": 129.94,
+      "volume": 8987668,
+      "avg_volume": 12499948,
+      "vol_ratio": 0.72,
+      "chg_1w": -2.74,
+      "chg_1m": -6.22,
+      "rsi": 53.6,
+      "sma20": 136.74,
+      "sma50": 127.49,
       "high_52w": 192.966,
       "low_52w": 81.24,
-      "pct_from_high": -32.7,
-      "market_cap": 134340034560,
-      "pe": 81.21,
-      "fwd_pe": 25.96,
+      "pct_from_high": -30.6,
+      "market_cap": 138547838976,
+      "pe": 83.76,
+      "fwd_pe": 26.77,
       "eps": 1.6,
       "target": 144.99,
       "recommendation": "strong_buy",
@@ -968,35 +1255,66 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "ADBE",
       "company": "Adobe Inc.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 233.1699981689453,
-      "change": 2.16,
-      "change_pct": 0.94,
-      "open": 230.99,
-      "high": 233.3,
-      "low": 228.68,
-      "prev_close": 231.01,
-      "volume": 4031744,
-      "avg_volume": 5607032,
-      "vol_ratio": 0.72,
-      "chg_1w": -3.12,
-      "chg_1m": -20.36,
-      "rsi": 34.5,
-      "sma20": 253.69,
-      "sma50": 257.26,
+      "price": 239.94000244140625,
+      "change": 6.77,
+      "change_pct": 2.9,
+      "open": 233.7,
+      "high": 240.84,
+      "low": 231.95,
+      "prev_close": 233.17,
+      "volume": 4383865,
+      "avg_volume": 5607363,
+      "vol_ratio": 0.78,
+      "chg_1w": 0.42,
+      "chg_1m": -16.13,
+      "rsi": 43.7,
+      "sma20": 251.38,
+      "sma50": 257.52,
       "high_52w": 363.7,
       "low_52w": 190.12,
-      "pct_from_high": -35.9,
-      "market_cap": 92685074432,
-      "pe": 13.03,
-      "fwd_pe": 8.43,
-      "eps": 17.9,
+      "pct_from_high": -34.0,
+      "market_cap": 95376154624,
+      "pe": 13.4,
+      "fwd_pe": 8.67,
+      "eps": 17.91,
       "target": 275.06,
       "recommendation": "hold",
       "rev_growth": 0.129,
@@ -1015,41 +1333,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 330.30999755859375,
-      "change": 2.19,
-      "change_pct": 0.67,
-      "open": 331.18,
-      "high": 333.41,
-      "low": 324.17,
-      "prev_close": 328.12,
-      "volume": 5701377,
-      "avg_volume": 5665258,
-      "vol_ratio": 1.01,
-      "chg_1w": -1.34,
-      "chg_1m": -0.34,
-      "rsi": 49.0,
-      "sma20": 332.07,
-      "sma50": 319.34,
+      "price": 339.55999755859375,
+      "change": 9.25,
+      "change_pct": 2.8,
+      "open": 331.0,
+      "high": 348.24,
+      "low": 331.0,
+      "prev_close": 330.31,
+      "volume": 5704820,
+      "avg_volume": 5750991,
+      "vol_ratio": 0.99,
+      "chg_1w": 1.66,
+      "chg_1m": 6.18,
+      "rsi": 57.2,
+      "sma20": 333.05,
+      "sma50": 320.69,
       "high_52w": 384.56,
       "low_52w": 118.3,
-      "pct_from_high": -14.1,
-      "market_cap": 116533370880,
+      "pct_from_high": -11.7,
+      "market_cap": 119796768768,
       "pe": null,
-      "fwd_pe": 109.62,
-      "eps": -3.18,
+      "fwd_pe": 112.68,
+      "eps": -3.17,
       "target": 425.14,
       "recommendation": "strong_buy",
       "rev_growth": 0.351,
       "profit_margin": -0.201,
       "beta": 1.33,
-      "score": 70,
+      "score": 75,
       "category": "strong",
       "insider_buys": [],
       "insider_sales": [
@@ -1090,6 +1439,13 @@
         },
         {
           "date": "2026-09-16",
+          "name": "HO EMILY",
+          "position": "Officer",
+          "value": 255693.0,
+          "shares": 768
+        },
+        {
+          "date": "2026-09-16",
           "name": "RAGHUNATHAN VIVEK",
           "position": "Officer",
           "value": 1234545.0,
@@ -1101,13 +1457,6 @@
           "position": "Officer",
           "value": 4131636.0,
           "shares": 12292
-        },
-        {
-          "date": "2026-09-16",
-          "name": "HO EMILY",
-          "position": "Officer",
-          "value": 255693.0,
-          "shares": 768
         },
         {
           "date": "2026-09-16",
@@ -1132,17 +1481,17 @@
         },
         {
           "date": "2026-09-04",
-          "name": "SPEISER MICHAEL L",
-          "position": "Director",
-          "value": 17955768.0,
-          "shares": 50741
-        },
-        {
-          "date": "2026-09-04",
           "name": "GARRETT MARK S",
           "position": "Director",
           "value": 17500000.0,
           "shares": 50000
+        },
+        {
+          "date": "2026-09-04",
+          "name": "SPEISER MICHAEL L",
+          "position": "Director",
+          "value": 17955768.0,
+          "shares": 50741
         },
         {
           "date": "2026-09-03",
@@ -1230,6 +1579,13 @@
         },
         {
           "date": "2026-07-06",
+          "name": "BRIGGS TERESA",
+          "position": "Director",
+          "value": 175099.0,
+          "shares": 687
+        },
+        {
+          "date": "2026-07-06",
           "name": "SPEISER MICHAEL L",
           "position": "Director",
           "value": 12219613.0,
@@ -1241,51 +1597,68 @@
           "position": "Director",
           "value": 216642.0,
           "shares": 840
-        },
-        {
-          "date": "2026-07-06",
-          "name": "BRIGGS TERESA",
-          "position": "Director",
-          "value": 175099.0,
-          "shares": 687
-        },
-        {
-          "date": "2026-07-02",
-          "name": "DAGEVILLE BENOIT",
-          "position": "Director",
-          "value": 48590150.0,
-          "shares": 190819
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "DDOG",
       "company": "Datadog, Inc.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 268.55999755859375,
-      "change": -0.14,
-      "change_pct": -0.05,
-      "open": 267.03,
-      "high": 269.44,
-      "low": 259.26,
-      "prev_close": 268.7,
-      "volume": 2953446,
-      "avg_volume": 3662437,
-      "vol_ratio": 0.81,
-      "chg_1w": 6.79,
-      "chg_1m": 13.3,
-      "rsi": 83.9,
-      "sma20": 235.13,
-      "sma50": 243.01,
+      "price": 273.8500061035156,
+      "change": 5.29,
+      "change_pct": 1.97,
+      "open": 270.07,
+      "high": 277.5,
+      "low": 269.79,
+      "prev_close": 268.56,
+      "volume": 2787589,
+      "avg_volume": 3631329,
+      "vol_ratio": 0.77,
+      "chg_1w": 6.59,
+      "chg_1m": 22.34,
+      "rsi": 89.7,
+      "sma20": 237.63,
+      "sma50": 243.39,
       "high_52w": 292.72,
       "low_52w": 98.01,
-      "pct_from_high": -8.3,
-      "market_cap": 96433184768,
-      "pe": 526.59,
-      "fwd_pe": 90.33,
+      "pct_from_high": -6.4,
+      "market_cap": 98332696576,
+      "pe": 536.96,
+      "fwd_pe": 92.1,
       "eps": 0.51,
       "target": 286.26,
       "recommendation": "strong_buy",
@@ -1547,45 +1920,69 @@
           "position": "Chief Technology Officer",
           "value": 13868384.0,
           "shares": 53912
-        },
-        {
-          "date": "2026-07-02",
-          "name": "AGARWAL AMIT",
-          "position": "Director",
-          "value": 5224413.0,
-          "shares": 20000
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 352.260009765625,
-      "change": -1.73,
-      "change_pct": -0.49,
-      "open": 351.92,
-      "high": 356.72,
-      "low": 348.01,
-      "prev_close": 353.99,
-      "volume": 2146971,
-      "avg_volume": 3142238,
-      "vol_ratio": 0.68,
-      "chg_1w": -0.02,
-      "chg_1m": 15.45,
-      "rsi": 67.3,
-      "sma20": 322.44,
-      "sma50": 302.85,
+      "price": 347.2799987792969,
+      "change": -4.98,
+      "change_pct": -1.41,
+      "open": 351.0,
+      "high": 357.64,
+      "low": 346.15,
+      "prev_close": 352.26,
+      "volume": 2574022,
+      "avg_volume": 3146846,
+      "vol_ratio": 0.82,
+      "chg_1w": -3.22,
+      "chg_1m": 21.63,
+      "rsi": 66.1,
+      "sma20": 325.52,
+      "sma50": 304.35,
       "high_52w": 367.43,
       "low_52w": 158.83,
-      "pct_from_high": -4.1,
-      "market_cap": 125432643584,
+      "pct_from_high": -5.5,
+      "market_cap": 123659362304,
       "pe": null,
-      "fwd_pe": 210.16,
-      "eps": -0.57,
+      "fwd_pe": 207.19,
+      "eps": -0.56,
       "target": 336.81,
       "recommendation": "buy",
       "rev_growth": 0.359,
@@ -1632,17 +2029,17 @@
         },
         {
           "date": "2026-08-18",
-          "name": "RILEY JANEL",
-          "position": "Officer",
-          "value": 1579995.0,
-          "shares": 5148
-        },
-        {
-          "date": "2026-08-18",
           "name": "STARZAK ALISSA MICHELLE",
           "position": "Officer",
           "value": 1807014.0,
           "shares": 5871
+        },
+        {
+          "date": "2026-08-18",
+          "name": "RILEY JANEL",
+          "position": "Officer",
+          "value": 1579995.0,
+          "shares": 5148
         },
         {
           "date": "2026-08-17",
@@ -1730,57 +2127,81 @@
         },
         {
           "date": "2026-07-06",
-          "name": "GRAHAM-CUMMING JOHN",
-          "position": "Director",
-          "value": 623156.0,
-          "shares": 2520
-        },
-        {
-          "date": "2026-07-06",
           "name": "PRINCE MATTHEW",
           "position": "Chief Executive Officer",
           "value": 21099988.0,
           "shares": 86014
         },
         {
-          "date": "2026-07-02",
-          "name": "PRINCE MATTHEW",
-          "position": "Chief Executive Officer",
-          "value": 17600256.0,
-          "shares": 71174
+          "date": "2026-07-06",
+          "name": "GRAHAM-CUMMING JOHN",
+          "position": "Director",
+          "value": 623156.0,
+          "shares": 2520
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "MDB",
       "company": "MongoDB, Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 337.19000244140625,
-      "change": 2.51,
-      "change_pct": 0.75,
-      "open": 335.06,
-      "high": 349.0,
-      "low": 321.0,
-      "prev_close": 334.68,
-      "volume": 9306790,
-      "avg_volume": 3229089,
-      "vol_ratio": 2.88,
-      "chg_1w": -21.28,
-      "chg_1m": -25.63,
-      "rsi": 45.2,
-      "sma20": 384.68,
-      "sma50": 386.74,
+      "price": 348.6099853515625,
+      "change": 11.42,
+      "change_pct": 3.39,
+      "open": 341.36,
+      "high": 370.43,
+      "low": 340.23,
+      "prev_close": 337.19,
+      "volume": 6237459,
+      "avg_volume": 3362857,
+      "vol_ratio": 1.85,
+      "chg_1w": -17.27,
+      "chg_1m": -19.71,
+      "rsi": 44.2,
+      "sma20": 380.4,
+      "sma50": 387.56,
       "high_52w": 473.1,
       "low_52w": 215.68,
-      "pct_from_high": -28.7,
-      "market_cap": 27162793984,
-      "pe": 481.7,
-      "fwd_pe": 43.27,
-      "eps": 0.7,
-      "target": 454.15,
+      "pct_from_high": -26.3,
+      "market_cap": 28082745344,
+      "pe": 491.0,
+      "fwd_pe": 44.74,
+      "eps": 0.71,
+      "target": 448.94,
       "recommendation": "buy",
       "rev_growth": 0.305,
       "profit_margin": 0.021,
@@ -1812,34 +2233,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "ZS",
       "company": "Zscaler, Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 198.35499572753906,
-      "change": -1.04,
-      "change_pct": -0.52,
-      "open": 198.04,
-      "high": 201.39,
-      "low": 195.11,
-      "prev_close": 199.39,
-      "volume": 1724746,
-      "avg_volume": 3949232,
-      "vol_ratio": 0.44,
-      "chg_1w": -7.51,
-      "chg_1m": 5.29,
-      "rsi": 68.4,
-      "sma20": 188.2,
-      "sma50": 175.81,
+      "price": 199.4199981689453,
+      "change": 1.07,
+      "change_pct": 0.54,
+      "open": 199.0,
+      "high": 202.86,
+      "low": 196.89,
+      "prev_close": 198.35,
+      "volume": 2079124,
+      "avg_volume": 3939701,
+      "vol_ratio": 0.53,
+      "chg_1w": -7.09,
+      "chg_1m": 11.8,
+      "rsi": 70.9,
+      "sma20": 189.25,
+      "sma50": 176.82,
       "high_52w": 336.99,
       "low_52w": 114.625,
-      "pct_from_high": -41.1,
-      "market_cap": 32342714368,
+      "pct_from_high": -40.8,
+      "market_cap": 32516368384,
       "pe": null,
-      "fwd_pe": 35.41,
+      "fwd_pe": 35.6,
       "eps": -0.4,
       "target": 210.13,
       "recommendation": "buy",
@@ -1936,34 +2388,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "PANW",
       "company": "Palo Alto Networks, Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 388.4100036621094,
-      "change": -3.68,
-      "change_pct": -0.94,
-      "open": 391.0,
-      "high": 391.75,
-      "low": 377.96,
-      "prev_close": 392.09,
-      "volume": 5086985,
-      "avg_volume": 6923934,
-      "vol_ratio": 0.73,
-      "chg_1w": -1.24,
-      "chg_1m": 1.64,
-      "rsi": 69.4,
-      "sma20": 362.26,
-      "sma50": 357.99,
-      "high_52w": 398.88,
+      "price": 397.30999755859375,
+      "change": 8.9,
+      "change_pct": 2.29,
+      "open": 391.67,
+      "high": 404.69,
+      "low": 388.89,
+      "prev_close": 388.41,
+      "volume": 6033488,
+      "avg_volume": 6762204,
+      "vol_ratio": 0.89,
+      "chg_1w": 1.9,
+      "chg_1m": 9.73,
+      "rsi": 70.5,
+      "sma20": 364.02,
+      "sma50": 359.09,
+      "high_52w": 404.6879,
       "low_52w": 139.57,
-      "pct_from_high": -2.6,
-      "market_cap": 317719379968,
-      "pe": 995.92,
-      "fwd_pe": 79.61,
+      "pct_from_high": -1.8,
+      "market_cap": 324999577600,
+      "pe": 1018.74,
+      "fwd_pe": 81.43,
       "eps": 0.39,
       "target": 396.12,
       "recommendation": "buy",
@@ -1976,17 +2459,17 @@
       "insider_sales": [
         {
           "date": "2026-09-24",
-          "name": "BAWA APARNA",
-          "position": "Director",
-          "value": 102098.0,
-          "shares": 260
-        },
-        {
-          "date": "2026-09-24",
           "name": "GOLECHHA DIPAK",
           "position": "Chief Financial Officer",
           "value": 10769137.0,
           "shares": 27500
+        },
+        {
+          "date": "2026-09-24",
+          "name": "BAWA APARNA",
+          "position": "Director",
+          "value": 102098.0,
+          "shares": 260
         },
         {
           "date": "2026-09-17",
@@ -2032,42 +2515,73 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "FTNT",
       "company": "Fortinet, Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 175.9600067138672,
-      "change": -0.37,
-      "change_pct": -0.21,
-      "open": 174.31,
-      "high": 176.65,
-      "low": 172.42,
-      "prev_close": 176.33,
-      "volume": 2487418,
-      "avg_volume": 4191350,
-      "vol_ratio": 0.59,
-      "chg_1w": -1.56,
-      "chg_1m": 2.94,
-      "rsi": 71.2,
-      "sma20": 167.4,
-      "sma50": 162.17,
+      "price": 178.75999450683594,
+      "change": 2.8,
+      "change_pct": 1.59,
+      "open": 176.0,
+      "high": 180.49,
+      "low": 175.54,
+      "prev_close": 175.96,
+      "volume": 3109907,
+      "avg_volume": 4072250,
+      "vol_ratio": 0.76,
+      "chg_1w": 0.05,
+      "chg_1m": 10.45,
+      "rsi": 71.9,
+      "sma20": 168.25,
+      "sma50": 162.58,
       "high_52w": 181.37,
       "low_52w": 73.55,
-      "pct_from_high": -3.0,
-      "market_cap": 129104265216,
-      "pe": 62.4,
-      "fwd_pe": 46.58,
+      "pct_from_high": -1.4,
+      "market_cap": 131158646784,
+      "pe": 63.39,
+      "fwd_pe": 47.32,
       "eps": 2.82,
       "target": 164.32,
       "recommendation": "hold",
       "rev_growth": 0.256,
       "profit_margin": 0.282,
       "beta": 1.06,
-      "score": 65,
-      "category": "watch",
+      "score": 70,
+      "category": "strong",
       "insider_buys": [],
       "insider_sales": [
         {
@@ -2100,36 +2614,67 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "WDAY",
       "company": "Workday, Inc.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 189.1699981689453,
-      "change": 0.57,
-      "change_pct": 0.3,
-      "open": 187.11,
-      "high": 189.34,
-      "low": 185.0,
-      "prev_close": 188.6,
-      "volume": 1806268,
-      "avg_volume": 2642583,
-      "vol_ratio": 0.68,
-      "chg_1w": -1.67,
-      "chg_1m": -4.19,
-      "rsi": 53.3,
-      "sma20": 192.08,
-      "sma50": 182.65,
-      "high_52w": 249.14,
+      "price": 190.4600067138672,
+      "change": 1.29,
+      "change_pct": 0.68,
+      "open": 186.95,
+      "high": 191.99,
+      "low": 186.78,
+      "prev_close": 189.17,
+      "volume": 2109723,
+      "avg_volume": 2565961,
+      "vol_ratio": 0.82,
+      "chg_1w": -0.28,
+      "chg_1m": -3.99,
+      "rsi": 55.6,
+      "sma20": 191.68,
+      "sma50": 183.63,
+      "high_52w": 247.4,
       "low_52w": 110.36,
-      "pct_from_high": -24.1,
-      "market_cap": 45589970944,
-      "pe": 38.53,
-      "fwd_pe": 14.3,
+      "pct_from_high": -23.0,
+      "market_cap": 45900861440,
+      "pe": 38.79,
+      "fwd_pe": 14.39,
       "eps": 4.91,
-      "target": 208.68,
+      "target": 208.26,
       "recommendation": "buy",
       "rev_growth": 0.128,
       "profit_margin": 0.123,
@@ -2214,45 +2759,69 @@
           "position": "Beneficial Owner of more than 10% of a Class of Security",
           "value": 14538267.0,
           "shares": 107500
-        },
-        {
-          "date": "2026-07-02",
-          "name": "ENSLIN ROBERT",
-          "position": "President",
-          "value": 724972.0,
-          "shares": 5374
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 197.6699981689453,
-      "change": -5.17,
-      "change_pct": -2.55,
-      "open": 201.32,
-      "high": 205.0,
-      "low": 194.27,
-      "prev_close": 202.84,
-      "volume": 1465104,
-      "avg_volume": 1761225,
-      "vol_ratio": 0.83,
-      "chg_1w": -12.55,
-      "chg_1m": -24.37,
-      "rsi": 35.3,
-      "sma20": 229.36,
-      "sma50": 230.22,
-      "high_52w": 521.189,
+      "price": 204.97999572753906,
+      "change": 7.31,
+      "change_pct": 3.7,
+      "open": 199.25,
+      "high": 208.95,
+      "low": 199.25,
+      "prev_close": 197.67,
+      "volume": 1515629,
+      "avg_volume": 1798226,
+      "vol_ratio": 0.84,
+      "chg_1w": -7.48,
+      "chg_1m": -18.37,
+      "rsi": 41.7,
+      "sma20": 227.05,
+      "sma50": 229.95,
+      "high_52w": 503.0,
       "low_52w": 169.63,
-      "pct_from_high": -62.1,
-      "market_cap": 9857051648,
-      "pe": 70.1,
-      "fwd_pe": 11.74,
-      "eps": 2.82,
+      "pct_from_high": -59.2,
+      "market_cap": 10221573120,
+      "pe": 72.95,
+      "fwd_pe": 12.17,
+      "eps": 2.81,
       "target": 249.72,
       "recommendation": "buy",
       "rev_growth": 0.198,
@@ -2300,41 +2869,72 @@
         }
       ],
       "total_insider_buys": 199735,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "ESTC",
       "company": "Elastic N.V.",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 88.80000305175781,
-      "change": 0.86,
-      "change_pct": 0.98,
-      "open": 87.49,
-      "high": 89.09,
-      "low": 86.72,
-      "prev_close": 87.94,
-      "volume": 1600475,
-      "avg_volume": 2144658,
-      "vol_ratio": 0.75,
-      "chg_1w": -2.72,
-      "chg_1m": -8.97,
-      "rsi": 55.4,
-      "sma20": 88.47,
-      "sma50": 80.62,
+      "price": 91.69999694824219,
+      "change": 2.9,
+      "change_pct": 3.27,
+      "open": 88.9,
+      "high": 92.69,
+      "low": 88.96,
+      "prev_close": 88.8,
+      "volume": 1879609,
+      "avg_volume": 2095545,
+      "vol_ratio": 0.9,
+      "chg_1w": 0.46,
+      "chg_1m": -0.75,
+      "rsi": 70.2,
+      "sma20": 88.43,
+      "sma50": 81.25,
       "high_52w": 108.0,
       "low_52w": 42.05,
-      "pct_from_high": -17.8,
-      "market_cap": 9323226112,
-      "pe": 25.37,
-      "fwd_pe": 22.45,
+      "pct_from_high": -15.1,
+      "market_cap": 9627700224,
+      "pe": 26.2,
+      "fwd_pe": 23.19,
       "eps": 3.5,
       "target": 110.69,
       "recommendation": "buy",
       "rev_growth": 0.151,
       "profit_margin": 0.208,
       "beta": 1.04,
-      "score": 70,
+      "score": 75,
       "category": "strong",
       "insider_buys": [],
       "insider_sales": [
@@ -2417,34 +3017,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "GTLB",
       "company": "GitLab Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 46.709999084472656,
-      "change": 0.5,
-      "change_pct": 1.08,
-      "open": 46.0,
-      "high": 47.1,
-      "low": 45.52,
-      "prev_close": 46.21,
-      "volume": 4200198,
-      "avg_volume": 5924384,
-      "vol_ratio": 0.71,
-      "chg_1w": -4.69,
-      "chg_1m": 0.37,
-      "rsi": 51.6,
-      "sma20": 48.21,
-      "sma50": 42.4,
+      "price": 47.25,
+      "change": 0.54,
+      "change_pct": 1.16,
+      "open": 46.62,
+      "high": 48.1,
+      "low": 46.48,
+      "prev_close": 46.71,
+      "volume": 3498070,
+      "avg_volume": 5556638,
+      "vol_ratio": 0.63,
+      "chg_1w": -2.82,
+      "chg_1m": 4.79,
+      "rsi": 49.8,
+      "sma20": 48.32,
+      "sma50": 42.69,
       "high_52w": 55.55,
       "low_52w": 18.73,
-      "pct_from_high": -15.9,
-      "market_cap": 7782586880,
+      "pct_from_high": -14.9,
+      "market_cap": 7872559104,
       "pe": null,
-      "fwd_pe": 44.98,
+      "fwd_pe": 45.5,
       "eps": -0.32,
       "target": 55.71,
       "recommendation": "buy",
@@ -2463,6 +3094,13 @@
           "shares": 51915
         },
         {
+          "date": "2026-09-28",
+          "name": "SIJBRANDIJ SYTSE",
+          "position": "Director",
+          "value": 101089788.0,
+          "shares": 2116200
+        },
+        {
           "date": "2026-08-07",
           "name": "MUNDY SIMON",
           "position": "Officer",
@@ -2471,34 +3109,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "SOFI",
       "company": "SoFi Technologies, Inc.",
       "sector": "Financial Services",
       "industry": "Credit Services",
-      "price": 15.90999984741211,
-      "change": -0.02,
-      "change_pct": -0.13,
-      "open": 16.1,
-      "high": 16.21,
-      "low": 15.86,
-      "prev_close": 15.93,
-      "volume": 35635865,
-      "avg_volume": 44932293,
-      "vol_ratio": 0.79,
-      "chg_1w": -3.87,
-      "chg_1m": -11.02,
-      "rsi": 30.6,
-      "sma20": 17.13,
-      "sma50": 17.53,
+      "price": 15.720000267028809,
+      "change": -0.19,
+      "change_pct": -1.19,
+      "open": 15.94,
+      "high": 16.17,
+      "low": 15.71,
+      "prev_close": 15.91,
+      "volume": 40434838,
+      "avg_volume": 44880306,
+      "vol_ratio": 0.9,
+      "chg_1w": -6.43,
+      "chg_1m": -7.8,
+      "rsi": 30.0,
+      "sma20": 17.07,
+      "sma50": 17.5,
       "high_52w": 32.73,
       "low_52w": 14.88,
-      "pct_from_high": -51.4,
-      "market_cap": 20548882432,
-      "pe": 32.47,
-      "fwd_pe": 19.31,
+      "pct_from_high": -52.0,
+      "market_cap": 20303484928,
+      "pe": 32.08,
+      "fwd_pe": 19.08,
       "eps": 0.49,
       "target": 20.35,
       "recommendation": "hold",
@@ -2511,17 +3180,17 @@
       "insider_sales": [
         {
           "date": "2026-09-21",
-          "name": "KEOUGH KELLI ALLEN",
-          "position": "Officer",
-          "value": 173310.0,
-          "shares": 10203
-        },
-        {
-          "date": "2026-09-21",
           "name": "RISHEL JEREMY DYLAN",
           "position": "Chief Technology Officer",
           "value": 325920.0,
           "shares": 18624
+        },
+        {
+          "date": "2026-09-21",
+          "name": "KEOUGH KELLI ALLEN",
+          "position": "Officer",
+          "value": 173310.0,
+          "shares": 10203
         },
         {
           "date": "2026-08-20",
@@ -2539,35 +3208,66 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "HOOD",
       "company": "Robinhood Markets, Inc.",
       "sector": "Financial Services",
       "industry": "Capital Markets",
-      "price": 116.22000122070312,
-      "change": -0.24,
-      "change_pct": -0.21,
-      "open": 118.83,
-      "high": 119.19,
-      "low": 114.93,
-      "prev_close": 116.46,
-      "volume": 14321392,
-      "avg_volume": 22808919,
-      "vol_ratio": 0.63,
-      "chg_1w": -5.28,
-      "chg_1m": 10.89,
-      "rsi": 51.1,
-      "sma20": 115.89,
-      "sma50": 104.92,
+      "price": 112.5,
+      "change": -3.72,
+      "change_pct": -3.2,
+      "open": 122.61,
+      "high": 123.49,
+      "low": 111.95,
+      "prev_close": 116.22,
+      "volume": 34856204,
+      "avg_volume": 23463580,
+      "vol_ratio": 1.49,
+      "chg_1w": -6.89,
+      "chg_1m": 8.69,
+      "rsi": 49.1,
+      "sma20": 116.34,
+      "sma50": 105.04,
       "high_52w": 153.86,
       "low_52w": 63.515,
-      "pct_from_high": -24.5,
-      "market_cap": 104491343872,
-      "pe": 51.42,
-      "fwd_pe": 33.67,
-      "eps": 2.26,
+      "pct_from_high": -26.9,
+      "market_cap": 101146763264,
+      "pe": 50.0,
+      "fwd_pe": 32.59,
+      "eps": 2.25,
       "target": 131.08,
       "recommendation": "buy",
       "rev_growth": 0.323,
@@ -2674,59 +3374,69 @@
           "position": "Chief Executive Officer",
           "value": 43562346.0,
           "shares": 375000
-        },
-        {
-          "date": "2026-07-02",
-          "name": "QUIRK STEVEN M",
-          "position": "Officer",
-          "value": 2324465.0,
-          "shares": 19377
-        },
-        {
-          "date": "2026-07-02",
-          "name": "TRESEDER OLUWADARA JOHNSON",
-          "position": "Director",
-          "value": 440625.0,
-          "shares": 3750
-        },
-        {
-          "date": "2026-07-02",
-          "name": "LOOP PAULA",
-          "position": "Director",
-          "value": 1000320.0,
-          "shares": 8336
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "COIN",
       "company": "Coinbase Global, Inc.",
       "sector": "Financial Services",
       "industry": "Financial Data & Stock Exchanges",
-      "price": 190.02000427246094,
-      "change": -1.77,
-      "change_pct": -0.92,
-      "open": 197.41,
-      "high": 197.63,
-      "low": 188.15,
-      "prev_close": 191.79,
-      "volume": 5791177,
-      "avg_volume": 9661208,
-      "vol_ratio": 0.6,
-      "chg_1w": -4.09,
-      "chg_1m": 1.01,
-      "rsi": 57.8,
-      "sma20": 185.15,
-      "sma50": 171.72,
+      "price": 186.41000366210938,
+      "change": -3.61,
+      "change_pct": -1.9,
+      "open": 195.48,
+      "high": 198.66,
+      "low": 184.29,
+      "prev_close": 190.02,
+      "volume": 8331805,
+      "avg_volume": 9659155,
+      "vol_ratio": 0.86,
+      "chg_1w": -6.43,
+      "chg_1m": 5.42,
+      "rsi": 57.1,
+      "sma20": 185.63,
+      "sma50": 171.94,
       "high_52w": 402.16,
       "low_52w": 139.11,
-      "pct_from_high": -52.8,
-      "market_cap": 50134294528,
+      "pct_from_high": -53.6,
+      "market_cap": 49181843456,
       "pe": null,
-      "fwd_pe": 67.02,
-      "eps": -3.87,
+      "fwd_pe": 65.75,
+      "eps": -3.88,
       "target": 207.35,
       "recommendation": "buy",
       "rev_growth": -0.173,
@@ -2780,34 +3490,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "MSTR",
       "company": "Strategy Inc",
       "sector": "Technology",
       "industry": "Software - Application",
-      "price": 154.6699981689453,
-      "change": -2.47,
-      "change_pct": -1.57,
-      "open": 161.45,
-      "high": 161.62,
-      "low": 152.34,
-      "prev_close": 157.14,
-      "volume": 16176706,
-      "avg_volume": 23658110,
-      "vol_ratio": 0.68,
-      "chg_1w": -4.64,
-      "chg_1m": 16.35,
-      "rsi": 63.8,
-      "sma20": 143.67,
-      "sma50": 120.05,
+      "price": 153.08999633789062,
+      "change": -1.58,
+      "change_pct": -1.02,
+      "open": 160.82,
+      "high": 163.53,
+      "low": 152.02,
+      "prev_close": 154.67,
+      "volume": 17347031,
+      "avg_volume": 23420996,
+      "vol_ratio": 0.74,
+      "chg_1w": -5.27,
+      "chg_1m": 22.59,
+      "rsi": 66.0,
+      "sma20": 145.08,
+      "sma50": 121.07,
       "high_52w": 365.21,
       "low_52w": 81.81,
-      "pct_from_high": -57.6,
-      "market_cap": 61674786816,
+      "pct_from_high": -58.1,
+      "market_cap": 61044760576,
       "pe": null,
-      "fwd_pe": 3.13,
+      "fwd_pe": 3.09,
       "eps": -99.16,
       "target": 229.87,
       "recommendation": "strong_buy",
@@ -2869,41 +3610,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "PYPL",
       "company": "PayPal Holdings, Inc.",
       "sector": "Financial Services",
       "industry": "Credit Services",
-      "price": 53.88999938964844,
-      "change": -0.39,
-      "change_pct": -0.72,
-      "open": 54.11,
-      "high": 54.23,
-      "low": 53.33,
-      "prev_close": 54.28,
-      "volume": 7999397,
-      "avg_volume": 12567649,
-      "vol_ratio": 0.64,
-      "chg_1w": 2.63,
-      "chg_1m": 2.58,
-      "rsi": 60.1,
-      "sma20": 53.53,
-      "sma50": 56.59,
+      "price": 52.529998779296875,
+      "change": -1.36,
+      "change_pct": -2.52,
+      "open": 53.89,
+      "high": 53.95,
+      "low": 52.29,
+      "prev_close": 53.89,
+      "volume": 8402852,
+      "avg_volume": 12480642,
+      "vol_ratio": 0.67,
+      "chg_1w": -0.13,
+      "chg_1m": 0.5,
+      "rsi": 45.5,
+      "sma20": 53.54,
+      "sma50": 56.53,
       "high_52w": 79.215,
       "low_52w": 38.46,
-      "pct_from_high": -32.0,
-      "market_cap": 46453178368,
-      "pe": 10.19,
-      "fwd_pe": 9.32,
+      "pct_from_high": -33.7,
+      "market_cap": 45280858112,
+      "pe": 9.93,
+      "fwd_pe": 9.08,
       "eps": 5.29,
       "target": 56.92,
       "recommendation": "hold",
       "rev_growth": 0.048,
       "profit_margin": 0.144,
       "beta": 1.29,
-      "score": 65,
+      "score": 60,
       "category": "watch",
       "insider_buys": [],
       "insider_sales": [
@@ -2951,41 +3723,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "AFRM",
       "company": "Affirm Holdings, Inc.",
       "sector": "Financial Services",
       "industry": "Credit Services",
-      "price": 69.30000305175781,
-      "change": 2.09,
-      "change_pct": 3.11,
-      "open": 68.91,
-      "high": 70.31,
-      "low": 67.92,
-      "prev_close": 67.21,
-      "volume": 3473770,
-      "avg_volume": 4458208,
-      "vol_ratio": 0.78,
-      "chg_1w": 1.78,
-      "chg_1m": -6.92,
-      "rsi": 52.4,
-      "sma20": 70.97,
-      "sma50": 73.49,
+      "price": 69.2300033569336,
+      "change": -0.07,
+      "change_pct": -0.1,
+      "open": 69.68,
+      "high": 70.66,
+      "low": 68.92,
+      "prev_close": 69.3,
+      "volume": 2794633,
+      "avg_volume": 4200641,
+      "vol_ratio": 0.67,
+      "chg_1w": -3.27,
+      "chg_1m": -1.02,
+      "rsi": 52.6,
+      "sma20": 70.93,
+      "sma50": 73.38,
       "high_52w": 90.44,
       "low_52w": 42.095,
-      "pct_from_high": -23.4,
-      "market_cap": 23383293952,
-      "pe": 12.53,
-      "fwd_pe": 14.35,
+      "pct_from_high": -23.5,
+      "market_cap": 23359674368,
+      "pe": 12.52,
+      "fwd_pe": 14.34,
       "eps": 5.53,
       "target": 99.09,
       "recommendation": "buy",
       "rev_growth": 0.33,
       "profit_margin": 0.453,
       "beta": 3.61,
-      "score": 80,
+      "score": 75,
       "category": "strong",
       "insider_buys": [],
       "insider_sales": [
@@ -3033,34 +3836,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "UPST",
       "company": "Upstart Holdings, Inc.",
       "sector": "Financial Services",
       "industry": "Credit Services",
-      "price": 23.139999389648438,
-      "change": 0.11,
-      "change_pct": 0.48,
-      "open": 23.29,
-      "high": 23.68,
-      "low": 22.91,
-      "prev_close": 23.03,
-      "volume": 4029708,
-      "avg_volume": 4414465,
-      "vol_ratio": 0.91,
-      "chg_1w": -5.36,
-      "chg_1m": -19.32,
-      "rsi": 32.3,
-      "sma20": 25.62,
-      "sma50": 27.81,
+      "price": 22.989999771118164,
+      "change": -0.15,
+      "change_pct": -0.65,
+      "open": 23.34,
+      "high": 23.53,
+      "low": 22.78,
+      "prev_close": 23.14,
+      "volume": 3503187,
+      "avg_volume": 4325019,
+      "vol_ratio": 0.81,
+      "chg_1w": -6.7,
+      "chg_1m": -16.06,
+      "rsi": 35.2,
+      "sma20": 25.4,
+      "sma50": 27.68,
       "high_52w": 55.22,
       "low_52w": 22.785,
-      "pct_from_high": -58.1,
-      "market_cap": 2214765568,
-      "pe": 44.5,
-      "fwd_pe": 6.66,
+      "pct_from_high": -58.4,
+      "market_cap": 2200408832,
+      "pe": 44.21,
+      "fwd_pe": 6.61,
       "eps": 0.52,
       "target": 40.0,
       "recommendation": "buy",
@@ -3095,6 +3929,13 @@
         },
         {
           "date": "2026-08-20",
+          "name": "DARLING SCOTT L",
+          "position": "Officer",
+          "value": 216216.0,
+          "shares": 7696
+        },
+        {
+          "date": "2026-08-20",
           "name": "MIRGORODSKAYA NATALIA",
           "position": "Officer",
           "value": 16461.0,
@@ -3108,13 +3949,6 @@
           "shares": 18945
         },
         {
-          "date": "2026-08-20",
-          "name": "DARLING SCOTT L",
-          "position": "Officer",
-          "value": 216216.0,
-          "shares": 7696
-        },
-        {
           "date": "2026-08-19",
           "name": "BLANKMEYER ANDREA",
           "position": "Chief Financial Officer",
@@ -3123,49 +3957,80 @@
         },
         {
           "date": "2026-08-17",
-          "name": "DATTA SANJAY",
-          "position": "Officer",
-          "value": 59683.0,
-          "shares": 2033
-        },
-        {
-          "date": "2026-08-17",
           "name": "DARLING SCOTT L",
           "position": "Officer",
           "value": 23898.0,
           "shares": 814
+        },
+        {
+          "date": "2026-08-17",
+          "name": "DATTA SANJAY",
+          "position": "Officer",
+          "value": 59683.0,
+          "shares": 2033
         }
       ],
       "total_insider_buys": 1277500,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "RDDT",
       "company": "Reddit, Inc.",
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
-      "price": 145.36000061035156,
-      "change": 2.28,
-      "change_pct": 1.59,
-      "open": 144.95,
-      "high": 147.53,
-      "low": 141.32,
-      "prev_close": 143.08,
-      "volume": 4941230,
-      "avg_volume": 4878601,
-      "vol_ratio": 1.01,
-      "chg_1w": -4.36,
-      "chg_1m": -1.66,
-      "rsi": 49.0,
-      "sma20": 153.14,
-      "sma50": 158.03,
+      "price": 142.44000244140625,
+      "change": -2.92,
+      "change_pct": -2.01,
+      "open": 147.48,
+      "high": 151.89,
+      "low": 142.42,
+      "prev_close": 145.36,
+      "volume": 4876247,
+      "avg_volume": 4934837,
+      "vol_ratio": 0.99,
+      "chg_1w": -6.73,
+      "chg_1m": -1.52,
+      "rsi": 36.8,
+      "sma20": 153.03,
+      "sma50": 157.16,
       "high_52w": 263.5,
       "low_52w": 119.27,
-      "pct_from_high": -44.8,
-      "market_cap": 27966756864,
-      "pe": 33.73,
-      "fwd_pe": 15.0,
-      "eps": 4.31,
+      "pct_from_high": -45.9,
+      "market_cap": 27404959744,
+      "pe": 32.52,
+      "fwd_pe": 14.7,
+      "eps": 4.38,
       "target": 213.71,
       "recommendation": "buy",
       "rev_growth": 0.611,
@@ -3240,34 +4105,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "PLTR",
       "company": "Palantir Technologies Inc.",
       "sector": "Technology",
       "industry": "Software - Infrastructure",
-      "price": 186.97000122070312,
-      "change": -0.51,
-      "change_pct": -0.27,
-      "open": 187.34,
-      "high": 188.63,
-      "low": 184.81,
-      "prev_close": 187.48,
-      "volume": 14094847,
-      "avg_volume": 25440137,
-      "vol_ratio": 0.55,
-      "chg_1w": -2.51,
-      "chg_1m": 0.32,
-      "rsi": 73.2,
-      "sma20": 178.49,
-      "sma50": 166.07,
+      "price": 187.0500030517578,
+      "change": 0.08,
+      "change_pct": 0.04,
+      "open": 187.93,
+      "high": 190.99,
+      "low": 187.0,
+      "prev_close": 186.97,
+      "volume": 16726991,
+      "avg_volume": 25081089,
+      "vol_ratio": 0.67,
+      "chg_1w": -2.88,
+      "chg_1m": 3.96,
+      "rsi": 81.2,
+      "sma20": 178.85,
+      "sma50": 167.16,
       "high_52w": 207.52,
       "low_52w": 106.37,
       "pct_from_high": -9.9,
-      "market_cap": 449299841024,
-      "pe": 159.8,
-      "fwd_pe": 80.49,
+      "market_cap": 449492090880,
+      "pe": 159.87,
+      "fwd_pe": 80.52,
       "eps": 1.17,
       "target": 195.57,
       "recommendation": "buy",
@@ -3333,44 +4229,68 @@
           "position": "Director",
           "value": 2144770.0,
           "shares": 16000
-        },
-        {
-          "date": "2026-07-02",
-          "name": "SANKAR SHYAM",
-          "position": "Chief Technology Officer",
-          "value": 24050000.0,
-          "shares": 185000
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "CELH",
       "company": "Celsius Holdings, Inc.",
       "sector": "Consumer Defensive",
       "industry": "Beverages - Non-Alcoholic",
-      "price": 27.709999084472656,
-      "change": -0.29,
-      "change_pct": -1.04,
-      "open": 28.1,
-      "high": 28.54,
-      "low": 27.34,
-      "prev_close": 28.0,
-      "volume": 6511734,
-      "avg_volume": 7284996,
-      "vol_ratio": 0.89,
-      "chg_1w": -5.04,
-      "chg_1m": -11.89,
-      "rsi": 50.5,
-      "sma20": 28.74,
-      "sma50": 29.43,
+      "price": 27.350000381469727,
+      "change": -0.36,
+      "change_pct": -1.3,
+      "open": 28.0,
+      "high": 28.1,
+      "low": 27.27,
+      "prev_close": 27.71,
+      "volume": 4930537,
+      "avg_volume": 7189641,
+      "vol_ratio": 0.69,
+      "chg_1w": -3.8,
+      "chg_1m": -10.97,
+      "rsi": 55.1,
+      "sma20": 28.57,
+      "sma50": 29.42,
       "high_52w": 66.74,
       "low_52w": 23.56,
-      "pct_from_high": -58.5,
-      "market_cap": 7011600896,
-      "pe": 120.48,
-      "fwd_pe": 16.01,
+      "pct_from_high": -59.0,
+      "market_cap": 6920508416,
+      "pe": 118.91,
+      "fwd_pe": 15.8,
       "eps": 0.23,
       "target": 42.29,
       "recommendation": "buy",
@@ -3404,36 +4324,67 @@
       ],
       "insider_sales": [],
       "total_insider_buys": 1830043,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "CVNA",
       "company": "Carvana Co.",
       "sector": "Consumer Cyclical",
       "industry": "Auto & Truck Dealerships",
-      "price": 63.619998931884766,
-      "change": 3.15,
-      "change_pct": 5.21,
-      "open": 62.53,
-      "high": 64.69,
-      "low": 61.95,
-      "prev_close": 60.47,
-      "volume": 10166728,
-      "avg_volume": 7352506,
-      "vol_ratio": 1.38,
-      "chg_1w": -0.52,
-      "chg_1m": -13.4,
-      "rsi": 31.7,
-      "sma20": 68.3,
-      "sma50": 68.73,
+      "price": 62.540000915527344,
+      "change": -1.08,
+      "change_pct": -1.7,
+      "open": 64.07,
+      "high": 64.51,
+      "low": 62.29,
+      "prev_close": 63.62,
+      "volume": 7202890,
+      "avg_volume": 7431704,
+      "vol_ratio": 0.97,
+      "chg_1w": -2.56,
+      "chg_1m": -13.36,
+      "rsi": 34.3,
+      "sma20": 67.81,
+      "sma50": 68.67,
       "high_52w": 97.378,
       "low_52w": 54.464,
-      "pct_from_high": -34.7,
-      "market_cap": 70520463360,
-      "pe": 33.66,
-      "fwd_pe": 28.12,
+      "pct_from_high": -35.8,
+      "market_cap": 69323325440,
+      "pe": 33.09,
+      "fwd_pe": 27.65,
       "eps": 1.89,
-      "target": 82.97,
+      "target": 83.31,
       "recommendation": "buy",
       "rev_growth": 0.524,
       "profit_margin": 0.063,
@@ -3515,34 +4466,65 @@
         }
       ],
       "total_insider_buys": 1544981,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "RKLB",
       "company": "Rocket Lab Corporation",
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
-      "price": 69.69999694824219,
-      "change": -2.49,
-      "change_pct": -3.45,
-      "open": 73.47,
-      "high": 74.25,
-      "low": 69.4,
-      "prev_close": 72.19,
-      "volume": 18542118,
-      "avg_volume": 20105725,
-      "vol_ratio": 0.92,
-      "chg_1w": -0.87,
-      "chg_1m": 9.04,
-      "rsi": 61.8,
-      "sma20": 66.57,
-      "sma50": 69.66,
+      "price": 69.68000030517578,
+      "change": -0.02,
+      "change_pct": -0.03,
+      "open": 70.63,
+      "high": 74.57,
+      "low": 69.63,
+      "prev_close": 69.7,
+      "volume": 21802367,
+      "avg_volume": 20530823,
+      "vol_ratio": 1.06,
+      "chg_1w": -5.34,
+      "chg_1m": 11.42,
+      "rsi": 64.3,
+      "sma20": 66.93,
+      "sma50": 69.67,
       "high_52w": 151.0,
       "low_52w": 37.57,
-      "pct_from_high": -53.8,
-      "market_cap": 44566945792,
+      "pct_from_high": -53.9,
+      "market_cap": 44554158080,
       "pe": null,
-      "fwd_pe": 1529.85,
+      "fwd_pe": 1529.41,
       "eps": -0.27,
       "target": 109.37,
       "recommendation": "none",
@@ -3618,41 +4600,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "ASTS",
       "company": "AST SpaceMobile, Inc.",
       "sector": "Technology",
       "industry": "Communication Equipment",
-      "price": 59.400001525878906,
-      "change": -1.6,
-      "change_pct": -2.62,
-      "open": 65.1,
-      "high": 65.47,
-      "low": 58.58,
-      "prev_close": 61.0,
-      "volume": 15904361,
-      "avg_volume": 10115318,
-      "vol_ratio": 1.57,
-      "chg_1w": -0.97,
-      "chg_1m": 0.51,
-      "rsi": 44.0,
-      "sma20": 60.95,
-      "sma50": 62.9,
+      "price": 58.86000061035156,
+      "change": -0.54,
+      "change_pct": -0.91,
+      "open": 59.9,
+      "high": 62.98,
+      "low": 58.74,
+      "prev_close": 59.4,
+      "volume": 11711523,
+      "avg_volume": 10288776,
+      "vol_ratio": 1.14,
+      "chg_1w": -3.6,
+      "chg_1m": 5.48,
+      "rsi": 47.7,
+      "sma20": 61.11,
+      "sma50": 62.81,
       "high_52w": 133.86,
-      "low_52w": 47.5,
-      "pct_from_high": -55.6,
-      "market_cap": 23116550144,
+      "low_52w": 49.31,
+      "pct_from_high": -56.0,
+      "market_cap": 22906398720,
       "pe": null,
-      "fwd_pe": -46.08,
-      "eps": -2.15,
+      "fwd_pe": -45.66,
+      "eps": -2.09,
       "target": 79.61,
       "recommendation": "none",
       "rev_growth": 26.266,
       "profit_margin": null,
       "beta": 2.73,
-      "score": 85,
+      "score": 80,
       "category": "strong",
       "insider_buys": [
         {
@@ -3680,41 +4693,72 @@
         }
       ],
       "total_insider_buys": 619200,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "IONQ",
       "company": "IonQ, Inc.",
       "sector": "Technology",
       "industry": "Computer Hardware",
-      "price": 43.90999984741211,
-      "change": -0.67,
-      "change_pct": -1.5,
-      "open": 45.8,
-      "high": 45.9,
-      "low": 43.72,
-      "prev_close": 44.58,
-      "volume": 18688284,
-      "avg_volume": 23761989,
-      "vol_ratio": 0.79,
-      "chg_1w": 3.22,
-      "chg_1m": 11.7,
-      "rsi": 68.7,
-      "sma20": 39.99,
-      "sma50": 40.05,
+      "price": 43.86000061035156,
+      "change": -0.05,
+      "change_pct": -0.11,
+      "open": 44.24,
+      "high": 47.33,
+      "low": 43.81,
+      "prev_close": 43.91,
+      "volume": 25405090,
+      "avg_volume": 24329844,
+      "vol_ratio": 1.04,
+      "chg_1w": -2.49,
+      "chg_1m": 16.09,
+      "rsi": 74.8,
+      "sma20": 40.29,
+      "sma50": 40.22,
       "high_52w": 84.64,
       "low_52w": 25.89,
-      "pct_from_high": -48.1,
-      "market_cap": 17789505536,
+      "pct_from_high": -48.2,
+      "market_cap": 17769248768,
       "pe": null,
-      "fwd_pe": -33.97,
+      "fwd_pe": -33.93,
       "eps": -3.87,
       "target": 66.63,
       "recommendation": "strong_buy",
       "rev_growth": 2.868,
       "profit_margin": null,
       "beta": 3.29,
-      "score": 75,
+      "score": 70,
       "category": "strong",
       "insider_buys": [],
       "insider_sales": [
@@ -3727,42 +4771,73 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "RXRX",
       "company": "Recursion Pharmaceuticals, Inc.",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "price": 4.03000020980835,
-      "change": 0.33,
-      "change_pct": 8.92,
-      "open": 3.73,
-      "high": 4.03,
-      "low": 3.72,
-      "prev_close": 3.7,
-      "volume": 21382964,
-      "avg_volume": 19858278,
-      "vol_ratio": 1.08,
-      "chg_1w": 8.92,
-      "chg_1m": 18.53,
-      "rsi": 66.7,
-      "sma20": 3.55,
-      "sma50": 3.35,
+      "price": 4.130000114440918,
+      "change": 0.1,
+      "change_pct": 2.48,
+      "open": 4.09,
+      "high": 4.29,
+      "low": 3.98,
+      "prev_close": 4.03,
+      "volume": 32650872,
+      "avg_volume": 21000278,
+      "vol_ratio": 1.55,
+      "chg_1w": 6.17,
+      "chg_1m": 24.02,
+      "rsi": 69.5,
+      "sma20": 3.59,
+      "sma50": 3.37,
       "high_52w": 7.18,
       "low_52w": 2.77,
-      "pct_from_high": -43.9,
-      "market_cap": 2161172480,
+      "pct_from_high": -42.5,
+      "market_cap": 2214799616,
       "pe": null,
-      "fwd_pe": -4.47,
+      "fwd_pe": -4.58,
       "eps": -1.0,
       "target": 7.22,
       "recommendation": "buy",
       "rev_growth": -0.601,
       "profit_margin": null,
       "beta": 1.07,
-      "score": 65,
-      "category": "watch",
+      "score": 70,
+      "category": "strong",
       "insider_buys": [],
       "insider_sales": [
         {
@@ -3795,41 +4870,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "CRSP",
       "company": "CRISPR Therapeutics AG",
       "sector": "Healthcare",
       "industry": "Biotechnology",
-      "price": 56.0,
-      "change": 1.91,
-      "change_pct": 3.53,
-      "open": 54.08,
-      "high": 56.48,
-      "low": 54.0,
-      "prev_close": 54.09,
-      "volume": 1576086,
-      "avg_volume": 1617894,
-      "vol_ratio": 0.97,
-      "chg_1w": 0.43,
-      "chg_1m": -1.72,
-      "rsi": 56.5,
-      "sma20": 55.11,
-      "sma50": 53.91,
+      "price": 55.31999969482422,
+      "change": -0.68,
+      "change_pct": -1.21,
+      "open": 56.23,
+      "high": 57.1,
+      "low": 55.28,
+      "prev_close": 56.0,
+      "volume": 1164770,
+      "avg_volume": 1631608,
+      "vol_ratio": 0.71,
+      "chg_1w": -0.68,
+      "chg_1m": -2.64,
+      "rsi": 58.0,
+      "sma20": 55.04,
+      "sma50": 54.05,
       "high_52w": 78.48,
       "low_52w": 44.12,
-      "pct_from_high": -28.6,
-      "market_cap": 5414788608,
+      "pct_from_high": -29.5,
+      "market_cap": 5349037568,
       "pe": null,
-      "fwd_pe": -16.01,
+      "fwd_pe": -15.82,
       "eps": -4.71,
       "target": 87.56,
       "recommendation": "buy",
       "rev_growth": 10.414,
       "profit_margin": null,
       "beta": 1.76,
-      "score": 75,
+      "score": 70,
       "category": "strong",
       "insider_buys": [],
       "insider_sales": [
@@ -3849,41 +4955,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "SDGR",
       "company": "Schrodinger, Inc.",
       "sector": "Healthcare",
       "industry": "Health Information Services",
-      "price": 30.329999923706055,
-      "change": 0.83,
-      "change_pct": 2.81,
-      "open": 29.3,
-      "high": 30.59,
-      "low": 29.05,
-      "prev_close": 29.5,
-      "volume": 1847392,
-      "avg_volume": 2297434,
-      "vol_ratio": 0.8,
-      "chg_1w": 3.76,
-      "chg_1m": 55.54,
-      "rsi": 80.1,
-      "sma20": 24.75,
-      "sma50": 20.38,
-      "high_52w": 31.595,
+      "price": 31.049999237060547,
+      "change": 0.72,
+      "change_pct": 2.37,
+      "open": 30.55,
+      "high": 32.45,
+      "low": 30.18,
+      "prev_close": 30.33,
+      "volume": 3889988,
+      "avg_volume": 2417429,
+      "vol_ratio": 1.61,
+      "chg_1w": 5.43,
+      "chg_1m": 48.99,
+      "rsi": 82.5,
+      "sma20": 25.26,
+      "sma50": 20.7,
+      "high_52w": 32.45,
       "low_52w": 10.945,
-      "pct_from_high": -4.0,
-      "market_cap": 2268854784,
+      "pct_from_high": -4.3,
+      "market_cap": 2322714880,
       "pe": null,
-      "fwd_pe": -22.47,
+      "fwd_pe": -23.0,
       "eps": -0.73,
       "target": 21.43,
       "recommendation": "buy",
       "rev_growth": 0.075,
       "profit_margin": -0.21,
       "beta": 1.69,
-      "score": 55,
+      "score": 60,
       "category": "watch",
       "insider_buys": [],
       "insider_sales": [
@@ -3903,41 +5040,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "DKNG",
       "company": "DraftKings Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Gambling",
-      "price": 19.59000015258789,
-      "change": -1.57,
-      "change_pct": -7.42,
-      "open": 21.26,
-      "high": 21.33,
-      "low": 19.55,
-      "prev_close": 21.16,
-      "volume": 25388709,
-      "avg_volume": 13322200,
-      "vol_ratio": 1.91,
-      "chg_1w": -7.81,
-      "chg_1m": -19.35,
-      "rsi": 25.9,
-      "sma20": 22.95,
-      "sma50": 23.8,
-      "high_52w": 41.94,
-      "low_52w": 19.55,
-      "pct_from_high": -53.3,
-      "market_cap": 9725535232,
+      "price": 19.0,
+      "change": -0.59,
+      "change_pct": -3.01,
+      "open": 19.66,
+      "high": 19.73,
+      "low": 18.95,
+      "prev_close": 19.59,
+      "volume": 14336651,
+      "avg_volume": 13602677,
+      "vol_ratio": 1.05,
+      "chg_1w": -10.67,
+      "chg_1m": -18.94,
+      "rsi": 23.7,
+      "sma20": 22.72,
+      "sma50": 23.7,
+      "high_52w": 38.06,
+      "low_52w": 18.95,
+      "pct_from_high": -50.1,
+      "market_cap": 9432627200,
       "pe": null,
-      "fwd_pe": 11.67,
+      "fwd_pe": 11.31,
       "eps": -0.35,
       "target": 35.12,
       "recommendation": "buy",
       "rev_growth": -0.046,
       "profit_margin": -0.027,
       "beta": 1.63,
-      "score": 65,
+      "score": 60,
       "category": "watch",
       "insider_buys": [],
       "insider_sales": [
@@ -3950,42 +5118,73 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "RBLX",
       "company": "Roblox Corporation",
       "sector": "Communication Services",
       "industry": "Electronic Gaming & Multimedia",
-      "price": 41.18000030517578,
-      "change": -0.68,
-      "change_pct": -1.62,
-      "open": 41.9,
-      "high": 42.25,
-      "low": 40.77,
-      "prev_close": 41.86,
-      "volume": 18332289,
-      "avg_volume": 11464169,
-      "vol_ratio": 1.6,
-      "chg_1w": -15.94,
-      "chg_1m": -0.27,
-      "rsi": 43.2,
-      "sma20": 45.96,
-      "sma50": 42.84,
+      "price": 42.369998931884766,
+      "change": 1.19,
+      "change_pct": 2.89,
+      "open": 41.21,
+      "high": 42.87,
+      "low": 40.75,
+      "prev_close": 41.18,
+      "volume": 15724866,
+      "avg_volume": 11792368,
+      "vol_ratio": 1.33,
+      "chg_1w": -13.23,
+      "chg_1m": 4.18,
+      "rsi": 45.0,
+      "sma20": 46.04,
+      "sma50": 42.64,
       "high_52w": 141.95,
       "low_52w": 33.88,
-      "pct_from_high": -71.0,
-      "market_cap": 29418000384,
+      "pct_from_high": -70.2,
+      "market_cap": 30268106752,
       "pe": null,
-      "fwd_pe": -33.06,
+      "fwd_pe": -34.01,
       "eps": -1.41,
       "target": 48.97,
       "recommendation": "buy",
       "rev_growth": 0.359,
       "profit_margin": -0.176,
       "beta": 1.47,
-      "score": 75,
-      "category": "strong",
+      "score": 65,
+      "category": "watch",
       "insider_buys": [],
       "insider_sales": [
         {
@@ -4088,34 +5287,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "TTD",
       "company": "The Trade Desk, Inc.",
       "sector": "Communication Services",
       "industry": "Advertising Agencies",
-      "price": 12.050000190734863,
-      "change": -0.29,
-      "change_pct": -2.35,
-      "open": 12.42,
-      "high": 12.55,
-      "low": 11.85,
-      "prev_close": 12.34,
-      "volume": 21612622,
-      "avg_volume": 26329816,
-      "vol_ratio": 0.82,
-      "chg_1w": -4.97,
-      "chg_1m": -12.17,
-      "rsi": 27.5,
-      "sma20": 13.8,
-      "sma50": 14.85,
+      "price": 12.170000076293945,
+      "change": 0.12,
+      "change_pct": 1.0,
+      "open": 12.09,
+      "high": 12.24,
+      "low": 11.98,
+      "prev_close": 12.05,
+      "volume": 18466888,
+      "avg_volume": 26481164,
+      "vol_ratio": 0.7,
+      "chg_1w": -3.64,
+      "chg_1m": -11.68,
+      "rsi": 28.0,
+      "sma20": 13.72,
+      "sma50": 14.73,
       "high_52w": 56.39,
-      "low_52w": 11.855,
-      "pct_from_high": -78.6,
-      "market_cap": 5697181184,
+      "low_52w": 11.85,
+      "pct_from_high": -78.4,
+      "market_cap": 5753916416,
       "pe": 0.14,
-      "fwd_pe": 11.94,
+      "fwd_pe": 12.06,
       "eps": 84.0,
       "target": 13.57,
       "recommendation": "hold",
@@ -4127,42 +5357,73 @@
       "insider_buys": [],
       "insider_sales": [],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "SNAP",
       "company": "Snap Inc.",
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
-      "price": 5.340000152587891,
-      "change": 0.12,
-      "change_pct": 2.3,
-      "open": 5.3,
-      "high": 5.35,
-      "low": 5.18,
-      "prev_close": 5.22,
-      "volume": 22326643,
-      "avg_volume": 31613102,
-      "vol_ratio": 0.71,
-      "chg_1w": 0.95,
-      "chg_1m": -3.78,
-      "rsi": 50.8,
+      "price": 5.400000095367432,
+      "change": 0.06,
+      "change_pct": 1.12,
+      "open": 5.44,
+      "high": 5.69,
+      "low": 5.39,
+      "prev_close": 5.34,
+      "volume": 39696706,
+      "avg_volume": 32102075,
+      "vol_ratio": 1.24,
+      "chg_1w": -0.55,
+      "chg_1m": 0.93,
+      "rsi": 46.6,
       "sma20": 5.53,
-      "sma50": 5.29,
+      "sma50": 5.31,
       "high_52w": 9.13,
       "low_52w": 3.81,
-      "pct_from_high": -41.5,
-      "market_cap": 9030995968,
+      "pct_from_high": -40.9,
+      "market_cap": 9132468224,
       "pe": null,
-      "fwd_pe": 6.89,
+      "fwd_pe": 6.96,
       "eps": -0.18,
       "target": 7.39,
       "recommendation": "hold",
       "rev_growth": 0.189,
       "profit_margin": -0.049,
       "beta": 1.05,
-      "score": 70,
-      "category": "strong",
+      "score": 65,
+      "category": "watch",
       "insider_buys": [],
       "insider_sales": [
         {
@@ -4223,34 +5484,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "DASH",
       "company": "DoorDash, Inc.",
       "sector": "Consumer Cyclical",
       "industry": "Internet Retail",
-      "price": 187.10000610351562,
-      "change": 8.71,
-      "change_pct": 4.88,
-      "open": 180.23,
-      "high": 188.14,
-      "low": 179.84,
-      "prev_close": 178.39,
-      "volume": 5752816,
-      "avg_volume": 4224460,
-      "vol_ratio": 1.36,
-      "chg_1w": -1.15,
-      "chg_1m": -19.26,
-      "rsi": 40.5,
-      "sma20": 199.7,
-      "sma50": 205.44,
+      "price": 183.5500030517578,
+      "change": -3.55,
+      "change_pct": -1.9,
+      "open": 188.07,
+      "high": 189.96,
+      "low": 182.51,
+      "prev_close": 187.1,
+      "volume": 4249617,
+      "avg_volume": 4261465,
+      "vol_ratio": 1.0,
+      "chg_1w": -2.12,
+      "chg_1m": -18.66,
+      "rsi": 33.6,
+      "sma20": 197.6,
+      "sma50": 205.35,
       "high_52w": 285.5,
       "low_52w": 143.3,
-      "pct_from_high": -34.5,
-      "market_cap": 81070047232,
-      "pe": 97.96,
-      "fwd_pe": 22.97,
+      "pct_from_high": -35.7,
+      "market_cap": 79531843584,
+      "pe": 96.1,
+      "fwd_pe": 22.54,
       "eps": 1.91,
       "target": 256.26,
       "recommendation": "buy",
@@ -4284,17 +5576,17 @@
         },
         {
           "date": "2026-09-01",
-          "name": "XU TONY",
-          "position": "Chief Executive Officer",
-          "value": 3833443.0,
-          "shares": 16667
-        },
-        {
-          "date": "2026-09-01",
           "name": "INUKONDA RAVI KIRAN REDDY",
           "position": "Chief Financial Officer",
           "value": 3666784.0,
           "shares": 16044
+        },
+        {
+          "date": "2026-09-01",
+          "name": "XU TONY",
+          "position": "Chief Executive Officer",
+          "value": 3833443.0,
+          "shares": 16667
         },
         {
           "date": "2026-09-01",
@@ -4319,17 +5611,17 @@
         },
         {
           "date": "2026-08-24",
-          "name": "SHERRINGHAM TIA A.",
-          "position": "General Counsel",
-          "value": 515607.0,
-          "shares": 2265
-        },
-        {
-          "date": "2026-08-24",
           "name": "TANG WEIRUI STANLEY",
           "position": "Director",
           "value": 2280150.0,
           "shares": 10134
+        },
+        {
+          "date": "2026-08-24",
+          "name": "SHERRINGHAM TIA A.",
+          "position": "General Counsel",
+          "value": 515607.0,
+          "shares": 2265
         },
         {
           "date": "2026-08-24",
@@ -4347,13 +5639,6 @@
         },
         {
           "date": "2026-08-20",
-          "name": "SHERRINGHAM TIA A.",
-          "position": "General Counsel",
-          "value": 1696378.0,
-          "shares": 7689
-        },
-        {
-          "date": "2026-08-20",
           "name": "INUKONDA RAVI KIRAN REDDY",
           "position": "Chief Financial Officer",
           "value": 4303271.0,
@@ -4361,10 +5646,17 @@
         },
         {
           "date": "2026-08-20",
-          "name": "FANG ANDY",
-          "position": "Director",
-          "value": 351013.0,
-          "shares": 1591
+          "name": "SHERRINGHAM TIA A.",
+          "position": "General Counsel",
+          "value": 1696378.0,
+          "shares": 7689
+        },
+        {
+          "date": "2026-08-20",
+          "name": "LEE GORDON S",
+          "position": "Officer",
+          "value": 642236.0,
+          "shares": 2911
         },
         {
           "date": "2026-08-20",
@@ -4382,10 +5674,10 @@
         },
         {
           "date": "2026-08-20",
-          "name": "LEE GORDON S",
-          "position": "Officer",
-          "value": 642236.0,
-          "shares": 2911
+          "name": "FANG ANDY",
+          "position": "Director",
+          "value": 351013.0,
+          "shares": 1591
         },
         {
           "date": "2026-08-13",
@@ -4421,51 +5713,75 @@
           "position": "Chief Financial Officer",
           "value": 3590633.0,
           "shares": 19095
-        },
-        {
-          "date": "2026-07-02",
-          "name": "TANG WEIRUI STANLEY",
-          "position": "Director",
-          "value": 4421342.0,
-          "shares": 23125
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "UNH",
       "company": "UnitedHealth Group Incorporated",
       "sector": "Healthcare",
       "industry": "Healthcare Plans",
-      "price": 374.94000244140625,
-      "change": -2.89,
-      "change_pct": -0.76,
-      "open": 374.88,
-      "high": 376.59,
-      "low": 371.33,
-      "prev_close": 377.83,
-      "volume": 3276363,
-      "avg_volume": 5105373,
-      "vol_ratio": 0.64,
-      "chg_1w": 0.98,
-      "chg_1m": -3.12,
-      "rsi": 33.3,
-      "sma20": 382.45,
-      "sma50": 395.6,
+      "price": 367.0799865722656,
+      "change": -7.86,
+      "change_pct": -2.1,
+      "open": 374.93,
+      "high": 374.05,
+      "low": 365.76,
+      "prev_close": 374.94,
+      "volume": 4782910,
+      "avg_volume": 5159125,
+      "vol_ratio": 0.93,
+      "chg_1w": -2.11,
+      "chg_1m": -6.8,
+      "rsi": 31.2,
+      "sma20": 381.11,
+      "sma50": 394.27,
       "high_52w": 461.62,
       "low_52w": 255.97,
-      "pct_from_high": -18.8,
-      "market_cap": 336544202752,
-      "pe": 24.08,
-      "fwd_pe": 16.58,
-      "eps": 15.57,
+      "pct_from_high": -20.5,
+      "market_cap": 329489088512,
+      "pe": 23.59,
+      "fwd_pe": 16.24,
+      "eps": 15.56,
       "target": 481.72,
       "recommendation": "buy",
       "rev_growth": 0.004,
       "profit_margin": 0.031,
       "beta": 0.62,
-      "score": 65,
+      "score": 60,
       "category": "watch",
       "insider_buys": [],
       "insider_sales": [
@@ -4485,41 +5801,72 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "LLY",
       "company": "Eli Lilly and Company",
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "price": 1184.6300048828125,
-      "change": -0.15,
-      "change_pct": -0.01,
-      "open": 1186.05,
-      "high": 1192.94,
-      "low": 1168.47,
-      "prev_close": 1184.78,
-      "volume": 1625807,
-      "avg_volume": 2248190,
-      "vol_ratio": 0.72,
-      "chg_1w": 2.92,
-      "chg_1m": 2.41,
-      "rsi": 75.1,
-      "sma20": 1152.71,
-      "sma50": 1177.67,
+      "price": 1157.0799560546875,
+      "change": -27.55,
+      "change_pct": -2.33,
+      "open": 1186.49,
+      "high": 1214.99,
+      "low": 1155.27,
+      "prev_close": 1184.63,
+      "volume": 3397477,
+      "avg_volume": 2293673,
+      "vol_ratio": 1.48,
+      "chg_1w": -2.1,
+      "chg_1m": -0.25,
+      "rsi": 61.6,
+      "sma20": 1152.56,
+      "sma50": 1177.34,
       "high_52w": 1292.65,
-      "low_52w": 725.31,
-      "pct_from_high": -8.4,
-      "market_cap": 1055928287232,
-      "pe": 39.83,
-      "fwd_pe": 24.92,
-      "eps": 29.74,
+      "low_52w": 763.3,
+      "pct_from_high": -10.5,
+      "market_cap": 1031371358208,
+      "pe": 38.92,
+      "fwd_pe": 24.34,
+      "eps": 29.73,
       "target": 1328.83,
       "recommendation": "buy",
       "rev_growth": 0.477,
       "profit_margin": 0.335,
       "beta": 0.5,
-      "score": 75,
+      "score": 70,
       "category": "strong",
       "insider_buys": [],
       "insider_sales": [
@@ -4546,34 +5893,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "JNJ",
       "company": "Johnson & Johnson",
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "price": 267.57000732421875,
-      "change": -4.38,
-      "change_pct": -1.61,
-      "open": 269.11,
-      "high": 271.89,
-      "low": 265.59,
-      "prev_close": 271.95,
-      "volume": 5573288,
-      "avg_volume": 6295864,
-      "vol_ratio": 0.89,
-      "chg_1w": -0.59,
-      "chg_1m": 0.65,
-      "rsi": 51.7,
-      "sma20": 269.92,
-      "sma50": 265.08,
+      "price": 264.739990234375,
+      "change": -2.83,
+      "change_pct": -1.06,
+      "open": 267.91,
+      "high": 268.48,
+      "low": 264.51,
+      "prev_close": 267.57,
+      "volume": 6271436,
+      "avg_volume": 6310116,
+      "vol_ratio": 0.99,
+      "chg_1w": -2.19,
+      "chg_1m": -2.38,
+      "rsi": 45.1,
+      "sma20": 269.6,
+      "sma50": 265.39,
       "high_52w": 281.07,
-      "low_52w": 181.07,
-      "pct_from_high": -4.8,
-      "market_cap": 644816568320,
-      "pe": 31.04,
-      "fwd_pe": 22.04,
+      "low_52w": 182.94,
+      "pct_from_high": -5.8,
+      "market_cap": 637996498944,
+      "pe": 30.71,
+      "fwd_pe": 21.81,
       "eps": 8.62,
       "target": 279.27,
       "recommendation": "buy",
@@ -4628,34 +6006,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "ABBV",
       "company": "AbbVie Inc.",
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - General",
-      "price": 263.2900085449219,
-      "change": -2.99,
-      "change_pct": -1.12,
-      "open": 265.45,
-      "high": 268.93,
-      "low": 261.52,
-      "prev_close": 266.28,
-      "volume": 3947023,
-      "avg_volume": 4115266,
-      "vol_ratio": 0.96,
-      "chg_1w": -0.68,
-      "chg_1m": 2.68,
-      "rsi": 79.0,
-      "sma20": 260.96,
-      "sma50": 257.48,
+      "price": 261.5899963378906,
+      "change": -1.7,
+      "change_pct": -0.65,
+      "open": 264.6,
+      "high": 265.16,
+      "low": 261.59,
+      "prev_close": 263.29,
+      "volume": 4311051,
+      "avg_volume": 4140372,
+      "vol_ratio": 1.04,
+      "chg_1w": -1.33,
+      "chg_1m": 0.62,
+      "rsi": 67.4,
+      "sma20": 261.04,
+      "sma50": 257.59,
       "high_52w": 269.39,
       "low_52w": 190.75,
-      "pct_from_high": -2.3,
-      "market_cap": 465264345088,
-      "pe": 74.17,
-      "fwd_pe": 16.18,
+      "pct_from_high": -2.9,
+      "market_cap": 462260207616,
+      "pe": 73.69,
+      "fwd_pe": 16.08,
       "eps": 3.55,
       "target": 278.86,
       "recommendation": "buy",
@@ -4675,34 +6084,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "HIMS",
       "company": "Hims & Hers Health, Inc.",
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
-      "price": 28.700000762939453,
-      "change": -0.08,
-      "change_pct": -0.28,
-      "open": 29.39,
-      "high": 29.83,
-      "low": 28.3,
-      "prev_close": 28.78,
-      "volume": 6526891,
-      "avg_volume": 9316024,
-      "vol_ratio": 0.7,
-      "chg_1w": 1.09,
-      "chg_1m": -2.97,
-      "rsi": 54.3,
-      "sma20": 28.43,
-      "sma50": 29.47,
+      "price": 29.790000915527344,
+      "change": 1.09,
+      "change_pct": 3.8,
+      "open": 29.16,
+      "high": 31.03,
+      "low": 29.1,
+      "prev_close": 28.7,
+      "volume": 14487562,
+      "avg_volume": 9677963,
+      "vol_ratio": 1.5,
+      "chg_1w": 1.74,
+      "chg_1m": 4.75,
+      "rsi": 61.7,
+      "sma20": 28.5,
+      "sma50": 29.42,
       "high_52w": 65.299,
       "low_52w": 13.74,
-      "pct_from_high": -56.0,
-      "market_cap": 6696095232,
+      "pct_from_high": -54.4,
+      "market_cap": 6950406656,
       "pe": null,
-      "fwd_pe": 38.93,
+      "fwd_pe": 40.41,
       "eps": -0.64,
       "target": 31.15,
       "recommendation": "hold",
@@ -4792,34 +6232,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "MTDR",
       "company": "Matador Resources Company",
       "sector": "Energy",
       "industry": "Oil & Gas E&P",
-      "price": 50.689998626708984,
-      "change": -0.76,
-      "change_pct": -1.48,
-      "open": 50.5,
-      "high": 51.53,
-      "low": 50.39,
-      "prev_close": 51.45,
-      "volume": 1330566,
-      "avg_volume": 1811638,
-      "vol_ratio": 0.73,
-      "chg_1w": -2.74,
-      "chg_1m": -12.62,
-      "rsi": 22.7,
-      "sma20": 57.1,
-      "sma50": 54.42,
+      "price": 51.58000183105469,
+      "change": 0.89,
+      "change_pct": 1.76,
+      "open": 50.94,
+      "high": 52.45,
+      "low": 50.8,
+      "prev_close": 50.69,
+      "volume": 1922509,
+      "avg_volume": 1824270,
+      "vol_ratio": 1.05,
+      "chg_1w": -2.62,
+      "chg_1m": -12.89,
+      "rsi": 22.5,
+      "sma20": 56.72,
+      "sma50": 54.38,
       "high_52w": 66.84,
       "low_52w": 37.14,
-      "pct_from_high": -24.2,
-      "market_cap": 6273100800,
-      "pe": 8.69,
-      "fwd_pe": 5.53,
+      "pct_from_high": -22.8,
+      "market_cap": 6383242752,
+      "pe": 8.85,
+      "fwd_pe": 5.63,
       "eps": 5.83,
       "target": 70.05,
       "recommendation": "strong_buy",
@@ -4874,35 +6345,66 @@
       ],
       "insider_sales": [],
       "total_insider_buys": 1211793,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "XOM",
       "company": "ExxonMobil Holdings Corporation",
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "price": 161.35000610351562,
-      "change": -1.17,
-      "change_pct": -0.72,
-      "open": 160.21,
-      "high": 161.96,
-      "low": 159.27,
-      "prev_close": 162.52,
-      "volume": 9149985,
-      "avg_volume": 14130909,
-      "vol_ratio": 0.65,
-      "chg_1w": 0.07,
-      "chg_1m": 0.25,
-      "rsi": 44.7,
-      "sma20": 162.79,
-      "sma50": 159.61,
+      "price": 162.75,
+      "change": 1.4,
+      "change_pct": 0.87,
+      "open": 162.23,
+      "high": 164.37,
+      "low": 161.93,
+      "prev_close": 161.35,
+      "volume": 13055667,
+      "avg_volume": 14215103,
+      "vol_ratio": 0.92,
+      "chg_1w": 0.38,
+      "chg_1m": -1.09,
+      "rsi": 45.5,
+      "sma20": 162.7,
+      "sma50": 159.85,
       "high_52w": 176.41,
       "low_52w": 110.39,
-      "pct_from_high": -8.5,
-      "market_cap": 663457038336,
-      "pe": 20.77,
-      "fwd_pe": 14.49,
-      "eps": 7.77,
+      "pct_from_high": -7.7,
+      "market_cap": 669213655040,
+      "pe": 20.92,
+      "fwd_pe": 14.43,
+      "eps": 7.78,
       "target": 173.09,
       "recommendation": "buy",
       "rev_growth": 0.441,
@@ -4913,35 +6415,66 @@
       "insider_buys": [],
       "insider_sales": [],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "CVX",
       "company": "Chevron Corporation",
       "sector": "Energy",
       "industry": "Oil & Gas Integrated",
-      "price": 204.3800048828125,
-      "change": -1.99,
-      "change_pct": -0.96,
-      "open": 203.05,
-      "high": 205.47,
-      "low": 202.7,
-      "prev_close": 206.37,
-      "volume": 5875812,
-      "avg_volume": 10010040,
-      "vol_ratio": 0.59,
-      "chg_1w": -0.55,
-      "chg_1m": -0.85,
-      "rsi": 36.0,
-      "sma20": 209.41,
-      "sma50": 201.05,
+      "price": 204.2100067138672,
+      "change": -0.17,
+      "change_pct": -0.08,
+      "open": 205.09,
+      "high": 206.83,
+      "low": 204.21,
+      "prev_close": 204.38,
+      "volume": 6247607,
+      "avg_volume": 9896935,
+      "vol_ratio": 0.63,
+      "chg_1w": -0.7,
+      "chg_1m": -3.24,
+      "rsi": 36.9,
+      "sma20": 209.07,
+      "sma50": 201.35,
       "high_52w": 217.78,
       "low_52w": 146.49,
       "pct_from_high": -6.2,
-      "market_cap": 400912482304,
-      "pe": 19.65,
-      "fwd_pe": 15.06,
-      "eps": 10.4,
+      "market_cap": 400579035136,
+      "pe": 19.67,
+      "fwd_pe": 15.05,
+      "eps": 10.38,
       "target": 224.33,
       "recommendation": "buy",
       "rev_growth": 0.535,
@@ -4995,34 +6528,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "COP",
       "company": "ConocoPhillips",
       "sector": "Energy",
       "industry": "Oil & Gas E&P",
-      "price": 125.44000244140625,
-      "change": -0.6,
-      "change_pct": -0.48,
-      "open": 123.63,
-      "high": 126.18,
-      "low": 123.46,
-      "prev_close": 126.04,
-      "volume": 7155297,
-      "avg_volume": 6843414,
-      "vol_ratio": 1.05,
-      "chg_1w": -2.07,
-      "chg_1m": -5.32,
-      "rsi": 32.3,
-      "sma20": 132.69,
-      "sma50": 127.25,
+      "price": 125.1500015258789,
+      "change": -0.29,
+      "change_pct": -0.23,
+      "open": 125.93,
+      "high": 126.56,
+      "low": 124.95,
+      "prev_close": 125.44,
+      "volume": 6253430,
+      "avg_volume": 6852951,
+      "vol_ratio": 0.91,
+      "chg_1w": -3.24,
+      "chg_1m": -8.11,
+      "rsi": 30.9,
+      "sma20": 132.14,
+      "sma50": 127.42,
       "high_52w": 141.62,
       "low_52w": 85.57,
-      "pct_from_high": -11.4,
-      "market_cap": 150695772160,
-      "pe": 16.59,
-      "fwd_pe": 12.98,
+      "pct_from_high": -11.6,
+      "market_cap": 150347382784,
+      "pe": 16.55,
+      "fwd_pe": 12.95,
       "eps": 7.56,
       "target": 146.08,
       "recommendation": "buy",
@@ -5042,35 +6606,66 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "JPM",
       "company": "JP Morgan Chase & Co.",
       "sector": "Financial Services",
       "industry": "Banks - Diversified",
-      "price": 334.9800109863281,
-      "change": -1.61,
-      "change_pct": -0.48,
-      "open": 337.0,
-      "high": 338.75,
-      "low": 333.33,
-      "prev_close": 336.59,
-      "volume": 6022965,
-      "avg_volume": 7939943,
-      "vol_ratio": 0.76,
-      "chg_1w": -0.76,
-      "chg_1m": -5.91,
-      "rsi": 29.1,
-      "sma20": 349.16,
-      "sma50": 353.18,
+      "price": 330.8299865722656,
+      "change": -4.15,
+      "change_pct": -1.24,
+      "open": 334.89,
+      "high": 336.34,
+      "low": 330.83,
+      "prev_close": 334.98,
+      "volume": 9109409,
+      "avg_volume": 8203060,
+      "vol_ratio": 1.11,
+      "chg_1w": -2.28,
+      "chg_1m": -6.8,
+      "rsi": 27.3,
+      "sma20": 347.95,
+      "sma50": 352.89,
       "high_52w": 366.5,
       "low_52w": 279.1,
-      "pct_from_high": -8.6,
-      "market_cap": 890439270400,
-      "pe": 14.36,
-      "fwd_pe": 13.41,
-      "eps": 23.33,
+      "pct_from_high": -9.7,
+      "market_cap": 879407726592,
+      "pe": 14.17,
+      "fwd_pe": 13.24,
+      "eps": 23.35,
       "target": 375.81,
       "recommendation": "buy",
       "rev_growth": 0.304,
@@ -5096,34 +6691,65 @@
         }
       ],
       "total_insider_buys": 0,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "NWBI",
       "company": "Northwest Bancshares, Inc.",
       "sector": "Financial Services",
       "industry": "Banks - Regional",
-      "price": 14.920000076293945,
-      "change": -0.2,
-      "change_pct": -1.32,
-      "open": 15.12,
+      "price": 14.84000015258789,
+      "change": -0.08,
+      "change_pct": -0.54,
+      "open": 15.05,
       "high": 15.19,
-      "low": 14.85,
-      "prev_close": 15.12,
-      "volume": 1155672,
-      "avg_volume": 1134943,
-      "vol_ratio": 1.02,
-      "chg_1w": -0.8,
-      "chg_1m": -2.42,
-      "rsi": 36.4,
-      "sma20": 15.35,
-      "sma50": 15.43,
+      "low": 14.72,
+      "prev_close": 14.92,
+      "volume": 1450330,
+      "avg_volume": 1161161,
+      "vol_ratio": 1.25,
+      "chg_1w": -2.24,
+      "chg_1m": -1.98,
+      "rsi": 29.3,
+      "sma20": 15.34,
+      "sma50": 15.42,
       "high_52w": 16.16,
       "low_52w": 11.25,
-      "pct_from_high": -7.7,
-      "market_cap": 2185170176,
-      "pe": 14.49,
-      "fwd_pe": 10.3,
+      "pct_from_high": -8.2,
+      "market_cap": 2173453312,
+      "pe": 14.41,
+      "fwd_pe": 10.24,
       "eps": 1.03,
       "target": 16.57,
       "recommendation": "hold",
@@ -5151,41 +6777,72 @@
         }
       ],
       "total_insider_buys": 24975,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     },
     {
       "ticker": "DGICA",
       "company": "Donegal Group, Inc.",
       "sector": "Financial Services",
       "industry": "Insurance - Property & Casualty",
-      "price": 18.06999969482422,
-      "change": 0.05,
-      "change_pct": 0.28,
-      "open": 17.89,
-      "high": 18.1,
-      "low": 17.87,
-      "prev_close": 18.02,
-      "volume": 62281,
-      "avg_volume": 111649,
-      "vol_ratio": 0.56,
-      "chg_1w": -0.33,
-      "chg_1m": -5.49,
-      "rsi": 29.5,
-      "sma20": 18.85,
-      "sma50": 18.9,
+      "price": 17.790000915527344,
+      "change": -0.28,
+      "change_pct": -1.55,
+      "open": 17.87,
+      "high": 18.09,
+      "low": 17.76,
+      "prev_close": 18.07,
+      "volume": 143834,
+      "avg_volume": 115081,
+      "vol_ratio": 1.25,
+      "chg_1w": -0.73,
+      "chg_1m": -7.2,
+      "rsi": 17.9,
+      "sma20": 18.78,
+      "sma50": 18.89,
       "high_52w": 21.06,
       "low_52w": 16.11,
-      "pct_from_high": -14.2,
-      "market_cap": 669486336,
-      "pe": 9.41,
-      "fwd_pe": 9.64,
+      "pct_from_high": -15.5,
+      "market_cap": 659112512,
+      "pe": 9.27,
+      "fwd_pe": 9.49,
       "eps": 1.92,
       "target": 21.0,
       "recommendation": "none",
       "rev_growth": -0.024,
       "profit_margin": 0.074,
       "beta": -0.03,
-      "score": 70,
+      "score": 75,
       "category": "strong",
       "insider_buys": [
         {
@@ -5332,7 +6989,38 @@
         }
       ],
       "total_insider_buys": 4786550,
-      "news": []
+      "news": [
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        },
+        {
+          "title": "",
+          "publisher": "",
+          "link": "",
+          "date": null
+        }
+      ]
     }
   ],
   "categories": {
@@ -5342,12 +7030,14 @@
       "GOOGL",
       "MSFT",
       "NVDA",
+      "BRK-B",
       "CRM",
       "NOW",
       "ADBE",
       "SNOW",
       "DDOG",
       "MDB",
+      "FTNT",
       "HUBS",
       "ESTC",
       "GTLB",
@@ -5362,9 +7052,8 @@
       "RKLB",
       "ASTS",
       "IONQ",
+      "RXRX",
       "CRSP",
-      "RBLX",
-      "SNAP",
       "DASH",
       "LLY",
       "HIMS",
@@ -5379,19 +7068,18 @@
     "watch": [
       "AAPL",
       "TSLA",
-      "BRK-B",
       "NET",
       "ZS",
       "PANW",
-      "FTNT",
       "WDAY",
       "COIN",
       "MSTR",
       "PYPL",
-      "RXRX",
       "SDGR",
       "DKNG",
+      "RBLX",
       "TTD",
+      "SNAP",
       "UNH",
       "JNJ",
       "ABBV"
