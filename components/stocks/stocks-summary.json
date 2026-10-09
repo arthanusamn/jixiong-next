@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-08T15:45:47.142809",
+  "generated_at": "2026-10-09T16:44:47.909200",
   "stats": {
     "total_tracked": 56,
     "active_signals": 55,
-    "strong_buys": 43,
+    "strong_buys": 41,
     "insider_buys_total": 11,
     "volume_spikes": 4
   },
@@ -13,8 +13,8 @@
       "company": "Donegal Group, Inc.",
       "total_value": 4786550,
       "buys_count": 11,
-      "current_price": 18.540000915527344,
-      "score": 75,
+      "current_price": 18.229999542236328,
+      "score": 70,
       "category": "strong"
     },
     {
@@ -22,8 +22,8 @@
       "company": "Carvana Co.",
       "total_value": 3089962,
       "buys_count": 2,
-      "current_price": 63.20000076293945,
-      "score": 85,
+      "current_price": 63.72999954223633,
+      "score": 90,
       "category": "strong"
     },
     {
@@ -31,7 +31,7 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 1830043,
       "buys_count": 3,
-      "current_price": 27.399999618530273,
+      "current_price": 28.579999923706055,
       "score": 80,
       "category": "strong"
     },
@@ -40,8 +40,8 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": 24.190000534057617,
-      "score": 85,
+      "current_price": 24.100000381469727,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -49,7 +49,7 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": 54.47999954223633,
+      "current_price": 54.279998779296875,
       "score": 90,
       "category": "strong"
     },
@@ -58,7 +58,7 @@
       "company": "Salesforce, Inc.",
       "total_value": 999451,
       "buys_count": 1,
-      "current_price": 227.8000030517578,
+      "current_price": 229.1300048828125,
       "score": 80,
       "category": "strong"
     },
@@ -67,7 +67,7 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 56.93000030517578,
+      "current_price": 50.96500015258789,
       "score": 85,
       "category": "strong"
     },
@@ -76,7 +76,7 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 511.04998779296875,
+      "current_price": 515.6199951171875,
       "score": 70,
       "category": "strong"
     },
@@ -85,7 +85,7 @@
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 231.83999633789062,
+      "current_price": 228.3000030517578,
       "score": 70,
       "category": "strong"
     },
@@ -94,7 +94,7 @@
       "company": "GitLab Inc.",
       "total_value": 124802,
       "buys_count": 1,
-      "current_price": 53.560001373291016,
+      "current_price": 55.09000015258789,
       "score": 75,
       "category": "strong"
     }
@@ -103,90 +103,90 @@
     {
       "ticker": "ZS",
       "company": "Zscaler, Inc.",
-      "chg_1w": 10.28,
-      "price": 216.80999755859375
+      "chg_1w": 15.82,
+      "price": 233.72999572753906
+    },
+    {
+      "ticker": "SNAP",
+      "company": "Snap Inc.",
+      "chg_1w": 11.05,
+      "price": 6.230000019073486
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "chg_1w": 10.37,
+      "price": 209.0500030517578
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "chg_1w": 8.82,
+      "price": 368.8900146484375
     },
     {
       "ticker": "AFRM",
       "company": "Affirm Holdings, Inc.",
-      "chg_1w": 9.02,
-      "price": 77.1500015258789
-    },
-    {
-      "ticker": "HUBS",
-      "company": "HubSpot, Inc.",
-      "chg_1w": 8.07,
-      "price": 231.83999633789062
-    },
-    {
-      "ticker": "GTLB",
-      "company": "GitLab Inc.",
-      "chg_1w": 7.59,
-      "price": 53.560001373291016
-    },
-    {
-      "ticker": "DKNG",
-      "company": "DraftKings Inc.",
-      "chg_1w": 6.89,
-      "price": 19.8700008392334
+      "chg_1w": 7.96,
+      "price": 80.69999694824219
     }
   ],
   "top_losers": [
     {
       "ticker": "SDGR",
       "company": "Schrodinger, Inc.",
-      "chg_1w": -12.93,
-      "price": 26.389999389648438
-    },
-    {
-      "ticker": "IONQ",
-      "company": "IonQ, Inc.",
-      "chg_1w": -9.87,
-      "price": 39.45000076293945
-    },
-    {
-      "ticker": "CRSP",
-      "company": "CRISPR Therapeutics AG",
-      "chg_1w": -9.0,
-      "price": 50.439998626708984
-    },
-    {
-      "ticker": "RKLB",
-      "company": "Rocket Lab Corporation",
-      "chg_1w": -7.47,
-      "price": 68.4000015258789
-    },
-    {
-      "ticker": "COIN",
-      "company": "Coinbase Global, Inc.",
-      "chg_1w": -6.01,
-      "price": 172.0
-    }
-  ],
-  "volume_spikes": [
-    {
-      "ticker": "PLTR",
-      "company": "Palantir Technologies Inc.",
-      "vol_ratio": 1.82,
-      "price": 198.77999877929688
+      "chg_1w": -16.32,
+      "price": 27.280000686645508
     },
     {
       "ticker": "ASTS",
       "company": "AST SpaceMobile, Inc.",
-      "vol_ratio": 1.66,
-      "price": 56.93000030517578
+      "chg_1w": -12.79,
+      "price": 50.96500015258789
+    },
+    {
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "chg_1w": -8.79,
+      "price": 4.360000133514404
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "chg_1w": -7.17,
+      "price": 39.88999938964844
     },
     {
       "ticker": "CRSP",
       "company": "CRISPR Therapeutics AG",
-      "vol_ratio": 1.57,
-      "price": 50.439998626708984
+      "chg_1w": -6.89,
+      "price": 53.38999938964844
+    }
+  ],
+  "volume_spikes": [
+    {
+      "ticker": "ASTS",
+      "company": "AST SpaceMobile, Inc.",
+      "vol_ratio": 4.0,
+      "price": 50.96500015258789
+    },
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "vol_ratio": 1.92,
+      "price": 368.8900146484375
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "vol_ratio": 1.55,
+      "price": 209.0500030517578
     },
     {
       "ticker": "HIMS",
       "company": "Hims & Hers Health, Inc.",
-      "vol_ratio": 1.51,
-      "price": 28.059999465942383
+      "vol_ratio": 1.55,
+      "price": 30.920000076293945
     }
   ],
   "categories": {
@@ -203,9 +203,7 @@
       "ADBE",
       "SNOW",
       "MDB",
-      "ZS",
       "FTNT",
-      "WDAY",
       "HUBS",
       "ESTC",
       "GTLB",
@@ -239,7 +237,9 @@
       "AAPL",
       "DDOG",
       "NET",
+      "ZS",
       "PANW",
+      "WDAY",
       "COIN",
       "MSTR",
       "PYPL",
