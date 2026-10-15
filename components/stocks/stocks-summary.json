@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T07:49:59.881942",
+  "generated_at": "2026-10-15T15:18:05.160245",
   "stats": {
     "total_tracked": 56,
     "active_signals": 55,
     "strong_buys": 37,
     "insider_buys_total": 11,
-    "volume_spikes": 0
+    "volume_spikes": 5
   },
   "top_insider_buys": [
     {
@@ -13,7 +13,7 @@
       "company": "Donegal Group, Inc.",
       "total_value": 4786550,
       "buys_count": 11,
-      "current_price": 18.59000015258789,
+      "current_price": 18.510000228881836,
       "score": 75,
       "category": "strong"
     },
@@ -22,7 +22,7 @@
       "company": "Carvana Co.",
       "total_value": 3089962,
       "buys_count": 2,
-      "current_price": 60.45000076293945,
+      "current_price": 60.619998931884766,
       "score": 85,
       "category": "strong"
     },
@@ -31,7 +31,7 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 1830043,
       "buys_count": 3,
-      "current_price": 27.59000015258789,
+      "current_price": 28.15999984741211,
       "score": 75,
       "category": "strong"
     },
@@ -40,8 +40,8 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": 22.8700008392334,
-      "score": 80,
+      "current_price": 24.75,
+      "score": 85,
       "category": "strong"
     },
     {
@@ -49,7 +49,7 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": 54.040000915527344,
+      "current_price": 53.77000045776367,
       "score": 85,
       "category": "strong"
     },
@@ -58,7 +58,7 @@
       "company": "Salesforce, Inc.",
       "total_value": 999451,
       "buys_count": 1,
-      "current_price": 244.10000610351562,
+      "current_price": 246.74000549316406,
       "score": 80,
       "category": "strong"
     },
@@ -67,7 +67,7 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 41.625,
+      "current_price": 44.459999084472656,
       "score": 80,
       "category": "strong"
     },
@@ -76,7 +76,7 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 529.9199829101562,
+      "current_price": 525.6799926757812,
       "score": 70,
       "category": "strong"
     },
@@ -85,7 +85,7 @@
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 240.27999877929688,
+      "current_price": 238.91000366210938,
       "score": 70,
       "category": "strong"
     },
@@ -94,76 +94,107 @@
       "company": "GitLab Inc.",
       "total_value": 124802,
       "buys_count": 1,
-      "current_price": 53.68000030517578,
+      "current_price": 55.939998626708984,
       "score": 70,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Incorporated",
-      "chg_1w": 7.69,
-      "price": 408.4700012207031
-    },
-    {
-      "ticker": "LLY",
-      "company": "Eli Lilly and Company",
-      "chg_1w": 7.31,
-      "price": 1265.4949951171875
-    },
-    {
       "ticker": "TTD",
       "company": "The Trade Desk, Inc.",
-      "chg_1w": 6.62,
-      "price": 12.88029956817627
+      "chg_1w": 8.69,
+      "price": 13.130000114440918
     },
     {
       "ticker": "CRM",
       "company": "Salesforce, Inc.",
-      "chg_1w": 6.53,
-      "price": 244.10000610351562
+      "chg_1w": 7.69,
+      "price": 246.74000549316406
     },
     {
-      "ticker": "WDAY",
-      "company": "Workday, Inc.",
-      "chg_1w": 5.79,
-      "price": 197.39999389648438
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "chg_1w": 7.22,
+      "price": 406.6700134277344
+    },
+    {
+      "ticker": "RBLX",
+      "company": "Roblox Corporation",
+      "chg_1w": 6.32,
+      "price": 51.130001068115234
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly and Company",
+      "chg_1w": 6.13,
+      "price": 1251.6099853515625
     }
   ],
   "top_losers": [
     {
       "ticker": "RKLB",
       "company": "Rocket Lab Corporation",
-      "chg_1w": -21.88,
-      "price": 53.28499984741211
+      "chg_1w": -19.0,
+      "price": 55.25
     },
     {
       "ticker": "IONQ",
       "company": "IonQ, Inc.",
-      "chg_1w": -20.01,
-      "price": 31.90999984741211
+      "chg_1w": -13.89,
+      "price": 34.349998474121094
     },
     {
       "ticker": "ASTS",
       "company": "AST SpaceMobile, Inc.",
-      "chg_1w": -18.33,
-      "price": 41.625
+      "chg_1w": -12.76,
+      "price": 44.459999084472656
     },
     {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
-      "chg_1w": -14.4,
-      "price": 308.95001220703125
+      "chg_1w": -12.36,
+      "price": 316.32000732421875
     },
     {
-      "ticker": "AFRM",
-      "company": "Affirm Holdings, Inc.",
-      "chg_1w": -13.4,
-      "price": 69.88999938964844
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "chg_1w": -11.58,
+      "price": 370.2699890136719
     }
   ],
-  "volume_spikes": [],
+  "volume_spikes": [
+    {
+      "ticker": "ESTC",
+      "company": "Elastic N.V.",
+      "vol_ratio": 2.29,
+      "price": 97.23999786376953
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
+      "vol_ratio": 2.1,
+      "price": 55.25
+    },
+    {
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "vol_ratio": 1.93,
+      "price": 4.159999847412109
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ, Inc.",
+      "vol_ratio": 1.74,
+      "price": 34.349998474121094
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "vol_ratio": 1.7,
+      "price": 406.6700134277344
+    }
+  ],
   "categories": {
     "strong": [
       "META",
@@ -176,6 +207,7 @@
       "NOW",
       "ADBE",
       "SNOW",
+      "NET",
       "MDB",
       "WDAY",
       "HUBS",
@@ -193,7 +225,6 @@
       "ASTS",
       "IONQ",
       "CRSP",
-      "RBLX",
       "DASH",
       "LLY",
       "MTDR",
@@ -208,7 +239,6 @@
       "AAPL",
       "TSLA",
       "DDOG",
-      "NET",
       "ZS",
       "PANW",
       "FTNT",
@@ -217,6 +247,7 @@
       "PYPL",
       "RXRX",
       "DKNG",
+      "RBLX",
       "TTD",
       "SNAP",
       "UNH",
