@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T14:00:30.286831",
+  "generated_at": "2026-10-19T14:00:31.186101",
   "stats": {
     "total_tracked": 56,
     "active_signals": 56,
-    "strong_buys": 39,
+    "strong_buys": 37,
     "insider_buys_total": 11,
-    "volume_spikes": 5
+    "volume_spikes": 2
   },
   "top_insider_buys": [
     {
@@ -13,7 +13,7 @@
       "company": "Donegal Group, Inc.",
       "total_value": 4786550,
       "buys_count": 11,
-      "current_price": 18.68000030517578,
+      "current_price": 18.40999984741211,
       "score": 75,
       "category": "strong"
     },
@@ -22,7 +22,7 @@
       "company": "Carvana Co.",
       "total_value": 3089962,
       "buys_count": 2,
-      "current_price": 58.83000183105469,
+      "current_price": 58.709999084472656,
       "score": 85,
       "category": "strong"
     },
@@ -31,8 +31,8 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 1830043,
       "buys_count": 3,
-      "current_price": 28.190000534057617,
-      "score": 75,
+      "current_price": 29.719999313354492,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -40,7 +40,7 @@
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": 23.559999465942383,
+      "current_price": 23.25,
       "score": 80,
       "category": "strong"
     },
@@ -49,7 +49,7 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": 57.52000045776367,
+      "current_price": 57.380001068115234,
       "score": 90,
       "category": "strong"
     },
@@ -58,7 +58,7 @@
       "company": "Salesforce, Inc.",
       "total_value": 999451,
       "buys_count": 1,
-      "current_price": 240.6999969482422,
+      "current_price": 242.4499969482422,
       "score": 85,
       "category": "strong"
     },
@@ -67,7 +67,7 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": 40.65999984741211,
+      "current_price": 41.869998931884766,
       "score": 80,
       "category": "strong"
     },
@@ -76,7 +76,7 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": 532.02001953125,
+      "current_price": 532.22998046875,
       "score": 70,
       "category": "strong"
     },
@@ -85,7 +85,7 @@
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": 230.94000244140625,
+      "current_price": 234.6300048828125,
       "score": 70,
       "category": "strong"
     },
@@ -94,105 +94,87 @@
       "company": "GitLab Inc.",
       "total_value": 124802,
       "buys_count": 1,
-      "current_price": 52.7599983215332,
-      "score": 70,
+      "current_price": 53.290000915527344,
+      "score": 75,
       "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "COP",
-      "company": "ConocoPhillips",
-      "chg_1w": 6.51,
-      "price": 146.50999450683594
+      "ticker": "UNH",
+      "company": "UnitedHealth Group Incorporated",
+      "chg_1w": 7.71,
+      "price": 406.8800048828125
+    },
+    {
+      "ticker": "CELH",
+      "company": "Celsius Holdings, Inc.",
+      "chg_1w": 6.41,
+      "price": 29.719999313354492
     },
     {
       "ticker": "LLY",
       "company": "Eli Lilly and Company",
-      "chg_1w": 6.29,
-      "price": 1257.030029296875
+      "chg_1w": 6.33,
+      "price": 1240.3399658203125
     },
     {
-      "ticker": "UNH",
-      "company": "UnitedHealth Group Incorporated",
-      "chg_1w": 6.05,
-      "price": 401.42999267578125
+      "ticker": "HUBS",
+      "company": "HubSpot, Inc.",
+      "chg_1w": 6.03,
+      "price": 234.6300048828125
     },
     {
-      "ticker": "CVX",
-      "company": "Chevron Corporation",
-      "chg_1w": 4.65,
-      "price": 224.99000549316406
-    },
-    {
-      "ticker": "MTDR",
-      "company": "Matador Resources Company",
-      "chg_1w": 4.37,
-      "price": 57.52000045776367
+      "ticker": "WDAY",
+      "company": "Workday, Inc.",
+      "chg_1w": 4.93,
+      "price": 195.1999969482422
     }
   ],
   "top_losers": [
     {
       "ticker": "RKLB",
       "company": "Rocket Lab Corporation",
-      "chg_1w": -22.63,
-      "price": 50.84000015258789
-    },
-    {
-      "ticker": "ASTS",
-      "company": "AST SpaceMobile, Inc.",
-      "chg_1w": -20.99,
-      "price": 40.65999984741211
+      "chg_1w": -20.02,
+      "price": 51.36000061035156
     },
     {
       "ticker": "NET",
       "company": "Cloudflare, Inc.",
-      "chg_1w": -15.55,
-      "price": 296.29998779296875
+      "chg_1w": -14.41,
+      "price": 297.5799865722656
+    },
+    {
+      "ticker": "HOOD",
+      "company": "Robinhood Markets, Inc.",
+      "chg_1w": -12.67,
+      "price": 96.5199966430664
     },
     {
       "ticker": "PANW",
       "company": "Palo Alto Networks, Inc.",
-      "chg_1w": -15.31,
-      "price": 342.0
+      "chg_1w": -12.61,
+      "price": 346.95001220703125
     },
     {
       "ticker": "SNOW",
       "company": "Snowflake Inc.",
-      "chg_1w": -14.85,
-      "price": 306.8399963378906
+      "chg_1w": -11.85,
+      "price": 315.3500061035156
     }
   ],
   "volume_spikes": [
     {
-      "ticker": "SNOW",
-      "company": "Snowflake Inc.",
-      "vol_ratio": 1.95,
-      "price": 306.8399963378906
-    },
-    {
-      "ticker": "TSLA",
-      "company": "Tesla, Inc.",
-      "vol_ratio": 1.79,
-      "price": 354.7200012207031
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "vol_ratio": 2.16,
+      "price": 56.5099983215332
     },
     {
       "ticker": "FTNT",
       "company": "Fortinet, Inc.",
-      "vol_ratio": 1.68,
-      "price": 169.1300048828125
-    },
-    {
-      "ticker": "ESTC",
-      "company": "Elastic N.V.",
-      "vol_ratio": 1.63,
-      "price": 91.73999786376953
-    },
-    {
-      "ticker": "AAPL",
-      "company": "Apple Inc.",
-      "vol_ratio": 1.62,
-      "price": 343.4599914550781
+      "vol_ratio": 1.6,
+      "price": 171.5
     }
   ],
   "categories": {
@@ -201,15 +183,12 @@
       "AMZN",
       "GOOGL",
       "NVDA",
-      "AAPL",
-      "TSLA",
       "BRK-B",
       "CRM",
       "NOW",
       "ADBE",
       "SNOW",
       "MDB",
-      "PANW",
       "FTNT",
       "WDAY",
       "HUBS",
@@ -217,6 +196,7 @@
       "GTLB",
       "SOFI",
       "HOOD",
+      "PYPL",
       "AFRM",
       "UPST",
       "RDDT",
@@ -239,12 +219,14 @@
     ],
     "watch": [
       "MSFT",
+      "AAPL",
+      "TSLA",
       "DDOG",
       "NET",
       "ZS",
+      "PANW",
       "COIN",
       "MSTR",
-      "PYPL",
       "RXRX",
       "SDGR",
       "DKNG",
