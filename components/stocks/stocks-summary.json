@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T17:12:08.319235",
+  "generated_at": "2026-10-26T14:00:34.022586",
   "stats": {
     "total_tracked": 56,
-    "active_signals": 49,
-    "strong_buys": 5,
+    "active_signals": 56,
+    "strong_buys": 38,
     "insider_buys_total": 11,
-    "volume_spikes": 0
+    "volume_spikes": 4
   },
   "top_insider_buys": [
     {
@@ -13,17 +13,17 @@
       "company": "Donegal Group, Inc.",
       "total_value": 4786550,
       "buys_count": 11,
-      "current_price": NaN,
-      "score": 65,
-      "category": "watch"
+      "current_price": 18.93000030517578,
+      "score": 75,
+      "category": "strong"
     },
     {
       "ticker": "CVNA",
       "company": "Carvana Co.",
       "total_value": 3089962,
       "buys_count": 2,
-      "current_price": NaN,
-      "score": 75,
+      "current_price": 56.61000061035156,
+      "score": 85,
       "category": "strong"
     },
     {
@@ -31,17 +31,17 @@
       "company": "Celsius Holdings, Inc.",
       "total_value": 1830043,
       "buys_count": 3,
-      "current_price": NaN,
-      "score": 65,
-      "category": "watch"
+      "current_price": 28.149999618530273,
+      "score": 75,
+      "category": "strong"
     },
     {
       "ticker": "UPST",
       "company": "Upstart Holdings, Inc.",
       "total_value": 1277500,
       "buys_count": 1,
-      "current_price": NaN,
-      "score": 70,
+      "current_price": 23.0,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -49,8 +49,8 @@
       "company": "Matador Resources Company",
       "total_value": 1211793,
       "buys_count": 6,
-      "current_price": NaN,
-      "score": 75,
+      "current_price": 60.09000015258789,
+      "score": 90,
       "category": "strong"
     },
     {
@@ -58,8 +58,8 @@
       "company": "Salesforce, Inc.",
       "total_value": 999451,
       "buys_count": 1,
-      "current_price": NaN,
-      "score": 70,
+      "current_price": 247.61000061035156,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -67,8 +67,8 @@
       "company": "AST SpaceMobile, Inc.",
       "total_value": 619200,
       "buys_count": 1,
-      "current_price": NaN,
-      "score": 70,
+      "current_price": 39.45000076293945,
+      "score": 80,
       "category": "strong"
     },
     {
@@ -76,17 +76,17 @@
       "company": "Berkshire Hathaway Inc. New",
       "total_value": 250072,
       "buys_count": 1,
-      "current_price": NaN,
-      "score": 60,
-      "category": "watch"
+      "current_price": 548.5599975585938,
+      "score": 70,
+      "category": "strong"
     },
     {
       "ticker": "HUBS",
       "company": "HubSpot, Inc.",
       "total_value": 199735,
       "buys_count": 1,
-      "current_price": NaN,
-      "score": 60,
+      "current_price": 263.989990234375,
+      "score": 65,
       "category": "watch"
     },
     {
@@ -94,138 +94,162 @@
       "company": "GitLab Inc.",
       "total_value": 124802,
       "buys_count": 1,
-      "current_price": NaN,
-      "score": 65,
-      "category": "watch"
+      "current_price": 56.650001525878906,
+      "score": 70,
+      "category": "strong"
     }
   ],
   "top_gainers": [
     {
-      "ticker": "META",
-      "company": "Meta Platforms, Inc.",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "ZS",
+      "company": "Zscaler, Inc.",
+      "chg_1w": 21.42,
+      "price": 260.45001220703125
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon.com, Inc.",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "PANW",
+      "company": "Palo Alto Networks, Inc.",
+      "chg_1w": 14.75,
+      "price": 390.4599914550781
     },
     {
-      "ticker": "GOOGL",
-      "company": "Alphabet Inc.",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "NET",
+      "company": "Cloudflare, Inc.",
+      "chg_1w": 13.77,
+      "price": 331.8599853515625
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "ESTC",
+      "company": "Elastic N.V.",
+      "chg_1w": 11.15,
+      "price": 106.29000091552734
     },
     {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "DDOG",
+      "company": "Datadog, Inc.",
+      "chg_1w": 9.29,
+      "price": 280.239990234375
     }
   ],
   "top_losers": [
     {
-      "ticker": "META",
-      "company": "Meta Platforms, Inc.",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "DASH",
+      "company": "DoorDash, Inc.",
+      "chg_1w": -12.12,
+      "price": 168.44000244140625
     },
     {
-      "ticker": "AMZN",
-      "company": "Amazon.com, Inc.",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "chg_1w": -11.05,
+      "price": 138.4499969482422
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "chg_1w": -9.17,
+      "price": 630.5599975585938
     },
     {
       "ticker": "GOOGL",
       "company": "Alphabet Inc.",
-      "chg_1w": NaN,
-      "price": NaN
+      "chg_1w": -6.9,
+      "price": 316.79998779296875
     },
     {
-      "ticker": "MSFT",
-      "company": "Microsoft Corporation",
-      "chg_1w": NaN,
-      "price": NaN
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corporation",
-      "chg_1w": NaN,
-      "price": NaN
+      "ticker": "COIN",
+      "company": "Coinbase Global, Inc.",
+      "chg_1w": -6.58,
+      "price": 159.60000610351562
     }
   ],
-  "volume_spikes": [],
+  "volume_spikes": [
+    {
+      "ticker": "NWBI",
+      "company": "Northwest Bancshares, Inc.",
+      "vol_ratio": 2.88,
+      "price": 15.529999732971191
+    },
+    {
+      "ticker": "DASH",
+      "company": "DoorDash, Inc.",
+      "vol_ratio": 2.29,
+      "price": 168.44000244140625
+    },
+    {
+      "ticker": "RDDT",
+      "company": "Reddit, Inc.",
+      "vol_ratio": 1.85,
+      "price": 138.4499969482422
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms, Inc.",
+      "vol_ratio": 1.59,
+      "price": 630.5599975585938
+    }
+  ],
   "categories": {
     "strong": [
-      "CRM",
-      "UPST",
-      "CVNA",
-      "ASTS",
-      "MTDR"
-    ],
-    "watch": [
       "META",
       "AMZN",
       "GOOGL",
       "MSFT",
       "NVDA",
-      "AAPL",
       "BRK-B",
+      "CRM",
       "NOW",
       "ADBE",
       "SNOW",
       "DDOG",
       "NET",
       "MDB",
-      "ZS",
       "PANW",
       "FTNT",
       "WDAY",
-      "HUBS",
       "ESTC",
       "GTLB",
       "SOFI",
       "HOOD",
-      "PYPL",
       "AFRM",
+      "UPST",
       "RDDT",
       "PLTR",
       "CELH",
+      "CVNA",
       "RKLB",
+      "ASTS",
       "IONQ",
       "CRSP",
-      "RBLX",
-      "TTD",
-      "SNAP",
       "DASH",
       "LLY",
-      "JNJ",
-      "ABBV",
-      "HIMS",
+      "MTDR",
       "XOM",
       "CVX",
       "COP",
-      "JPM",
       "NWBI",
       "DGICA"
     ],
-    "neutral": [
+    "watch": [
+      "AAPL",
       "TSLA",
+      "ZS",
+      "HUBS",
       "COIN",
       "MSTR",
+      "PYPL",
       "RXRX",
       "SDGR",
       "DKNG",
-      "UNH"
-    ]
+      "RBLX",
+      "TTD",
+      "SNAP",
+      "UNH",
+      "JNJ",
+      "ABBV",
+      "HIMS",
+      "JPM"
+    ],
+    "neutral": []
   }
 }
